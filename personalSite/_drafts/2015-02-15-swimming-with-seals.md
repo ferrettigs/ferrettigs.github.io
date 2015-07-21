@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  "Swimming with Seals"
+title:  ""
 date:   2015-02-15 6:10:04 PM
-categories: fun
+categories: publications
 ---
 
-This post would describe my last swim at Hopkins Marine Station. It is not frequent to swim with seals around. It is less frequent to interact with them.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+[Stanford News] http://news.stanford.edu/news/2015/july/shark-attack-risk-070815.html
 
 {% highlight ruby %}
 def print_hi(name)

@@ -56,7 +56,7 @@ Journal articles and book chapters
 [**For the public:**](assets/MedSharksMediaCoverage.html) <br> 		
 [<img src="/assets/wapo-logo2.png" height = "73" style = "border-radius: 15px" alt="WPlogo">](http://www.washingtonpost.com/wp-dyn/content/article/2008/06/29/AR2008062901783.html)
 [<img src="/assets/NYTtwitterLogo.png" height = "73" alt="NYTlogo" style = "border-radius: 15px">](http://dotearth.blogs.nytimes.com/2008/06/11/emptied-mediterranean-sharks-nearly-gone/?_r=0)
-[<img src="/assets/leMondeTwitterlogo.png" height = "73" style = "border-radius: 15px" alt="leMondelogo">](http://www.lemonde.fr/planete/article/2008/06/13/les-requins-de-la-mediterranee-sont-en-voie-d-extinction-rapide_1057699_3244.html#meter_toaster)
+[<img src="/assets/leMondeTwitterLogo.png" height = "73" style = "border-radius: 15px" alt="leMondelogo">](http://www.lemonde.fr/planete/article/2008/06/13/les-requins-de-la-mediterranee-sont-en-voie-d-extinction-rapide_1057699_3244.html#meter_toaster)
 [<img src="/assets/theGuardianTwitterLogo.png" height = "73" style = "border-radius: 15px" alt="guardian-logo">](http://www.theguardian.com/environment/2008/jun/12/wildlife.endangeredspecies)
 [<img src="/assets/BBC_News.svg.png" height = "73" style = "border-radius: 15px" alt="BBC News">](http://news.bbc.co.uk/2/hi/science/nature/7446112.stm)
 [<img src="/assets/The-Times-logo.jpg" height = "73"  style = "border-radius: 15px" alt="The Times">](http://www.thetimes.co.uk/tto/environment/article2143881.ece)

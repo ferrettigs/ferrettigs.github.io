@@ -37,10 +37,16 @@ Journal articles and book chapters
 -	Micheli, F., B. S. Halpern, S. Walbridge, S. Ciriaco, **F. Ferretti**, S. Fraschetti, R. Lewison, L. Njakaer, and A. Rosenberg. 2013 Cumulative human impacts on Mediterranean and Black Sea marine ecosystems: assessing current pressures and opportunities. __*PLoS ONE*__, 8(12): e79889. doi:10.1371/journal.pone.0079889 [View publication](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079889)
 -	**Ferretti, F.**, C. G. Osio, C. Jenkins, A. A. Rosenberg, & H. K. Lotze. 2013. Long-term ecological change in a meso-predator community in response to prolonged human disturbance. __*Nature Scientific Reports*__, 3(1057): doi:10.1038/srep01057. [View publication](http://www.nature.com/articles/srep01057)<br>
 **For the public**:<br>
+[<img src="/assets/NPGtwitterLogo.jpg" height = "73" alt="NPG" style = "border-radius: 15px">](http://www.natureasia.com/en/research/highlight/2026)
+[<img src="/assets/EUCtwitterLogo.jpeg" height = "73" alt="EUC" style = "border-radius: 15px">](https://ec.europa.eu/jrc/en/news/fishing-drives-loss-shark-and-ray-populations-adriatic-sea-9717)
 [<img src="/assets/derStandardTwitterLogo.png" height = "73" alt="der Standard" style = "border-radius: 15px">](http://derstandard.at/1356427683747/Haie-und-Rochen-aus-der-Adria-verdraengt)
 [<img src="/assets/spektrumTwitterLogo.png" height = "73" alt="spektrum.de" style = "border-radius: 15px">](http://www.spektrum.de/news/jaeger-im-visier/1205276)
--	Sala, E., Ballesteros, E., Dendrinos, P., Di Franco, A., **Ferretti, F.** et al. 2012. The structure of Mediterranean rocky reef  ecosystems across environmental and human gradients, and conservation implications. __*PloS ONE*__, 7(2): e32742. doi:10.1371/journal.pone.0032742
--	McClenachan, L., **Ferretti, F.**, & Baum, J. 2012. From archives to conservation: why historical data are needed to set baselines for marine animals and ecosystems. __*Conservation Letters*__, 5(5): 349-359.
+-	Sala, E., Ballesteros, E., Dendrinos, P., Di Franco, A., **Ferretti, F.** et al. 2012. The structure of Mediterranean rocky reef  ecosystems across environmental and human gradients, and conservation implications. __*PloS ONE*__, 7(2): e32742. doi:10.1371/journal.pone.0032742 [View publication](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032742)<br>
+**For the public**:<br>
+[<img src="/assets/NGTwitterLogo.jpg" alt="Nat Geo logo" style = "border-radius: 15px">](http://press.nationalgeographic.com/2012/03/01/overfishing-leaves-mediterranean-barren/)
+-	McClenachan, L., **Ferretti, F.**, & Baum, J. 2012. From archives to conservation: why historical data are needed to set baselines for marine animals and ecosystems. __*Conservation Letters*__, 5(5): 349-359. [View publication](http://onlinelibrary.wiley.com/doi/10.1111/j.1755-263X.2012.00253.x/abstract)<br>
+**For the public**:<br>
+[<img src="/assets/F1000twitterLogo.png" height = "73" alt="F1000" style = "border-radius: 15px">](http://f1000.com/prime/717949924)
 -	**Ferretti, F.** In press. Sharks in the Mediterranean Sea: an example of using meta-analysis to infer trends in population abundance in data poor situations. In: Practical Guidebook for the Implementation of the Ecosystem Approach to Fisheries (EAF) in the Mediterranean. WWF Mediterranean Program, Barcelona, Spain.
 -	Anderson, S.C, R. G. Farmer, F. Ferretti, A. L. Houde & J. A. Hutchings. 2011. Correlates of Vertebrate Extinction Risk in Canada. __*BioScience*__, 61: 538-549.
 -	**Ferretti, F.** 2011. Peer review report of shark mitigation as a tool for conservation of the Hawaiian Monk Seal. Independent Peer Review Completed for the Center for Independent Experts (CIE)

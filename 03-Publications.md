@@ -12,7 +12,7 @@ Publications
 Journal articles and book chapters
 -----------------------------------
 
-- **Ferretti F.**, Salvador Jorgensen, Taylor Chapple, Giulio De Leo and Fiorenza Micheli. Reconciling predator conservation with public safety. 2015. __*Frontiers in Ecology and the Environment*__. In Press.<br> 
+- **Ferretti F.**, Jorgensen, S., Chapple, T., De Leo, G. and Micheli, F. Reconciling predator conservation with public safety. 2015. __*Frontiers in Ecology and the Environment*__. In Press.<br> 
 [**For the public:**](assets/ReconcilingPredatorsMediaCoverage.html)<br> 
 [<img src="/assets/wapo-logo2.png" height = "73" style = "border-radius: 15px" alt="WPlogo">](http://www.washingtonpost.com/news/energy-environment/wp/2015/07/09/good-news-for-california-beachgoers-the-risk-of-a-shark-attack-has-been-declining-for-decades/)
 [<img src="/assets/NYTtwitterLogo.png" height = "73" alt="NYTlogo" style = "border-radius: 15px">](http://www.nytimes.com/aponline/2015/07/10/science/ap-sci-shark-attacks-study.html)
@@ -23,6 +23,7 @@ Journal articles and book chapters
 [<img src="/assets/SNtwitterLogo.png" alt="Scientific American" height = "73" style = "border-radius: 15px">](http://www.scientificamerican.com/article/shark-bites-are-up-but-attack-risk-is-down/)
 [<img src="/assets/SUtwitterLogo.png" alt="Stanford News" height = "73" style = "border-radius: 15px">](http://news.stanford.edu/news/2015/july/shark-attack-risk-070815.html)
 [<img src="/assets/scienceNewsTwitterLogo.jpeg" alt="Stanford News" height = "73" style = "border-radius: 15px">](http://news.sciencemag.org/plants-animals/2015/07/shark-attacks-it-safe-go-back-water)
+<br>
 - Campana, S. and **Ferretti, F.** Chapter 40. Sharks and other elasmobranchs. In: __*World Ocean Assessment*__. United Nations. In Press.
 -	**Ferretti, F.**, Morey, G., Seret, B., Sprem, J.S. & Micheli, F. Falling through the cracks: the fading history of a large iconic predator. __*Fish and Fisheries*__. DOI: 10.1111/faf.12108 [View Publication.](http://onlinelibrary.wiley.com/doi/10.1111/faf.12108/abstract) <br>
 **For the Public:**<br>
@@ -32,9 +33,12 @@ Journal articles and book chapters
 **For the public:**<br>
 [<img src="/assets/lenfestTwitterLogo.png" height = "73" alt="Lenfest logo" style = "border-radius: 15px">](http://www.lenfestocean.org/en/publications/fact-sheet/loss-of-predators-can-destabilize-marine-communities) 
 -	**Ferretti, F.**, Crowder, L. & Micheli, F. 2014. Using Disparate Datasets to Reconstruct Historical Baselines of Animal Populations, in: __*Marine Historical Ecology in Conservation*__: Applying the Past to Manage for the Future. (Kitinger, Gedan, Blight and McClenachan eds). University of California Press. [View Publication.](http://www.ucpress.edu/book.php?isbn=9780520276949)
--	**Ferretti, F.** 2014. Geographical distribution and status. 7.2.1 Mediterranean Sea. In __*Sawfish: A Global Strategy for Conservation*__, Harrison LH, Dulvy NK (eds). IUCN Shark Specialist Group: Vancouver, Canada; 50-51.
+-	**Ferretti, F.** 2014. Geographical distribution and status. 7.2.1 Mediterranean Sea. In __*Sawfish: A Global Strategy for Conservation*__, Harrison LH, Dulvy NK (eds). IUCN Shark Specialist Group: Vancouver, Canada; 50-51. [View publication](assets/Ferretti.solo.2014.pdf)
 -	Micheli, F., B. S. Halpern, S. Walbridge, S. Ciriaco, **F. Ferretti**, S. Fraschetti, R. Lewison, L. Njakaer, and A. Rosenberg. 2013 Cumulative human impacts on Mediterranean and Black Sea marine ecosystems: assessing current pressures and opportunities. __*PLoS ONE*__, 8(12): e79889. doi:10.1371/journal.pone.0079889 [View publication](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079889)
--	**Ferretti, F.**, C. G. Osio, C. Jenkins, A. A. Rosenberg, & H. K. Lotze. 2013. Long-term ecological change in a meso-predator community in response to prolonged human disturbance. __*Nature Scientific Reports*__, 3(1057): doi:10.1038/srep01057.
+-	**Ferretti, F.**, C. G. Osio, C. Jenkins, A. A. Rosenberg, & H. K. Lotze. 2013. Long-term ecological change in a meso-predator community in response to prolonged human disturbance. __*Nature Scientific Reports*__, 3(1057): doi:10.1038/srep01057. [View publication](http://www.nature.com/articles/srep01057)<br>
+**For the public**:<br>
+[<img src="/assets/derStandardTwitterLogo.png" height = "73" alt="der Standard" style = "border-radius: 15px">](http://derstandard.at/1356427683747/Haie-und-Rochen-aus-der-Adria-verdraengt)
+[<img src="/assets/spektrumTwitterLogo.png" height = "73" alt="spektrum.de" style = "border-radius: 15px">](http://www.spektrum.de/news/jaeger-im-visier/1205276)
 -	Sala, E., Ballesteros, E., Dendrinos, P., Di Franco, A., **Ferretti, F.** et al. 2012. The structure of Mediterranean rocky reef  ecosystems across environmental and human gradients, and conservation implications. __*PloS ONE*__, 7(2): e32742. doi:10.1371/journal.pone.0032742
 -	McClenachan, L., **Ferretti, F.**, & Baum, J. 2012. From archives to conservation: why historical data are needed to set baselines for marine animals and ecosystems. __*Conservation Letters*__, 5(5): 349-359.
 -	**Ferretti, F.** In press. Sharks in the Mediterranean Sea: an example of using meta-analysis to infer trends in population abundance in data poor situations. In: Practical Guidebook for the Implementation of the Ecosystem Approach to Fisheries (EAF) in the Mediterranean. WWF Mediterranean Program, Barcelona, Spain.

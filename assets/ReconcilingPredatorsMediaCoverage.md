@@ -1,7 +1,7 @@
 ---
 author: "Francesco Ferretti"
 date: "July 11, 2015"
-output: html_document
+layout: default
 ---
 
 

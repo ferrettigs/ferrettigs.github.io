@@ -49,7 +49,6 @@ Journal articles and book chapters
 [<img src="/assets/F1000twitterLogo.png" height = "73" alt="F1000" style = "border-radius: 15px">](http://f1000.com/prime/717949924)
 -	**Ferretti, F.** In press. Sharks in the Mediterranean Sea: an example of using meta-analysis to infer trends in population abundance in data poor situations. In: Practical Guidebook for the Implementation of the Ecosystem Approach to Fisheries (EAF) in the Mediterranean. WWF Mediterranean Program, Barcelona, Spain.
 -	Anderson, S.C, R. G. Farmer, F. Ferretti, A. L. Houde & J. A. Hutchings. 2011. Correlates of Vertebrate Extinction Risk in Canada. __*BioScience*__, 61: 538-549.
--	**Ferretti, F.** 2011. Peer review report of shark mitigation as a tool for conservation of the Hawaiian Monk Seal. Independent Peer Review Completed for the Center for Independent Experts (CIE)
 -	**Ferretti, F.**, B. Worm, G. Britten, M. Heithaus and H. Lotze. 2010. Patterns of shark decline and ecosystem consequences in the ocean. __*Ecology Letters*__, 13: 1055-1071.
 -	Romeo T., **F. Ferretti**, P. Consoli and F. Andaloro. 2009. Assessment of the Mediterranean swordfish based on the Italian harpoon fishery data. __*ICES CM*__ 2008/K:16, 1-14. 
  - **Ferretti, F.**, R.A. Myers, F. Serena and H.K. Lotze. 2008. Loss of large predatory sharks from the Mediteranean Sea. __*Conservation Biology*__, 22(4): 952-964.[View Publication](http://onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.2008.00938.x/abstract)<br>
@@ -64,7 +63,7 @@ Journal articles and book chapters
 [<img src="/assets/HPtwitterLogo.png" height = "73" style = "border-radius: 15px" alt="Huffington Post">](http://www.huffingtonpost.com/2008/06/12/sharks-disappearing-from_n_106696.html)
 
 -	Serena F. et al. 2008. Field identification guide to the Rays of the Mediterranean Sea. Guidelines for data collection and analysis. Societa' Italiana di Biologia Marina, comitato nekton e pesca, Gruppo Nazionale Risorse Demersali, Mediterranean Trawl Surveys. Livorno, Italy, (in Italian).
--	**Ferretti, F.** and R.A. Myers. 2006. By-Catch of sharks in the Mediterranean Sea: available mitigation tools. In: __*Proceedings of the Workshop on the Mediterranean Cartilaginous Fish with emphasis on Southern and Eastern Mediterranean*__, Istanbul, Turkey. 158-169 (peer reviewed).
+-	**Ferretti, F.** and R.A. Myers. 2006. By-Catch of sharks in the Mediterranean Sea: available mitigation tools. In: __*Proceedings of the Workshop on the Mediterranean Cartilaginous Fish with emphasis on Southern and Eastern Mediterranean*__, Istanbul, Turkey. 158-169.
 -	**Ferretti, F.**, R.A. Myers, P. Sartor and F. Serena. 2005. Long Term Dynamics of the Chondrichthyan Fish Community in the Upper Tyrrhenian Sea. __*ICES CM*__ 2005/N:25, 1-25.
 
 Technical reports, theses and consultancy works

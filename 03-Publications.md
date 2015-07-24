@@ -79,17 +79,18 @@ Technical reports, theses and consultancy works
 Policy and Public Outreach
 --------------------------
 
-- Daly, L. and **Ferretti, F**. **2013**. How large-scale protection zones could benefit sharks and rays in the Mediterranean. **Shark Focus** 46: 14-15.
-- Lenfest Ocean Program. **2010**. Global consequences of shark declines. **Lenfest Ocean Program Research Series**. Washington DC.
+- Britten, G. L., Dowd, M., Minto, C., **Ferretti, F.**, Boero, F. & Lotze, H. K. 2014. Loss of Predators Can Destabilize Marine Communities. **Lenfest Ocean Program Fact Sheet**. Washington DC. [View publication](http://www.lenfestocean.org/en/publications/fact-sheet/loss-of-predators-can-destabilize-marine-communities)
+- Daly, L. and **Ferretti, F**. **2013**. How large-scale protection zones could benefit sharks and rays in the Mediterranean. **Shark Focus** 46: 14-15. [View publication](assets/Daly.Ferretti.2013.pdf)
+- **Ferretti, F.**, B. Worm, G. Britten, M. Heithaus and H. Lotze. **2010**. Global consequences of shark declines. **Lenfest Ocean Program Research Series**. Washington DC.
 - Romeo, T., Consoli, P., Andaloro, F, & **Ferretti, F**. 2012. Pesca antica di pescespada e tonno nello Stretto di Messina. **Uomo e Natura.** 2(11) 39-45.
-- Rosetti, A. & **Ferretti, F**. **2009**. Gli Squali non fanno paura. **Slow Food**. 39: 70-74
-- Lenfest Ocean Program. **2008**. Shark declines in the Mediterranean Sea. **Lenfest Ocean Program Research Series**. Washington DC.
+- Rosetti, A. & **Ferretti, F**. **2009**. Gli Squali non fanno paura. **Slow Food**. 39: 70-74 [View publication](assets/Gli_squali_no_paura.pdf)
+- **Ferretti, F.**, R.A. Myers, F. Serena and H.K. Lotze. **2008**. Shark declines in the Mediterranean Sea. **Lenfest Ocean Program Research Series**. Washington DC.
 
 Software
 ---------
 
-- Lopez, A., Sandoval, E. and **Ferretti, F.** 2015. [SharkPulse 2.02 application software for iOS.](https://itunes.apple.com/us/app/sharkpulse-v1.1/id673243556?mt=8) 
-- De Anda, B, Diaz, D. and **Ferretti, F.** 2015. [SharkPulse 2.0 application software for Android OS.](https://play.google.com/store/apps/details?id=edu.stanford.baseline.sharkpulse2&hl=en)
+- **Ferretti, F.**, Lopez, A., and Sandoval, E. 2015. [SharkPulse 2.02 application software for iOS.](https://itunes.apple.com/us/app/sharkpulse-v1.1/id673243556?mt=8) 
+- **Ferretti, F.**, De Anda, B, and Diaz, D. 2015. [SharkPulse 2.0 application software for Android OS.](https://play.google.com/store/apps/details?id=edu.stanford.baseline.sharkpulse2&hl=en)
 - **Ferretti, F.** and Mazzilli, E. 2013. [SharkPulse 1.1. Mobile application software for Android OS.](https://play.google.com/store/apps/details?id=edu.stanford.baseline.sharkpulse)
 - **Ferretti, F.** and Alvarez, A. 2013. [SharkPulse v1.1. Mobile application software for iOS (iPhone).](https://itunes.apple.com/us/app/sharkpulse-v1.1/id673243556?mt=8)
 

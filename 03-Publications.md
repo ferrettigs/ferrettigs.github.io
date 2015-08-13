@@ -12,7 +12,7 @@ Publications
 Journal articles and book chapters
 -----------------------------------
 
-- **Ferretti F.**, Jorgensen, S., Chapple, T., De Leo, G. and Micheli, F. Reconciling predator conservation with public safety. 2015. __*Frontiers in Ecology and the Environment*__. In Press.<br> 
+- **Ferretti F.**, Jorgensen, S., Chapple, T., De Leo, G. and Micheli, F. Reconciling predator conservation with public safety. 2015. __*Frontiers in Ecology and the Environment*__. doi:10.1890/150109 [View Publication](Ferretti.etal.2015Frontiers.pdf)<br> 
 [**For the public:**](assets/ReconcilingPredatorsMediaCoverage.html)<br> 
 [<img src="/assets/wapo-logo2.png" height = "73" style = "border-radius: 15px" alt="WPlogo">](http://www.washingtonpost.com/news/energy-environment/wp/2015/07/09/good-news-for-california-beachgoers-the-risk-of-a-shark-attack-has-been-declining-for-decades/)
 [<img src="/assets/NYTtwitterLogo.png" height = "73" alt="NYTlogo" style = "border-radius: 15px">](http://www.nytimes.com/aponline/2015/07/10/science/ap-sci-shark-attacks-study.html)

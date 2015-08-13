@@ -8,7 +8,7 @@ The Shark Baselines Project
 
 <img src="/assets/sharkBaselines.png" alt="my image" width="700" align="center"> 
 
-The [Shark Baselines Project]("http://baseline.stanford.edu") aims to investigate the structure and population abundance of large sharks in natural ecosystems and to infer global change in their abundance as an effect of human perturbation.
+The [Shark Baselines Project](http://baseline.stanford.edu) aims to investigate the structure and population abundance of large sharks in natural ecosystems and to infer global change in their abundance as an effect of human perturbation.
 
 Shark Pulse
 -----------

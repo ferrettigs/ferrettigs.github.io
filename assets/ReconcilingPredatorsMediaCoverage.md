@@ -46,7 +46,7 @@ layout: default
 - **Summit County Voice** *by Bob Berwyn*: [Better info, more public awareness is the key to reducing shark attacks, researchers say](http://summitcountyvoice.com/2015/07/11/better-info-more-public-awareness-is-the-key-to-reducing-shark-attacks-researchers-say/)
 - **Times-Standard News** *by Lisa M. Krieger and Tabitha Soden, San Jose Mercury News and the Times-Standard* [Rate of shark attacks declining in California](http://www.times-standard.com/general-news/20150710/rate-of-shark-attacks-declining-in-california)
 - **Uncover Michigan** *by Carol Bailey*: [Shark attack rates slip 90% since 1950s: researchers say](http://uncovermichigan.com/content/24881-shark-attack-rates-slip-90-1950s-researchers-say)
-- **Independent Online (South Africa)** *by Tony Carnie*: [Night time is shark time](http://beta.iol.co.za/scitech/science/environment/night-time-is-shark-time-1884825)
+- **Independent Online (South Africa) ** *by Tony Carnie*: [Night time is shark time](http://beta.iol.co.za/scitech/science/environment/night-time-is-shark-time-1884825)
 ### Radio Interviews
 
 - **Defender Radio** *by Michael Howie*: [EPISODE 234: AFTER BITE](http://furbearerdefenders.com/blog/episode-234-after-bite)

@@ -22,3 +22,7 @@ for (i in 1:length(dat)){
 	newspaper[i] = sub(".+ - ","",meta(dat[[i]])$heading)
 	titolo[i] = sub(" - .+","",meta(dat[[i]])$heading)
 }
+
+cbind(newspaper, titolo, urlAddress)
+
+# it works but returns only up to 100 articles and many are irrelevant

@@ -25,6 +25,7 @@ Newspapers
 - The Seattle times
 - The Gulf news
 - The Los Angeles Times
+- Foreign Policy by Juliet Eilperin [Man Bites Shark](http://foreignpolicy.com/2011/07/29/man-bites-shark/)
 
 ### Italy
 

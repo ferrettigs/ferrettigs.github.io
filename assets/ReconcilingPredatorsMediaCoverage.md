@@ -65,6 +65,7 @@ layout: default
 - **Summit County Voice** *by Bob Berwyn*: [Better info, more public awareness is the key to reducing shark attacks, researchers say](http://summitcountyvoice.com/2015/07/11/better-info-more-public-awareness-is-the-key-to-reducing-shark-attacks-researchers-say/)
 - **The Inertia** *by Alexander Haro*: [Stop F*cking Panicking: Stanford Study Finds Risk of Shark Attack Down by 91%](http://www.theinertia.com/surf/stop-fcking-panicking-stanford-study-finds-risk-of-shark-attack-down-by-91/)
 - **Times-Standard News** *by Lisa M. Krieger and Tabitha Soden, San Jose Mercury News and the Times-Standard* [Rate of shark attacks declining in California](http://www.times-standard.com/general-news/20150710/rate-of-shark-attacks-declining-in-california)
+- **The Columbian**: [California shark attack rates plunge 90%](http://www.columbian.com/news/2015/jul/10/california-shark-attack-rates-plunge-90/)
 - **The Zoological**: [It's never been safer to go back in the water](http://www.thezoological.com/blog/2015/7/11/its-safe-to-go-back-in-the-water)
 - **Uncover Michigan** *by Carol Bailey*: [Shark attack rates slip 90% since 1950s: researchers say](http://uncovermichigan.com/content/24881-shark-attack-rates-slip-90-1950s-researchers-say)
 - **Washington Times** *by Christopher Weber*: [California shark attack rates plunge 90 percent since 1950s](http://www.washingtontimes.com/news/2015/jul/9/california-shark-attack-rates-plunge-90-percent-si/)

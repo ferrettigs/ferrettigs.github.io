@@ -67,7 +67,8 @@ Journal articles and book chapters
 
 Technical reports, theses and consultancy works
 -----------------------------------------------
-
+- **Ferretti, F.**, Morey, G, Serena, F., Mancusi, C., Fowler, S.L., Dipper, F. & Ellis, J. 2015. *Squatina squatina*. The IUCN Red List of Threatened Species 2015: e.T39332A48933059. [View Publication](http://dx.doi.org/10.2305/IUCN.UK.2015-1.RLTS.T39332A48933059.en)
+- **Ferretti, F.**, Morey, G, Serena, F., Mancusi, C., Coelho, R.P., Seisay, M., Litvinov, F., and Buscher, E. 2015. *Squatina oculata*. The IUCN Red List of Threatened Species 2015: e.T61418A48957418. [View publication](http://www.iucnredlist.org/details/61418/1)
 - **Ferretti, F.** 2011. Peer review report of shark mitigation as a tool for conservation of the Hawaiian Monk Seal. **Independent Peer Review Completed for the Center for Independent Experts (CIE)** [View Publication](http://www.pifsc.noaa.gov/do/peer_reviews/shark_predation_mitigation_2011_12_comments_ferretti.pdf)
 - AA Rosenberg, F Micheli, E. Sala, G.C. Osio, **F. Ferretti**, P. Guidetti, S. Fraschetti, L. Mangialajo. 2011. Recovery Scenarios for the Northwestern Mediterranean Marine Ecosystem: motivating policy action on an ecosystem basis. **Oak Final Report**.
 - Sartor, P. et al. 2010. The 20th Century evolution of Mediterranean exploited demersal resources under increasing fishing disturbance and environmental change. **EVOMED. Joint tender n MARE/2008/11.** European Commission, Contract. N° SI2 5390 97. [View Publication](http://ec.europa.eu/fisheries/documentation/studies/study_evolution_mediterranean/index_en.htm)

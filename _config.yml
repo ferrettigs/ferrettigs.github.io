@@ -3,8 +3,8 @@ title: Francesco Ferretti
 email: ferretti@stanford.edu
 description: > # this means to ignore newlines until "baseurl:"
   Data Science for Marine Ecology and Conservation
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://baselines.stanford.edu" # the base hostname & protocol for your site
+baseurl: "/~ferretti"  # the subpath of your site, e.g. /blog/
+url: "http://web.stanford.edu" # the base hostname & protocol for your site
 twitter_username: bestinoblu
 github_username:  ferrettigs
 

@@ -6,10 +6,22 @@ title: Publications
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 
+<nav class="navigation">
+  <ul>
+    <li><a href="#journals">Journal Articles and Book Chapters</a></li><!--
+    --><li><a href="#reports">Technical Reports, Theses and Consultancy Works</a></li><!--
+    --><li><a href="#policy">Policy and Public Outreach</a></li><!--
+    --><li><a href="#software">Software</a></li>
+  </ul>
+</nav>
+
+
+
 Publications
 =============
+<a name="journals"></a>
 
-Journal articles and book chapters
+Journal Articles and Book Chapters
 -----------------------------------
 - Barreto, R., **Ferretti, F.**, Flemming, J., Amorim, A., Andrade, H., Worm, B., and Lessa, R. Trends in the exploitation of South Atlantic shark populations. __*Conservation Biology*__. Accepted.
 - Campana, S. and **Ferretti, F.** Chapter 40. 2015. Sharks and other elasmobranchs. In: __*World Ocean Assessment*__. United Nations. In Press.
@@ -65,7 +77,9 @@ Journal articles and book chapters
 -	**Ferretti, F.** and R.A. Myers. 2006. By-Catch of sharks in the Mediterranean Sea: available mitigation tools. In: __*Proceedings of the Workshop on the Mediterranean Cartilaginous Fish with emphasis on Southern and Eastern Mediterranean*__, Istanbul, Turkey. 158-169. [View Publication](Basusta.etal.2006.pdf)
 -	**Ferretti, F.**, R.A. Myers, P. Sartor and F. Serena. 2005. Long Term Dynamics of the Chondrichthyan Fish Community in the Upper Tyrrhenian Sea. __*ICES CM*__ 2005/N:25, 1-25. [View Publication](http://www.ices.dk/sites/pub/CM%20Doccuments/2005/N/N2505.pdf)
 
-Technical reports, theses and consultancy works
+<a name="reports"></a>
+
+Technical Reports, Theses and Consultancy Works
 -----------------------------------------------
 
 - Ellis, J., **Ferretti, F.**, Soldo, A. & Walls, R. 2015. *Alopias vulpinus*. **The IUCN Red List of Threatened Species 2015**: e.T39339A48936583 [View Publication](http://www.iucnredlist.org/details/39339/1)
@@ -87,6 +101,8 @@ Technical reports, theses and consultancy works
 - Notarbartolo di Sciara, G., Serena, F., Ungaro, N., **Ferretti, F.**, Holtzhausen, H.A. and Smale, M.J. 2009. *Tetronarce nobiliana*. **The IUCN Red List of Threatened Species 2009**: e.T161580A5456479. [View Publication](http://dx.doi.org/10.2305/IUCN.UK.2009-2.RLTS.T161580A5456479.en)
 - **Ferretti F.** 2003. Comportamento alimentare di Chimaera monstrosa nei fondi batiali Liguri. **Laurea Thesis**. Polytechnic University of Marche, Ancona, Italy (in Italian).
 
+<a name="policy"></a>
+
 Policy and Public Outreach
 --------------------------
 
@@ -96,6 +112,8 @@ Policy and Public Outreach
 - Romeo, T., Consoli, P., Andaloro, F, and **Ferretti, F**. 2012. Pesca antica di pescespada e tonno nello Stretto di Messina. **Uomo e Natura.** 2(11) 39-45.
 - Rosetti, A. and **Ferretti, F**. **2009**. Gli Squali non fanno paura. **Slow Food**. 39: 70-74 [View publication](assets/Gli_squali_no_paura.pdf)
 - **Ferretti, F.**, R.A. Myers, F. Serena and H.K. Lotze. **2008**. Shark declines in the Mediterranean Sea. **Lenfest Ocean Program Research Series**. Washington DC.[View Publication](http://www.lenfestocean.org/en/publications/fact-sheet/shark-declines-in-the-mediterranean-sea) - [Français](http://www.lenfestocean.org/fr/publications/fact-sheet/shark-declines-in-the-mediterranean-sea) - [Italiano](http://www.lenfestocean.org/it/publications/fact-sheet/shark-declines-in-the-mediterranean-sea) - [Deutsche](http://www.lenfestocean.org/de/publications/fact-sheet/shark-declines-in-the-mediterranean-sea) - [Español](http://www.lenfestocean.org/es/publications/fact-sheet/shark-declines-in-the-mediterranean-sea)
+
+<a name="software"></a>
 
 Software
 ---------

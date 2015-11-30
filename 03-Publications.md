@@ -23,10 +23,16 @@ Publications
 
 Journal Articles and Book Chapters
 -----------------------------------
-- Barreto, R., **Ferretti, F.**, Flemming, J., Amorim, A., Andrade, H., Worm, B., and Lessa, R. Trends in the exploitation of South Atlantic shark populations. __*Conservation Biology*__. Accepted.
-- Campana, S. and **Ferretti, F.** Chapter 40. 2015. Sharks and other elasmobranchs. In: __*World Ocean Assessment*__. United Nations. In Press.
-- **Ferretti F.**, Jorgensen, S., Chapple, T., De Leo, G. and Micheli, F. Reconciling predator conservation with public safety. 2015. __*Frontiers in Ecology and the Environment*__. doi:10.1890/150109 [View Publication](Ferretti.etal.2015Frontiers.pdf)<br> 
-[**Media Coverage:**](assets/ReconcilingPredatorsMediaCoverage.html)<br> 
+Barreto, R., **Ferretti, F.**, Flemming, J., Amorim, A., Andrade, H., Worm, B., and Lessa, R. Trends in the exploitation of South Atlantic shark populations. __*Conservation Biology*__. Accepted.
+
+-----------------------------------
+Campana, S. and **Ferretti, F.** Chapter 40. 2015. Sharks and other elasmobranchs. In: __*World Ocean Assessment*__. United Nations. In Press.
+
+-----------------------------------
+**Ferretti F.**, Jorgensen, S., Chapple, T., De Leo, G. and Micheli, F. Reconciling predator conservation with public safety. 2015. __*Frontiers in Ecology and the Environment*__. doi:10.1890/150109 [View Publication](Ferretti.etal.2015Frontiers.pdf)<br>
+
+**Media Coverage and Public Outreach** ([full coverage](assets/ReconcilingPredatorsMediaCoverage.html))<br> 
+
 [<img src="assets/wapo-logo2.png" height = "73" style = "border-radius: 15px" alt="WPlogo">](http://www.washingtonpost.com/news/energy-environment/wp/2015/07/09/good-news-for-california-beachgoers-the-risk-of-a-shark-attack-has-been-declining-for-decades/)
 [<img src="assets/NYTtwitterLogo.png" height = "73" alt="NYTlogo" style = "border-radius: 15px">](http://www.nytimes.com/aponline/2015/07/10/science/ap-sci-shark-attacks-study.html)
 [<img src="assets/laTimesTwitterLogo.jpeg" alt="LA Times" height = "73" style = "border-radius: 15px">](http://www.latimes.com/science/sciencenow/la-sci-sn-shark-attacks-not-more-frequent-20150708-story.html)
@@ -37,33 +43,69 @@ Journal Articles and Book Chapters
 [<img src="assets/SUtwitterLogo.png" alt="Stanford News" height = "73" style = "border-radius: 15px">](http://news.stanford.edu/news/2015/july/shark-attack-risk-070815.html)
 [<img src="assets/scienceNewsTwitterLogo.jpeg" alt="Stanford News" height = "73" style = "border-radius: 15px">](http://news.sciencemag.org/plants-animals/2015/07/shark-attacks-it-safe-go-back-water)
 <br>
--	**Ferretti, F.**, Morey, G., Seret, B., Sprem, J.S. and Micheli, F. 2015. Falling through the cracks: the fading history of a large iconic predator. __*Fish and Fisheries*__. DOI: 10.1111/faf.12108 [View Publication.](http://onlinelibrary.wiley.com/doi/10.1111/faf.12108/abstract) <br>
-**Media Coverage:**<br>
+
+--------------------------------------------------------------
+**Ferretti, F.**, Morey, G., Seret, B., Sprem, J.S. and Micheli, F. 2015. Falling through the cracks: the fading history of a large iconic predator. __*Fish and Fisheries*__. DOI: 10.1111/faf.12108 [View Publication.](http://onlinelibrary.wiley.com/doi/10.1111/faf.12108/abstract) <br>
+
+**Media Coverage and Public Outreach**<br>
+
 [<img src="assets/NGTwitterLogo.jpg" alt="Nat Geo logo" style = "border-radius: 15px">](http://phenomena.nationalgeographic.com/2015/01/22/the-mediterraneans-missing-sawfishes/) [<img src="assets/woodsTwitterLogo.png" height = "73" alt="logoWoods">](https://woods.stanford.edu/news-events/news/falling-through-cracks-story-sawfish) 
--	Micheli F., De Leo, G., **Ferretti F.**, Hines, A. M., Honey, K. T, Kroeker K., Martone, R., McCauley D. J., O’Leary, J. K., Rosim D. F., Sokolow S. Stock A., Wood C. L. 2015. Ocean Health. In: __*Handbook of Ocean Resources and Management*__, T. Agardy, H. Smith, and J. L. Suarez de Vivero (eds.). In Press [View Publication](http://www.routledge.com/books/details/9780415531757/)
--	Britten, G. L., Dowd, M., Minto, C., **Ferretti, F.**, Boero, F. and Lotze, H. K. 2014. Predator decline leads to decreased stability in a coastal fish community. __*Ecology Letters*__, 17 (12): 1518-1525. [View publication](http://onlinelibrary.wiley.com/doi/10.1111/ele.12354/abstract)<br>
-**Media Coverage:**<br>
+
+------------------------------------------------
+Micheli F., De Leo, G., **Ferretti F.**, Hines, A. M., Honey, K. T, Kroeker K., Martone, R., McCauley D. J., O’Leary, J. K., Rosim D. F., Sokolow S. Stock A., Wood C. L. 2015. Ocean Health. In: __*Handbook of Ocean Resources and Management*__, T. Agardy, H. Smith, and J. L. Suarez de Vivero (eds.). In Press [View Publication](http://www.routledge.com/books/details/9780415531757/)
+
+-----------------------------------
+Britten, G. L., Dowd, M., Minto, C., **Ferretti, F.**, Boero, F. and Lotze, H. K. 2014. Predator decline leads to decreased stability in a coastal fish community. __*Ecology Letters*__, 17 (12): 1518-1525. [View publication](http://onlinelibrary.wiley.com/doi/10.1111/ele.12354/abstract)<br>
+**Media Coverage and Public Outreach**<br>
 [<img src="assets/lenfestTwitterLogo.png" height = "73" alt="Lenfest logo" style = "border-radius: 15px">](http://www.lenfestocean.org/en/publications/fact-sheet/loss-of-predators-can-destabilize-marine-communities) 
--	**Ferretti, F.**, Crowder, L. and Micheli, F. 2014. Using Disparate Datasets to Reconstruct Historical Baselines of Animal Populations, in: __*Marine Historical Ecology in Conservation*__: Applying the Past to Manage for the Future. (Kitinger, Gedan, Blight and McClenachan eds). University of California Press. [View Publication.](http://www.ucpress.edu/book.php?isbn=9780520276949)
--	**Ferretti, F.** 2014. Geographical distribution and status. 7.2.1 Mediterranean Sea. In __*Sawfish: A Global Strategy for Conservation*__, Harrison LH, Dulvy NK (eds). IUCN Shark Specialist Group: Vancouver, Canada; 50-51. [View publication](assets/Ferretti.solo.2014.pdf)
--	Micheli, F., B. S. Halpern, S. Walbridge, S. Ciriaco, **F. Ferretti**, S. Fraschetti, R. Lewison, L. Njakaer, and A. Rosenberg. 2013 Cumulative human impacts on Mediterranean and Black Sea marine ecosystems: assessing current pressures and opportunities. __*PLoS ONE*__, 8(12): e79889. doi:10.1371/journal.pone.0079889 [View publication](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079889)
--	**Ferretti, F.**, C. G. Osio, C. Jenkins, A. A. Rosenberg, and H. K. Lotze. 2013. Long-term ecological change in a meso-predator community in response to prolonged human disturbance. __*Nature Scientific Reports*__, 3(1057): doi:10.1038/srep01057. [View publication](http://www.nature.com/articles/srep01057)<br>
-**Media Coverage**:<br>
+
+--------------------------------------
+**Ferretti, F.**, Crowder, L. and Micheli, F. 2014. Using Disparate Datasets to Reconstruct Historical Baselines of Animal Populations, in: __*Marine Historical Ecology in Conservation*__: Applying the Past to Manage for the Future. (Kitinger, Gedan, Blight and McClenachan eds). University of California Press. [View Publication.](http://www.ucpress.edu/book.php?isbn=9780520276949)
+
+-----------------------------------------
+**Ferretti, F.** 2014. Geographical distribution and status. 7.2.1 Mediterranean Sea. In __*Sawfish: A Global Strategy for Conservation*__, Harrison LH, Dulvy NK (eds). IUCN Shark Specialist Group: Vancouver, Canada; 50-51. [View publication](assets/Ferretti.solo.2014.pdf)
+
+----
+Micheli, F., B. S. Halpern, S. Walbridge, S. Ciriaco, **F. Ferretti**, S. Fraschetti, R. Lewison, L. Njakaer, and A. Rosenberg. 2013 Cumulative human impacts on Mediterranean and Black Sea marine ecosystems: assessing current pressures and opportunities. __*PLoS ONE*__, 8(12): e79889. doi:10.1371/journal.pone.0079889 [View publication](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079889)
+
+----
+**Ferretti, F.**, C. G. Osio, C. Jenkins, A. A. Rosenberg, and H. K. Lotze. 2013. Long-term ecological change in a meso-predator community in response to prolonged human disturbance. __*Nature Scientific Reports*__, 3(1057): doi:10.1038/srep01057. [View publication](http://www.nature.com/articles/srep01057)<br>
+
+**Media Coverage and Public Outreach**<br>
+
 [<img src="assets/NPGtwitterLogo.jpg" height = "73" alt="NPG" style = "border-radius: 15px">](http://www.natureasia.com/en/research/highlight/2026)
 [<img src="assets/EUCtwitterLogo.jpeg" height = "73" alt="EUC" style = "border-radius: 15px">](https://ec.europa.eu/jrc/en/news/fishing-drives-loss-shark-and-ray-populations-adriatic-sea-9717)
 [<img src="assets/derStandardTwitterLogo.png" height = "73" alt="der Standard" style = "border-radius: 15px">](http://derstandard.at/1356427683747/Haie-und-Rochen-aus-der-Adria-verdraengt)
 [<img src="assets/spektrumTwitterLogo.png" height = "73" alt="spektrum.de" style = "border-radius: 15px">](http://www.spektrum.de/news/jaeger-im-visier/1205276)
--	Sala, E., Ballesteros, E., Dendrinos, P., Di Franco, A., **Ferretti, F.** et al. 2012. The structure of Mediterranean rocky reef  ecosystems across environmental and human gradients, and conservation implications. __*PloS ONE*__, 7(2): e32742. doi:10.1371/journal.pone.0032742 [View publication](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032742)<br>
-**Media Coverage**:<br>
+
+----
+Sala, E., Ballesteros, E., Dendrinos, P., Di Franco, A., **Ferretti, F.** et al. 2012. The structure of Mediterranean rocky reef  ecosystems across environmental and human gradients, and conservation implications. __*PloS ONE*__, 7(2): e32742. doi:10.1371/journal.pone.0032742 [View publication](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032742)<br>
+
+**Media Coverage and Public Outreach**<br>
+
 [<img src="assets/NGTwitterLogo.jpg" alt="Nat Geo logo" style = "border-radius: 15px">](http://press.nationalgeographic.com/2012/03/01/overfishing-leaves-mediterranean-barren/)
--	McClenachan, L., **Ferretti, F.**, and Baum, J. 2012. From archives to conservation: why historical data are needed to set baselines for marine animals and ecosystems. __*Conservation Letters*__, 5(5): 349-359. [View publication](http://onlinelibrary.wiley.com/doi/10.1111/j.1755-263X.2012.00253.x/abstract)<br>
-**Media Coverage**:<br>
+
+----
+McClenachan, L., **Ferretti, F.**, and Baum, J. 2012. From archives to conservation: why historical data are needed to set baselines for marine animals and ecosystems. __*Conservation Letters*__, 5(5): 349-359. [View publication](http://onlinelibrary.wiley.com/doi/10.1111/j.1755-263X.2012.00253.x/abstract)<br>
+
+**Media Coverage and Public Outreach**<br>
+
 [<img src="assets/F1000twitterLogo.png" height = "73" alt="F1000" style = "border-radius: 15px">](http://f1000.com/prime/717949924)
--	Anderson, S.C, R. G. Farmer, **F. Ferretti**, A. L. Houde and J. A. Hutchings. 2011. Correlates of Vertebrate Extinction Risk in Canada. __*BioScience*__, 61: 538-549. [View Publication](Anderson.etal.2011.pdf)
--	**Ferretti, F.**, B. Worm, G. Britten, M. Heithaus and H. Lotze. 2010. Patterns of shark decline and ecosystem consequences in the ocean. __*Ecology Letters*__, 13: 1055-1071. [View Publication](http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2010.01489.x/abstract)
--	Romeo T., **F. Ferretti**, P. Consoli and F. Andaloro. 2009. Assessment of the Mediterranean swordfish based on the Italian harpoon fishery data. __*ICES CM*__ 2008/K:16, 1-14. [View Publication](http://www.ices.dk/sites/pub/CM%20Doccuments/CM-2008/K/K1608.pdf) 
- - **Ferretti, F.**, R.A. Myers, F. Serena and H.K. Lotze. 2008. Loss of large predatory sharks from the Mediteranean Sea. __*Conservation Biology*__, 22(4): 952-964.[View Publication](Ferretti.etal.2008.pdf)<br>
-[**Media Coverage:**](assets/MedSharksMediaCoverage.html) <br> 		
+
+----
+Anderson, S.C, R. G. Farmer, **F. Ferretti**, A. L. Houde and J. A. Hutchings. 2011. Correlates of Vertebrate Extinction Risk in Canada. __*BioScience*__, 61: 538-549. [View Publication](Anderson.etal.2011.pdf)
+
+----
+**Ferretti, F.**, B. Worm, G. Britten, M. Heithaus and H. Lotze. 2010. Patterns of shark decline and ecosystem consequences in the ocean. __*Ecology Letters*__, 13: 1055-1071. [View Publication](http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2010.01489.x/abstract)
+
+----
+Romeo T., **F. Ferretti**, P. Consoli and F. Andaloro. 2009. Assessment of the Mediterranean swordfish based on the Italian harpoon fishery data. __*ICES CM*__ 2008/K:16, 1-14. [View Publication](http://www.ices.dk/sites/pub/CM%20Doccuments/CM-2008/K/K1608.pdf) 
+
+----
+**Ferretti, F.**, R.A. Myers, F. Serena and H.K. Lotze. 2008. Loss of large predatory sharks from the Mediteranean Sea. __*Conservation Biology*__, 22(4): 952-964.[View Publication](Ferretti.etal.2008.pdf)<br>
+
+**Media Coverage and Public Outreach** ([full coverage](assets/MedSharksMediaCoverage.html)) <br> 
+		
 [<img src="assets/wapo-logo2.png" height = "73" style = "border-radius: 15px" alt="WPlogo">](http://www.washingtonpost.com/wp-dyn/content/article/2008/06/29/AR2008062901783.html)
 [<img src="assets/NYTtwitterLogo.png" height = "73" alt="NYTlogo" style = "border-radius: 15px">](http://dotearth.blogs.nytimes.com/2008/06/11/emptied-mediterranean-sharks-nearly-gone/?_r=0)
 [<img src="assets/leMondeTwitterLogo.png" height = "73" style = "border-radius: 15px" alt="leMondelogo">](http://www.lemonde.fr/planete/article/2008/06/13/les-requins-de-la-mediterranee-sont-en-voie-d-extinction-rapide_1057699_3244.html#meter_toaster)
@@ -73,53 +115,105 @@ Journal Articles and Book Chapters
 [<img src="assets/chinaDailyTwitterLogo.jpg" height = "73" style = "border-radius: 15px" alt="China Daily">](http://www.chinadaily.com.cn/cndy/2008-06/12/content_6754371.htm)
 [<img src="assets/HPtwitterLogo.png" height = "73" style = "border-radius: 15px" alt="Huffington Post">](http://www.huffingtonpost.com/2008/06/12/sharks-disappearing-from_n_106696.html)
 
--	Serena F. et al. 2008. Field identification guide to the Rays of the Mediterranean Sea. Guidelines for data collection and analysis. Societa' Italiana di Biologia Marina, comitato nekton e pesca, Gruppo Nazionale Risorse Demersali, Mediterranean Trawl Surveys. Livorno, Italy, (in Italian).
--	**Ferretti, F.** and R.A. Myers. 2006. By-Catch of sharks in the Mediterranean Sea: available mitigation tools. In: __*Proceedings of the Workshop on the Mediterranean Cartilaginous Fish with emphasis on Southern and Eastern Mediterranean*__, Istanbul, Turkey. 158-169. [View Publication](Basusta.etal.2006.pdf)
--	**Ferretti, F.**, R.A. Myers, P. Sartor and F. Serena. 2005. Long Term Dynamics of the Chondrichthyan Fish Community in the Upper Tyrrhenian Sea. __*ICES CM*__ 2005/N:25, 1-25. [View Publication](http://www.ices.dk/sites/pub/CM%20Doccuments/2005/N/N2505.pdf)
+----
+Serena F. et al. 2008. Field identification guide to the Rays of the Mediterranean Sea. Guidelines for data collection and analysis. Societa' Italiana di Biologia Marina, comitato nekton e pesca, Gruppo Nazionale Risorse Demersali, Mediterranean Trawl Surveys. Livorno, Italy, (in Italian).
+
+----
+**Ferretti, F.** and R.A. Myers. 2006. By-Catch of sharks in the Mediterranean Sea: available mitigation tools. In: __*Proceedings of the Workshop on the Mediterranean Cartilaginous Fish with emphasis on Southern and Eastern Mediterranean*__, Istanbul, Turkey. 158-169. [View Publication](Basusta.etal.2006.pdf)
+
+----
+**Ferretti, F.**, R.A. Myers, P. Sartor and F. Serena. 2005. Long Term Dynamics of the Chondrichthyan Fish Community in the Upper Tyrrhenian Sea. __*ICES CM*__ 2005/N:25, 1-25. [View Publication](http://www.ices.dk/sites/pub/CM%20Doccuments/2005/N/N2505.pdf)
 
 <a name="reports"></a>
 
 Technical Reports, Theses and Consultancy Works
 -----------------------------------------------
 
-- Ellis, J., **Ferretti, F.**, Soldo, A. & Walls, R. 2015. *Alopias vulpinus*. **The IUCN Red List of Threatened Species 2015**: e.T39339A48936583 [View Publication](http://www.iucnredlist.org/details/39339/1)
-- **Ferretti, F.**, Morey, G, Serena, F., Mancusi, C., Fowler, S.L., Dipper, F. and Ellis, J. 2015. *Squatina squatina*. **The IUCN Red List of Threatened Species 2015**: e.T39332A48933059. [View Publication](http://dx.doi.org/10.2305/IUCN.UK.2015-1.RLTS.T39332A48933059.en)
-- **Ferretti, F.**, Morey, G, Serena, F., Mancusi, C., Coelho, R.P., Seisay, M., Litvinov, F., and Buscher, E. 2015. *Squatina oculata*. **The IUCN Red List of Threatened Species 2015**: e.T61418A48957418. [View publication](http://www.iucnredlist.org/details/61418/1)
-- **Ferretti, F.**, Soldo, A., Walls, R., Casper, B., Domingo, A., Gaibor, N., Heupel, M.R., Kotas, J., Lamónaca, A., Smith, W.D., Stevens, J., Vooren, C.M. and Pérez-Jiménez, J. 2015. *Sphyrna zygaena*. **The IUCN Red List of Threatened Species 2015**: e.T39388A48930610. [View Publication](http://www.iucnredlist.org/details/39388/1)
-- **Ferretti, F.**, Walls, R.H.L., Soldo, A., Baum, J.K., Clarke, S.C., Domingo, A., Ducrocq, M., Gaibor, N., Graham, R., Jorgensen, S., Kotas, J., Medina, E., Martinez-Ortiz, J., Morales, M., Navarro, S., Ruiz, C., Smith, W., Valenti, S., Vooren, C.M., Pérez-Jiménez, J., Lamónaca, A. and Monzini Taccone di Sitizano, J. 2015. *Sphyrna lewini*. **The IUCN Red List of Threatened Species 2015**: e.T39385A48929458. [View Publication](http://www.iucnredlist.org/details/39385/1)
-- Asber, M., Bucal, D., Cliff, G., Denham, J., Ducrocq, M., Dulvy, N.K., **Ferretti, F.**, Graham, R., Heupel, M.R., Lemine Ould Sidi, M., Litvinov, F., Morgan, A., Seisay, M., Soldo, A., Stevens, J.D., Tous, P., Valenti, S.V., Walls, R.H.L. & Martins, P. 2015. *Sphyrna mokarran*. **The IUCN Red List of Threatened Species 2015**: e.T39386A73775475. [View Publication](http://www.iucnredlist.org/details/39386/1)
-- **Ferretti, F.**, Notarbartolo di Sciara, G., Serena, F. and Ducrocq, M. 2015. *Rhinoptera marginata*. **The IUCN Red List of Threatened Species 2015**: e.T161463A48939205. [View Publication](http://www.iucnredlist.org/details/161463/1)
-- **Ferretti, F.** and White, W.T. 2015. *Neotrygon ningalooensis*. **The IUCN Red List of Threatened Species 2015**: e.T195463A68636829. [View Publication](http://www.iucnredlist.org/details/195463/0)
-- **Ferretti, F.** and Buscher, E. 2015. *Echinorhinus brucus*. **The IUCN Red List of Threatened Species 2015**: e.T41801A48909148. [View Publication](http://www.iucnredlist.org/details/41801/1)
-- **Ferretti, F.**, Walls, R., Musick, J., Stevens, J.D., Baum, J.K., Bradai, M.N., Fergusson, I., Grubbs, D., Soldo, A., Vacchi, M. and Vooren, C.M. 2015. *Carcharhinus plumbeus*. **The IUCN Red List of Threatened Species 2015**: e.T3853A48946805. [View Publication](http://www.iucnredlist.org/details/3853/1)
-- Sims, D., Fowler, S.L., **Ferretti, F.** and Stevens, J.D. 2015. *Prionace glauca*. **The IUCN Red List of Threatened Species 2015**: e.T39381A48924261. [View Publication](http://www.iucnredlist.org/details/full/39381/1)
-- **Ferretti, F.** 2011. Peer review report of shark mitigation as a tool for conservation of the Hawaiian Monk Seal. **Independent Peer Review Completed for the Center for Independent Experts (CIE)** [View Publication](http://www.pifsc.noaa.gov/do/peer_reviews/shark_predation_mitigation_2011_12_comments_ferretti.pdf)
-- AA Rosenberg, F Micheli, E. Sala, G.C. Osio, **F. Ferretti**, P. Guidetti, S. Fraschetti, L. Mangialajo. 2011. Recovery Scenarios for the Northwestern Mediterranean Marine Ecosystem: motivating policy action on an ecosystem basis. **Oak Final Report**.
-- Sartor, P. et al. 2010. The 20th Century evolution of Mediterranean exploited demersal resources under increasing fishing disturbance and environmental change. **EVOMED. Joint tender n MARE/2008/11.** European Commission, Contract. N° SI2 5390 97. [View Publication](http://ec.europa.eu/fisheries/documentation/studies/study_evolution_mediterranean/index_en.htm)
-- **Ferretti. F.** 2010. The role of sharks in marine ecosystems: evaluating overexploited marine fish communities to detect long-term effects of predator removal. **PhD Thesis**, Dalhousie University, Halifax, NS, Canada. [View Publication](http://dalspace.library.dal.ca/handle/10222/13171)
-- Notarbartolo di Sciara, G., Serena, F.,Ungaro, N., **Ferretti, F.**, Pheeha, S. and Human, B. 2009. *Torpedo marmorata*. **The IUCN Red List of Threatened Species 2009**: e.T161328A5398909. [View Publication](http://dx.doi.org/10.2305/IUCN.UK.2009-2.RLTS.T161328A5398909.en)
-- Notarbartolo di Sciara, G., Serena, F., Ungaro, N., **Ferretti, F.**, Holtzhausen, H.A. and Smale, M.J. 2009. *Tetronarce nobiliana*. **The IUCN Red List of Threatened Species 2009**: e.T161580A5456479. [View Publication](http://dx.doi.org/10.2305/IUCN.UK.2009-2.RLTS.T161580A5456479.en)
-- **Ferretti F.** 2003. Comportamento alimentare di Chimaera monstrosa nei fondi batiali Liguri. **Laurea Thesis**. Polytechnic University of Marche, Ancona, Italy (in Italian).
+Ellis, J., **Ferretti, F.**, Soldo, A. & Walls, R. 2015. *Alopias vulpinus*. **The IUCN Red List of Threatened Species 2015**: e.T39339A48936583 [View Publication](http://www.iucnredlist.org/details/39339/1)
+
+----
+**Ferretti, F.**, Morey, G, Serena, F., Mancusi, C., Fowler, S.L., Dipper, F. and Ellis, J. 2015. *Squatina squatina*. **The IUCN Red List of Threatened Species 2015**: e.T39332A48933059. [View Publication](http://dx.doi.org/10.2305/IUCN.UK.2015-1.RLTS.T39332A48933059.en)
+
+----
+**Ferretti, F.**, Morey, G, Serena, F., Mancusi, C., Coelho, R.P., Seisay, M., Litvinov, F., and Buscher, E. 2015. *Squatina oculata*. **The IUCN Red List of Threatened Species 2015**: e.T61418A48957418. [View publication](http://www.iucnredlist.org/details/61418/1)
+
+----
+**Ferretti, F.**, Soldo, A., Walls, R., Casper, B., Domingo, A., Gaibor, N., Heupel, M.R., Kotas, J., Lamónaca, A., Smith, W.D., Stevens, J., Vooren, C.M. and Pérez-Jiménez, J. 2015. *Sphyrna zygaena*. **The IUCN Red List of Threatened Species 2015**: e.T39388A48930610. [View Publication](http://www.iucnredlist.org/details/39388/1)
+
+----
+**Ferretti, F.**, Walls, R.H.L., Soldo, A., Baum, J.K., Clarke, S.C., Domingo, A., Ducrocq, M., Gaibor, N., Graham, R., Jorgensen, S., Kotas, J., Medina, E., Martinez-Ortiz, J., Morales, M., Navarro, S., Ruiz, C., Smith, W., Valenti, S., Vooren, C.M., Pérez-Jiménez, J., Lamónaca, A. and Monzini Taccone di Sitizano, J. 2015. *Sphyrna lewini*. **The IUCN Red List of Threatened Species 2015**: e.T39385A48929458. [View Publication](http://www.iucnredlist.org/details/39385/1)
+
+----
+Asber, M., Bucal, D., Cliff, G., Denham, J., Ducrocq, M., Dulvy, N.K., **Ferretti, F.**, Graham, R., Heupel, M.R., Lemine Ould Sidi, M., Litvinov, F., Morgan, A., Seisay, M., Soldo, A., Stevens, J.D., Tous, P., Valenti, S.V., Walls, R.H.L. & Martins, P. 2015. *Sphyrna mokarran*. **The IUCN Red List of Threatened Species 2015**: e.T39386A73775475. [View Publication](http://www.iucnredlist.org/details/39386/1)
+
+----
+**Ferretti, F.**, Notarbartolo di Sciara, G., Serena, F. and Ducrocq, M. 2015. *Rhinoptera marginata*. **The IUCN Red List of Threatened Species 2015**: e.T161463A48939205. [View Publication](http://www.iucnredlist.org/details/161463/1)
+
+----
+**Ferretti, F.** and White, W.T. 2015. *Neotrygon ningalooensis*. **The IUCN Red List of Threatened Species 2015**: e.T195463A68636829. [View Publication](http://www.iucnredlist.org/details/195463/0)
+
+----
+**Ferretti, F.** and Buscher, E. 2015. *Echinorhinus brucus*. **The IUCN Red List of Threatened Species 2015**: e.T41801A48909148. [View Publication](http://www.iucnredlist.org/details/41801/1)
+
+----
+**Ferretti, F.**, Walls, R., Musick, J., Stevens, J.D., Baum, J.K., Bradai, M.N., Fergusson, I., Grubbs, D., Soldo, A., Vacchi, M. and Vooren, C.M. 2015. *Carcharhinus plumbeus*. **The IUCN Red List of Threatened Species 2015**: e.T3853A48946805. [View Publication](http://www.iucnredlist.org/details/3853/1)
+
+----
+Sims, D., Fowler, S.L., **Ferretti, F.** and Stevens, J.D. 2015. *Prionace glauca*. **The IUCN Red List of Threatened Species 2015**: e.T39381A48924261. [View Publication](http://www.iucnredlist.org/details/full/39381/1)
+
+----
+**Ferretti, F.** 2011. Peer review report of shark mitigation as a tool for conservation of the Hawaiian Monk Seal. **Independent Peer Review Completed for the Center for Independent Experts (CIE)** [View Publication](http://www.pifsc.noaa.gov/do/peer_reviews/shark_predation_mitigation_2011_12_comments_ferretti.pdf)
+
+----
+AA Rosenberg, F Micheli, E. Sala, G.C. Osio, **F. Ferretti**, P. Guidetti, S. Fraschetti, L. Mangialajo. 2011. Recovery Scenarios for the Northwestern Mediterranean Marine Ecosystem: motivating policy action on an ecosystem basis. **Oak Final Report**.
+
+----
+Sartor, P. et al. 2010. The 20th Century evolution of Mediterranean exploited demersal resources under increasing fishing disturbance and environmental change. **EVOMED. Joint tender n MARE/2008/11.** European Commission, Contract. N° SI2 5390 97. [View Publication](http://ec.europa.eu/fisheries/documentation/studies/study_evolution_mediterranean/index_en.htm)
+
+----
+**Ferretti. F.** 2010. The role of sharks in marine ecosystems: evaluating overexploited marine fish communities to detect long-term effects of predator removal. **PhD Thesis**, Dalhousie University, Halifax, NS, Canada. [View Publication](http://dalspace.library.dal.ca/handle/10222/13171)
+
+----
+Notarbartolo di Sciara, G., Serena, F.,Ungaro, N., **Ferretti, F.**, Pheeha, S. and Human, B. 2009. *Torpedo marmorata*. **The IUCN Red List of Threatened Species 2009**: e.T161328A5398909. [View Publication](http://dx.doi.org/10.2305/IUCN.UK.2009-2.RLTS.T161328A5398909.en)
+
+----
+Notarbartolo di Sciara, G., Serena, F., Ungaro, N., **Ferretti, F.**, Holtzhausen, H.A. and Smale, M.J. 2009. *Tetronarce nobiliana*. **The IUCN Red List of Threatened Species 2009**: e.T161580A5456479. [View Publication](http://dx.doi.org/10.2305/IUCN.UK.2009-2.RLTS.T161580A5456479.en)
+
+----
+**Ferretti F.** 2003. Comportamento alimentare di Chimaera monstrosa nei fondi batiali Liguri. **Laurea Thesis**. Polytechnic University of Marche, Ancona, Italy (in Italian).
 
 <a name="policy"></a>
 
 Policy and Public Outreach
 --------------------------
 
-- Britten, G. L., Dowd, M., Minto, C., **Ferretti, F.**, Boero, F. and Lotze, H. K. 2014. Loss of Predators Can Destabilize Marine Communities. **Lenfest Ocean Program Fact Sheet**. Washington DC. [View publication](http://www.lenfestocean.org/en/publications/fact-sheet/loss-of-predators-can-destabilize-marine-communities)
-- Daly, L. and **Ferretti, F**. **2013**. How large-scale protection zones could benefit sharks and rays in the Mediterranean. **Shark Focus** 46: 14-15. [View publication](assets/Daly.Ferretti.2013.pdf)
-- **Ferretti, F.**, B. Worm, G. Britten, M. Heithaus and H. Lotze. **2010**. Global consequences of shark declines. **Lenfest Ocean Program Research Series**. Washington DC. [View Publication](assets/LenfestRSEcologyLetters.pdf)
-- Romeo, T., Consoli, P., Andaloro, F, and **Ferretti, F**. 2012. Pesca antica di pescespada e tonno nello Stretto di Messina. **Uomo e Natura.** 2(11) 39-45.
-- Rosetti, A. and **Ferretti, F**. **2009**. Gli Squali non fanno paura. **Slow Food**. 39: 70-74 [View publication](assets/Gli_squali_no_paura.pdf)
-- **Ferretti, F.**, R.A. Myers, F. Serena and H.K. Lotze. **2008**. Shark declines in the Mediterranean Sea. **Lenfest Ocean Program Research Series**. Washington DC.[View Publication](http://www.lenfestocean.org/en/publications/fact-sheet/shark-declines-in-the-mediterranean-sea) - [Français](http://www.lenfestocean.org/fr/publications/fact-sheet/shark-declines-in-the-mediterranean-sea) - [Italiano](http://www.lenfestocean.org/it/publications/fact-sheet/shark-declines-in-the-mediterranean-sea) - [Deutsche](http://www.lenfestocean.org/de/publications/fact-sheet/shark-declines-in-the-mediterranean-sea) - [Español](http://www.lenfestocean.org/es/publications/fact-sheet/shark-declines-in-the-mediterranean-sea)
+Britten, G. L., Dowd, M., Minto, C., **Ferretti, F.**, Boero, F. and Lotze, H. K. 2014. Loss of Predators Can Destabilize Marine Communities. **Lenfest Ocean Program Fact Sheet**. Washington DC. [View publication](http://www.lenfestocean.org/en/publications/fact-sheet/loss-of-predators-can-destabilize-marine-communities)
+
+----
+Daly, L. and **Ferretti, F**. **2013**. How large-scale protection zones could benefit sharks and rays in the Mediterranean. **Shark Focus** 46: 14-15. [View publication](assets/Daly.Ferretti.2013.pdf)
+
+----
+**Ferretti, F.**, B. Worm, G. Britten, M. Heithaus and H. Lotze. **2010**. Global consequences of shark declines. **Lenfest Ocean Program Research Series**. Washington DC. [View Publication](assets/LenfestRSEcologyLetters.pdf)
+
+----
+Romeo, T., Consoli, P., Andaloro, F, and **Ferretti, F**. 2012. Pesca antica di pescespada e tonno nello Stretto di Messina. **Uomo e Natura.** 2(11) 39-45.
+
+----
+Rosetti, A. and **Ferretti, F**. **2009**. Gli Squali non fanno paura. **Slow Food**. 39: 70-74 [View publication](assets/Gli_squali_no_paura.pdf)
+
+----
+**Ferretti, F.**, R.A. Myers, F. Serena and H.K. Lotze. **2008**. Shark declines in the Mediterranean Sea. **Lenfest Ocean Program Research Series**. Washington DC.[View Publication](http://www.lenfestocean.org/en/publications/fact-sheet/shark-declines-in-the-mediterranean-sea) - [Français](http://www.lenfestocean.org/fr/publications/fact-sheet/shark-declines-in-the-mediterranean-sea) - [Italiano](http://www.lenfestocean.org/it/publications/fact-sheet/shark-declines-in-the-mediterranean-sea) - [Deutsche](http://www.lenfestocean.org/de/publications/fact-sheet/shark-declines-in-the-mediterranean-sea) - [Español](http://www.lenfestocean.org/es/publications/fact-sheet/shark-declines-in-the-mediterranean-sea)
 
 <a name="software"></a>
 
 Software
 ---------
 
-- **Ferretti, F.**, Lopez, A., and Sandoval, E. 2015. [SharkPulse 2.02 application software for iOS.](https://itunes.apple.com/us/app/sharkpulse-v1.1/id673243556?mt=8) 
-- **Ferretti, F.**, De Anda, B, and Diaz, D. 2015. [SharkPulse 2.0 application software for Android OS.](https://play.google.com/store/apps/details?id=edu.stanford.baseline.sharkpulse2)
-- **Ferretti, F.** and Mazzilli, E. 2013. [SharkPulse 1.1. Mobile application software for Android OS.](https://play.google.com/store/apps/details?id=edu.stanford.baseline.sharkpulse)
-- **Ferretti, F.** and Alvarez, A. 2013. [SharkPulse v1.1. Mobile application software for iOS (iPhone).](https://itunes.apple.com/us/app/sharkpulse-v1.1/id673243556?mt=8)
+**Ferretti, F.**, Lopez, A., and Sandoval, E. 2015. [SharkPulse 2.02 application software for iOS.](https://itunes.apple.com/us/app/sharkpulse-v1.1/id673243556?mt=8) 
+
+**Ferretti, F.**, De Anda, B, and Diaz, D. 2015. [SharkPulse 2.0 application software for Android OS.](https://play.google.com/store/apps/details?id=edu.stanford.baseline.sharkpulse2)
+
+**Ferretti, F.** and Mazzilli, E. 2013. [SharkPulse 1.1. Mobile application software for Android OS.](https://play.google.com/store/apps/details?id=edu.stanford.baseline.sharkpulse)
+
+**Ferretti, F.** and Alvarez, A. 2013. [SharkPulse v1.1. Mobile application software for iOS (iPhone).](https://itunes.apple.com/us/app/sharkpulse-v1.1/id673243556?mt=8)
 

@@ -5,7 +5,7 @@ layout: default
 ---
 
 
-### News Article
+### News Articles
 
 - **The Wall Street Journal**: [What Are the Odds? Long, Most Likely](http://www.wsj.com/articles/what-are-the-odds-long-most-likely-1439544600) 
 - **The New York Times**: [California Shark Attack Rates Plunge 90 Percent Since 1950s](http://www.nytimes.com/aponline/2015/07/10/science/ap-sci-shark-attacks-study.html) 

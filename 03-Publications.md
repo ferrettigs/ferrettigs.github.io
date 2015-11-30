@@ -47,7 +47,7 @@ Campana, S. and **Ferretti, F.** Chapter 40. 2015. Sharks and other elasmobranch
 --------------------------------------------------------------
 **Ferretti, F.**, Morey, G., Seret, B., Sprem, J.S. and Micheli, F. 2015. Falling through the cracks: the fading history of a large iconic predator. __*Fish and Fisheries*__. DOI: 10.1111/faf.12108 [View Publication.](http://onlinelibrary.wiley.com/doi/10.1111/faf.12108/abstract) <br>
 
-**Media Coverage and Public Outreach**<br>
+**Public Outreach**<br>
 
 [<img src="assets/NGTwitterLogo.jpg" alt="Nat Geo logo" style = "border-radius: 15px">](http://phenomena.nationalgeographic.com/2015/01/22/the-mediterraneans-missing-sawfishes/) [<img src="assets/woodsTwitterLogo.png" height = "73" alt="logoWoods">](https://woods.stanford.edu/news-events/news/falling-through-cracks-story-sawfish) 
 
@@ -56,7 +56,8 @@ Micheli F., De Leo, G., **Ferretti F.**, Hines, A. M., Honey, K. T, Kroeker K., 
 
 -----------------------------------
 Britten, G. L., Dowd, M., Minto, C., **Ferretti, F.**, Boero, F. and Lotze, H. K. 2014. Predator decline leads to decreased stability in a coastal fish community. __*Ecology Letters*__, 17 (12): 1518-1525. [View publication](http://onlinelibrary.wiley.com/doi/10.1111/ele.12354/abstract)<br>
-**Media Coverage and Public Outreach**<br>
+
+**Public Outreach**<br>
 [<img src="assets/lenfestTwitterLogo.png" height = "73" alt="Lenfest logo" style = "border-radius: 15px">](http://www.lenfestocean.org/en/publications/fact-sheet/loss-of-predators-can-destabilize-marine-communities) 
 
 --------------------------------------
@@ -81,14 +82,12 @@ Micheli, F., B. S. Halpern, S. Walbridge, S. Ciriaco, **F. Ferretti**, S. Frasch
 ----
 Sala, E., Ballesteros, E., Dendrinos, P., Di Franco, A., **Ferretti, F.** et al. 2012. The structure of Mediterranean rocky reef  ecosystems across environmental and human gradients, and conservation implications. __*PloS ONE*__, 7(2): e32742. doi:10.1371/journal.pone.0032742 [View publication](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032742)<br>
 
-**Media Coverage and Public Outreach**<br>
+**Public Outreach**<br>
 
 [<img src="assets/NGTwitterLogo.jpg" alt="Nat Geo logo" style = "border-radius: 15px">](http://press.nationalgeographic.com/2012/03/01/overfishing-leaves-mediterranean-barren/)
 
 ----
 McClenachan, L., **Ferretti, F.**, and Baum, J. 2012. From archives to conservation: why historical data are needed to set baselines for marine animals and ecosystems. __*Conservation Letters*__, 5(5): 349-359. [View publication](http://onlinelibrary.wiley.com/doi/10.1111/j.1755-263X.2012.00253.x/abstract)<br>
-
-**Media Coverage and Public Outreach**<br>
 
 [<img src="assets/F1000twitterLogo.png" height = "73" alt="F1000" style = "border-radius: 15px">](http://f1000.com/prime/717949924)
 
@@ -124,6 +123,8 @@ Serena F. et al. 2008. Field identification guide to the Rays of the Mediterrane
 ----
 **Ferretti, F.**, R.A. Myers, P. Sartor and F. Serena. 2005. Long Term Dynamics of the Chondrichthyan Fish Community in the Upper Tyrrhenian Sea. __*ICES CM*__ 2005/N:25, 1-25. [View Publication](http://www.ices.dk/sites/pub/CM%20Doccuments/2005/N/N2505.pdf)
 
+
+----
 <a name="reports"></a>
 
 Technical Reports, Theses and Consultancy Works
@@ -182,6 +183,7 @@ Notarbartolo di Sciara, G., Serena, F., Ungaro, N., **Ferretti, F.**, Holtzhause
 ----
 **Ferretti F.** 2003. Comportamento alimentare di Chimaera monstrosa nei fondi batiali Liguri. **Laurea Thesis**. Polytechnic University of Marche, Ancona, Italy (in Italian).
 
+----
 <a name="policy"></a>
 
 Policy and Public Outreach
@@ -204,6 +206,7 @@ Rosetti, A. and **Ferretti, F**. **2009**. Gli Squali non fanno paura. **Slow Fo
 ----
 **Ferretti, F.**, R.A. Myers, F. Serena and H.K. Lotze. **2008**. Shark declines in the Mediterranean Sea. **Lenfest Ocean Program Research Series**. Washington DC.[View Publication](http://www.lenfestocean.org/en/publications/fact-sheet/shark-declines-in-the-mediterranean-sea) - [Français](http://www.lenfestocean.org/fr/publications/fact-sheet/shark-declines-in-the-mediterranean-sea) - [Italiano](http://www.lenfestocean.org/it/publications/fact-sheet/shark-declines-in-the-mediterranean-sea) - [Deutsche](http://www.lenfestocean.org/de/publications/fact-sheet/shark-declines-in-the-mediterranean-sea) - [Español](http://www.lenfestocean.org/es/publications/fact-sheet/shark-declines-in-the-mediterranean-sea)
 
+----
 <a name="software"></a>
 
 Software

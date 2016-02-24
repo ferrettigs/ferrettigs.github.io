@@ -23,21 +23,24 @@ Publications
 
 Journal Articles and Book Chapters
 ----------------------------------
-- Barreto, R., **Ferretti, F.**, Flemming, J., Amorim, A., Andrade, H., Worm, B., and Lessa, R. Trends in the exploitation of South Atlantic shark populations. __*Conservation Biology*__. Accepted.
+- Barreto, R., **Ferretti, F.**, Flemming, J., Amorim, A., Andrade, H., Worm, B., and Lessa, R. 2016. Trends in the exploitation of South Atlantic shark populations. __*Conservation Biology*__. [View Publication](http://onlinelibrary.wiley.com/doi/10.1111/cobi.12663/abstract)
 
-- Campana, S. and **Ferretti, F.** Chapter 40. 2015. Sharks and other elasmobranchs. In: __*World Ocean Assessment*__. United Nations. In Press.
+- Campana, S. and **Ferretti, F.** and Rosenberg, A. A. 2016. Chapter 40. Sharks and other elasmobranchs. In: __*World Ocean Assessment*__. United Nations. [View Publication](http://www.un.org/depts/los/global_reporting/WOA_RPROC/Chapter_40.pdf)
 
 - **Ferretti F.**, Jorgensen, S., Chapple, T., De Leo, G. and Micheli, F. Reconciling predator conservation with public safety. 2015. __*Frontiers in Ecology and the Environment*__. doi:10.1890/150109 [View Publication](Ferretti.etal.2015Frontiers.pdf)<br>
-**Media Coverage and Public Outreach** ([full coverage](assets/ReconcilingPredatorsMediaCoverage.html))<br> 
+**Media Coverage, Public Outreach, and Research Highlights** (**MPR**, [full coverage](assets/ReconcilingPredatorsMediaCoverage.html))<br> 
+[<img src="assets/wjsTwitterLogo.jpeg" height = "73" style = "border-radius: 15px" alt="WSJlogo">](http://www.wsj.com/articles/what-are-the-odds-long-most-likely-1439544600)
 [<img src="assets/wapo-logo2.png" height = "73" style = "border-radius: 15px" alt="WPlogo">](http://www.washingtonpost.com/news/energy-environment/wp/2015/07/09/good-news-for-california-beachgoers-the-risk-of-a-shark-attack-has-been-declining-for-decades/)
 [<img src="assets/NYTtwitterLogo.png" height = "73" alt="NYTlogo" style = "border-radius: 15px">](http://www.nytimes.com/aponline/2015/07/10/science/ap-sci-shark-attacks-study.html)
 [<img src="assets/laTimesTwitterLogo.jpeg" alt="LA Times" height = "73" style = "border-radius: 15px">](http://www.latimes.com/science/sciencenow/la-sci-sn-shark-attacks-not-more-frequent-20150708-story.html)
 [<img src="assets/timeTwitterLogo.png" height = "73" style = "border-radius: 15px" alt="WPlogo">](http://time.com/3953597/california-shark-attacks/)
 [<img src="assets/forbesTwitterLogo.png" alt="Forbes" height = "73" style = "border-radius: 15px">](http://www.forbes.com/sites/alliewilkinson/2015/07/10/shark-attack-risk-in-california-down-significantly-since-1950-study-says/)
+[<img src="assets/newsweekTwitterLogo.png" alt="Newsweek" height = "73" style = "border-radius: 15px">](http://www.newsweek.com/shark-attack-risk-down-sharply-despite-recent-incidents-353408)
 [<img src="assets/NGTwitterLogo.jpg" alt="Nat Geo logo" style = "border-radius: 15px">](http://news.nationalgeographic.com/2015/07/150709-shark-attacks-california-pew-study-risk-science/)
 [<img src="assets/SNtwitterLogo.png" alt="Scientific American" height = "73" style = "border-radius: 15px">](http://www.scientificamerican.com/article/shark-bites-are-up-but-attack-risk-is-down/)
 [<img src="assets/SUtwitterLogo.png" alt="Stanford News" height = "73" style = "border-radius: 15px">](http://news.stanford.edu/news/2015/july/shark-attack-risk-070815.html)
 [<img src="assets/scienceNewsTwitterLogo.jpeg" alt="Stanford News" height = "73" style = "border-radius: 15px">](http://news.sciencemag.org/plants-animals/2015/07/shark-attacks-it-safe-go-back-water)
+[<img src="assets/F1000twitterLogo.png" height = "73" alt="F1000" style = "border-radius: 15px">](http://f1000.com/prime/725763405)
 <br>
 
 

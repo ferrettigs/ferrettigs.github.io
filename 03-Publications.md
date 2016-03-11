@@ -23,6 +23,8 @@ Publications
 
 Journal Articles and Book Chapters
 ----------------------------------
+- Bastari, A., Micheli, F., **Ferretti, F.**, Pusceddu, A. and Cerrano, C. Large marine protected areas (LMPAs) in the Mediterranean Sea: the opportunity for the Adriatic Sea. *Accepted*. __*Marine Policy*__.
+
 - Barreto, R., **Ferretti, F.**, Flemming, J., Amorim, A., Andrade, H., Worm, B., and Lessa, R. 2016. Trends in the exploitation of South Atlantic shark populations. __*Conservation Biology*__. [View Publication](http://onlinelibrary.wiley.com/doi/10.1111/cobi.12663/abstract)
 
 - Campana, S. and **Ferretti, F.** and Rosenberg, A. A. 2016. Chapter 40. Sharks and other elasmobranchs. In: __*World Ocean Assessment*__. United Nations. [View Publication](http://www.un.org/depts/los/global_reporting/WOA_RPROC/Chapter_40.pdf)

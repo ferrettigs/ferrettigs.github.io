@@ -23,11 +23,15 @@ Publications
 
 Journal Articles and Book Chapters
 ----------------------------------
-- Bastari, A., Micheli, F., **Ferretti, F.**, Pusceddu, A. and Cerrano, C. Large marine protected areas (LMPAs) in the Mediterranean Sea: the opportunity for the Adriatic Sea. *Accepted*. __*Marine Policy*__.
+- Bastari, A., Micheli, F., **Ferretti, F.**, Pusceddu, A. and Cerrano, C. Large marine protected areas (LMPAs) in the Mediterranean Sea: the opportunity for the Adriatic Sea. *Accepted*. __*Marine Policy*__ [View Publication](assets/Bastari.etal.2016.pdf)<br>
+**Public Outreach**<br>
+[<img src="assets/lenfestTwitterLogo.png" height = "73" alt="Lenfest logo" style = "border-radius: 15px">](http://www.lenfestocean.org/en/news-and-publications/published-paper/large-marine-protected-areas-lmpas-in-the-mediterranean-sea-the-opportunity-of-the-adriatic-sea)
 
-- Barreto, R., **Ferretti, F.**, Flemming, J., Amorim, A., Andrade, H., Worm, B., and Lessa, R. 2016. Trends in the exploitation of South Atlantic shark populations. __*Conservation Biology*__. [View Publication](http://onlinelibrary.wiley.com/doi/10.1111/cobi.12663/abstract)
+- Barreto, R., **Ferretti, F.**, Flemming, J., Amorim, A., Andrade, H., Worm, B., and Lessa, R. 2016. Trends in the exploitation of South Atlantic shark populations. __*Conservation Biology*__. [View Publication](assets/Barreto_et_al-2016-Conservation_Biology.pdf)<br>
+**Public Outreach**<br>
+[<img src="assets/lenfestTwitterLogo.png" height = "73" alt="Lenfest logo" style = "border-radius: 15px">](http://www.lenfestocean.org/en/news-and-publications/news/decline-in-pelagic-south-atlantic-sharks-documented-for-the-first-time)
 
-- Campana, S. and **Ferretti, F.** and Rosenberg, A. A. 2016. Chapter 40. Sharks and other elasmobranchs. In: __*World Ocean Assessment*__. United Nations. [View Publication](http://www.un.org/depts/los/global_reporting/WOA_RPROC/Chapter_40.pdf)
+- Campana, S. and **Ferretti, F.** 2016. Chapter 40. Sharks and other elasmobranchs. In: __*World Ocean Assessment*__. United Nations. [View Publication](http://www.un.org/depts/los/global_reporting/WOA_RPROC/Chapter_40.pdf)
 
 - **Ferretti F.**, Jorgensen, S., Chapple, T., De Leo, G. and Micheli, F. Reconciling predator conservation with public safety. 2015. __*Frontiers in Ecology and the Environment*__. doi:10.1890/150109 [View Publication](Ferretti.etal.2015Frontiers.pdf)<br>
 **Media Coverage, Public Outreach, and Research Highlights** (**MPR**, [full coverage](assets/ReconcilingPredatorsMediaCoverage.html))<br> 
@@ -46,17 +50,17 @@ Journal Articles and Book Chapters
 <br>
 
 
-- **Ferretti, F.**, Morey, G., Seret, B., Sprem, J.S. and Micheli, F. 2015. Falling through the cracks: the fading history of a large iconic predator. __*Fish and Fisheries*__. DOI: 10.1111/faf.12108 [View Publication.](http://onlinelibrary.wiley.com/doi/10.1111/faf.12108/abstract) <br>
+- **Ferretti, F.**, Morey, G., Seret, B., Sprem, J.S. and Micheli, F. 2015. Falling through the cracks: the fading history of a large iconic predator. __*Fish and Fisheries*__. DOI: 10.1111/faf.12108 [View Publication.](assets/Ferretti_et_al-2015-Fish_and_Fisheries.pdf) <br>
 **Public Outreach**<br>
 [<img src="assets/NGTwitterLogo.jpg" alt="Nat Geo logo" style = "border-radius: 15px">](http://phenomena.nationalgeographic.com/2015/01/22/the-mediterraneans-missing-sawfishes/) [<img src="assets/woodsTwitterLogo.png" height = "73" alt="logoWoods">](https://woods.stanford.edu/news-events/news/falling-through-cracks-story-sawfish) 
 
 - Micheli F., De Leo, G., **Ferretti F.**, Hines, A. M., Honey, K. T, Kroeker K., Martone, R., McCauley D. J., O’Leary, J. K., Rosim D. F., Sokolow S. Stock A., Wood C. L. 2015. Ocean Health. In: __*Handbook of Ocean Resources and Management*__, T. Agardy, H. Smith, and J. L. Suarez de Vivero (eds.). In Press [View Publication](http://www.routledge.com/books/details/9780415531757/)
 
-- Britten, G. L., Dowd, M., Minto, C., **Ferretti, F.**, Boero, F. and Lotze, H. K. 2014. Predator decline leads to decreased stability in a coastal fish community. __*Ecology Letters*__, 17 (12): 1518-1525. [View publication](http://onlinelibrary.wiley.com/doi/10.1111/ele.12354/abstract)<br>
+- Britten, G. L., Dowd, M., Minto, C., **Ferretti, F.**, Boero, F. and Lotze, H. K. 2014. Predator decline leads to decreased stability in a coastal fish community. __*Ecology Letters*__, 17 (12): 1518-1525. [View publication](assets/Britten_et_al-2014-Ecology_Letters.pdf)<br>
 **Public Outreach**<br>
 [<img src="assets/lenfestTwitterLogo.png" height = "73" alt="Lenfest logo" style = "border-radius: 15px">](http://www.lenfestocean.org/en/publications/fact-sheet/loss-of-predators-can-destabilize-marine-communities) 
 
-- **Ferretti, F.**, Crowder, L. and Micheli, F. 2014. Using Disparate Datasets to Reconstruct Historical Baselines of Animal Populations, in: __*Marine Historical Ecology in Conservation*__: Applying the Past to Manage for the Future. (Kitinger, Gedan, Blight and McClenachan eds). University of California Press. [View Publication.](http://www.ucpress.edu/book.php?isbn=9780520276949)
+- **Ferretti, F.**, Crowder, L. and Micheli, F. 2014. Using Disparate Datasets to Reconstruct Historical Baselines of Animal Populations, in: __*Marine Historical Ecology in Conservation*__: Applying the Past to Manage for the Future. (Kitinger, Gedan, Blight and McClenachan eds). University of California Press. [View Publication.](assets/Ferretti.etal.2014.pdf)
 
 - **Ferretti, F.** 2014. Geographical distribution and status. 7.2.1 Mediterranean Sea. In __*Sawfish: A Global Strategy for Conservation*__, Harrison LH, Dulvy NK (eds). IUCN Shark Specialist Group: Vancouver, Canada; 50-51. [View publication](assets/Ferretti.solo.2014.pdf)
 
@@ -78,7 +82,7 @@ Journal Articles and Book Chapters
 
 - Anderson, S.C, R. G. Farmer, **F. Ferretti**, A. L. Houde and J. A. Hutchings. 2011. Correlates of Vertebrate Extinction Risk in Canada. __*BioScience*__, 61: 538-549. [View Publication](Anderson.etal.2011.pdf)
 
-- **Ferretti, F.**, B. Worm, G. Britten, M. Heithaus and H. Lotze. 2010. Patterns of shark decline and ecosystem consequences in the ocean. __*Ecology Letters*__, 13: 1055-1071. [View Publication](http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2010.01489.x/abstract)
+- **Ferretti, F.**, B. Worm, G. Britten, M. Heithaus and H. Lotze. 2010. Patterns of shark decline and ecosystem consequences in the ocean. __*Ecology Letters*__, 13: 1055-1071. [View Publication](assets/Ferretti_et_al-2010-Ecology_Letters.pdf)
 
 - Romeo T., **F. Ferretti**, P. Consoli and F. Andaloro. 2009. Assessment of the Mediterranean swordfish based on the Italian harpoon fishery data. __*ICES CM*__ 2008/K:16, 1-14. [View Publication](http://www.ices.dk/sites/pub/CM%20Doccuments/CM-2008/K/K1608.pdf) 
 
@@ -93,7 +97,7 @@ Journal Articles and Book Chapters
 [<img src="assets/chinaDailyTwitterLogo.jpg" height = "73" style = "border-radius: 15px" alt="China Daily">](http://www.chinadaily.com.cn/cndy/2008-06/12/content_6754371.htm)
 [<img src="assets/HPtwitterLogo.png" height = "73" style = "border-radius: 15px" alt="Huffington Post">](http://www.huffingtonpost.com/2008/06/12/sharks-disappearing-from_n_106696.html)
 
-- Serena F. et al. 2008. Field identification guide to the Rays of the Mediterranean Sea. Guidelines for data collection and analysis. Societa' Italiana di Biologia Marina, comitato nekton e pesca, Gruppo Nazionale Risorse Demersali, Mediterranean Trawl Surveys. Livorno, Italy, (in Italian).
+- Serena F. et al. 2008. Field identification guide to the Rays of the Mediterranean Sea. Guidelines for data collection and analysis. Societa' Italiana di Biologia Marina, comitato nekton e pesca, Gruppo Nazionale Risorse Demersali, Mediterranean Trawl Surveys. Livorno, Italy, (in Italian). [View Publication](assets/Serena.etal.2008Rays.pdf)
 
 - **Ferretti, F.** and R.A. Myers. 2006. By-Catch of sharks in the Mediterranean Sea: available mitigation tools. In: __*Proceedings of the Workshop on the Mediterranean Cartilaginous Fish with emphasis on Southern and Eastern Mediterranean*__, Istanbul, Turkey. 158-169. [View Publication](Basusta.etal.2006.pdf)
 
@@ -104,6 +108,8 @@ Journal Articles and Book Chapters
 
 Technical Reports, Theses and Consultancy Works
 -----------------------------------------------
+
+- Cerrano, C., Bakran-Petricioli, T., Bastari, A., Fraschetti, S., Huete-Stauffer, C., **Ferretti, F.**, Micheli, F., Ponti, M., Pusceddu, A., & Valisano, L. 2016. Adriatic Sea: Description of the ecology and identification of the areas that may deserve to be protected. Cebrian, D. & Requena, S. (eds.), RAC/SPA, Tunis; 92 pp. [View Publication](assets/Cerrano.etal.2016.pdf)
 
 - Ellis, J., **Ferretti, F.**, Soldo, A. & Walls, R. 2015. *Alopias vulpinus*. **The IUCN Red List of Threatened Species 2015**: e.T39339A48936583 [View Publication](http://www.iucnredlist.org/details/39339/1)
 
@@ -145,6 +151,8 @@ Technical Reports, Theses and Consultancy Works
 
 Policy and Public Outreach
 --------------------------
+
+- Rollison, D., Shouse, B., Barreto, R. R., and **Ferretti, F.** 2016. Decline in Pelagic South Atlantic Sharks Documented for the First Time. **Lenfest Ocean Program Fact Sheet**. Washington DC. [View publication](http://www.lenfestocean.org/en/news-and-publications/news/decline-in-pelagic-south-atlantic-sharks-documented-for-the-first-time)
 
 - Britten, G. L., Dowd, M., Minto, C., **Ferretti, F.**, Boero, F. and Lotze, H. K. 2014. Loss of Predators Can Destabilize Marine Communities. **Lenfest Ocean Program Fact Sheet**. Washington DC. [View publication](http://www.lenfestocean.org/en/publications/fact-sheet/loss-of-predators-can-destabilize-marine-communities)
 

@@ -80,3 +80,7 @@ layout: default
 ### TV Interviews
 
 - **Korn4** *by Aaron Pero* [California shark attack rates plunge](http://kron4.com/2015/07/09/california-shark-attack-rates-plunge/)
+
+### Citing the study on related issues
+
+- **The Christian Science Monitor** [Aquatic answers: Why do sharks bite more people in Hawaii?](http://www.csmonitor.com/Science/2016/0520/Aquatic-answers-Why-do-sharks-bite-more-people-in-Hawaii)

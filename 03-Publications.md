@@ -111,6 +111,8 @@ Technical Reports, Theses and Consultancy Works
 
 - Cerrano, C., Bakran-Petricioli, T., Bastari, A., Fraschetti, S., Huete-Stauffer, C., **Ferretti, F.**, Micheli, F., Ponti, M., Pusceddu, A., & Valisano, L. 2016. Adriatic Sea: Description of the ecology and identification of the areas that may deserve to be protected. Cebrian, D. & Requena, S. (eds.), RAC/SPA, Tunis; 92 pp. [View Publication](assets/Cerrano.etal.2016.pdf)
 
+- Chapple, T.K., Carlisle, A., **Ferretti, F.**, Gardner, L., Dale, J., Schaller, R.J., Tickler, D., & Block, B.A. 2016. *BIOT Animal Tracking & Monitoring Research Expedition*. **Final Report to the Bertarelli Foundation**. March and April 2016, Pacific Grove, CA.
+
 - Ellis, J., **Ferretti, F.**, Soldo, A. & Walls, R. 2015. *Alopias vulpinus*. **The IUCN Red List of Threatened Species 2015**: e.T39339A48936583 [View Publication](http://www.iucnredlist.org/details/39339/1)
 
 - **Ferretti, F.**, Morey, G, Serena, F., Mancusi, C., Fowler, S.L., Dipper, F. and Ellis, J. 2015. *Squatina squatina*. **The IUCN Red List of Threatened Species 2015**: e.T39332A48933059. [View Publication](http://dx.doi.org/10.2305/IUCN.UK.2015-1.RLTS.T39332A48933059.en)

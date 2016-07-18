@@ -83,4 +83,5 @@ layout: default
 
 ### Citing the study on related issues
 
+- **National Geographics** *by Craig Welch*: [Mysterious Great White Shark Attacks on Sea Otters Surge](http://news.nationalgeographic.com/2016/06/great-white-sharks-attack-sea-otters-california/)
 - **The Christian Science Monitor** [Aquatic answers: Why do sharks bite more people in Hawaii?](http://www.csmonitor.com/Science/2016/0520/Aquatic-answers-Why-do-sharks-bite-more-people-in-Hawaii)

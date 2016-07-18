@@ -23,7 +23,9 @@ Publications
 
 Journal Articles and Book Chapters
 ----------------------------------
-- Bastari, A., Micheli, F., **Ferretti, F.**, Pusceddu, A. and Cerrano, C. Large marine protected areas (LMPAs) in the Mediterranean Sea: the opportunity for the Adriatic Sea. *Accepted*. __*Marine Policy*__ [View Publication](assets/Bastari.etal.2016.pdf)<br>
+- Novaglio, C., **Ferretti, F.**, Smith, T. and Frusher, S. 2016. Species-area relationships as indicators of human impact on fish communities. 2016. __*Diversity and Distribution*__. *Accepted*.
+
+- Bastari, A., Micheli, F., **Ferretti, F.**, Pusceddu, A. and Cerrano, C. Large marine protected areas (LMPAs) in the Mediterranean Sea: the opportunity for the Adriatic Sea. __*Marine Policy*__, 68: 165-177. [View Publication](assets/Bastari.etal.2016.pdf)<br>
 **Public Outreach**<br>
 [<img src="assets/lenfestTwitterLogo.png" height = "73" alt="Lenfest logo" style = "border-radius: 15px">](http://www.lenfestocean.org/en/news-and-publications/published-paper/large-marine-protected-areas-lmpas-in-the-mediterranean-sea-the-opportunity-of-the-adriatic-sea)
 

@@ -33,3 +33,10 @@ The FAST tag projet
 
 Developing anti-poaching satellite- and radio-tagging based technologies to aid monitoring and enforcement in remote large marine protected areas
 
+Global Fishing Watch 
+--------------------
+<figure>
+<img src="assets/skytruth-gfw-world_pacific-854x480.gif" alt="Fast-tag" width="700" align="center"> 
+</figure>
+
+As a research partner of the [Global Fishing Watch](http://globalfishingwatch.org/) I am working on understanding patterns of high-seas fishing effort across the globe and how global fishing fleets interact with large pelagic fish and sharks. This work will be applied to inform marine spatial planning and fisheries management for areas outside national jurisdictions. 

@@ -23,19 +23,19 @@ Publications
 
 Journal Articles and Book Chapters
 ----------------------------------
-- Novaglio, C., **Ferretti, F.**, Smith, T. and Frusher, S. 2016. Species-area relationships as indicators of human impact on fish communities. 2016. __*Diversity and Distribution*__. [View Publication](http://onlinelibrary.wiley.com/doi/10.1111/ddi.12482/full).
+- Novaglio, C., **Ferretti, F.**, Smith, T. and Frusher, S. 2016. Species-area relationships as indicators of human impact on fish communities. 2016. __*Diversity and Distribution*__, 22 (11): 1186–1198. [View Publication](http://onlinelibrary.wiley.com/doi/10.1111/ddi.12482/full).
 
 - Bastari, A., Micheli, F., **Ferretti, F.**, Pusceddu, A. and Cerrano, C. 2016. Large marine protected areas (LMPAs) in the Mediterranean Sea: the opportunity for the Adriatic Sea. __*Marine Policy*__, 68: 165-177. [View Publication](assets/Bastari.etal.2016.pdf)<br>
 **Public Outreach**<br>
 [<img src="assets/lenfestTwitterLogo.png" height = "73" alt="Lenfest logo" style = "border-radius: 15px">](http://www.lenfestocean.org/en/news-and-publications/published-paper/large-marine-protected-areas-lmpas-in-the-mediterranean-sea-the-opportunity-of-the-adriatic-sea)
 
-- Barreto, R., **Ferretti, F.**, Flemming, J., Amorim, A., Andrade, H., Worm, B., and Lessa, R. 2016. Trends in the exploitation of South Atlantic shark populations. __*Conservation Biology*__. [View Publication](assets/Barreto_et_al-2016-Conservation_Biology.pdf)<br>
+- Barreto, R., **Ferretti, F.**, Flemming, J., Amorim, A., Andrade, H., Worm, B., and Lessa, R. 2016. Trends in the exploitation of South Atlantic shark populations. __*Conservation Biology*__, 30 (4): 792-804. [View Publication](assets/Barreto_et_al-2016-Conservation_Biology.pdf)<br>
 **Public Outreach**<br>
 [<img src="assets/lenfestTwitterLogo.png" height = "73" alt="Lenfest logo" style = "border-radius: 15px">](http://www.lenfestocean.org/en/news-and-publications/news/decline-in-pelagic-south-atlantic-sharks-documented-for-the-first-time)
 
 - Campana, S. and **Ferretti, F.** 2016. Chapter 40. Sharks and other elasmobranchs. In: __*World Ocean Assessment*__. United Nations. [View Publication](http://www.un.org/depts/los/global_reporting/WOA_RPROC/Chapter_40.pdf)
 
-- **Ferretti F.**, Jorgensen, S., Chapple, T., De Leo, G. and Micheli, F. Reconciling predator conservation with public safety. 2015. __*Frontiers in Ecology and the Environment*__. doi:10.1890/150109 [View Publication](Ferretti.etal.2015Frontiers.pdf)<br>
+- **Ferretti F.**, Jorgensen, S., Chapple, T., De Leo, G. and Micheli, F. Reconciling predator conservation with public safety. 2015. __*Frontiers in Ecology and the Environment*__, 13 (8): 412–417. doi:10.1890/150109 [View Publication](Ferretti.etal.2015Frontiers.pdf)<br>
 **Media Coverage, Public Outreach, and Research Highlights** (**MPR**, [full coverage](assets/ReconcilingPredatorsMediaCoverage.html))<br> 
 [<img src="assets/wjsTwitterLogo.jpeg" height = "73" style = "border-radius: 15px" alt="WSJlogo">](http://www.wsj.com/articles/what-are-the-odds-long-most-likely-1439544600)
 [<img src="assets/wapo-logo2.png" height = "73" style = "border-radius: 15px" alt="WPlogo">](http://www.washingtonpost.com/news/energy-environment/wp/2015/07/09/good-news-for-california-beachgoers-the-risk-of-a-shark-attack-has-been-declining-for-decades/)

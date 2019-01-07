@@ -23,11 +23,48 @@ Publications
 
 Journal Articles and Book Chapters
 ----------------------------------
-- Novaglio, C., **Ferretti, F.**, Smith, T. and Frusher, S. 2016. Species-area relationships as indicators of human impact on fish communities. 2016. __*Diversity and Distribution*__, 22 (11): 1186–1198. [View Publication](http://onlinelibrary.wiley.com/doi/10.1111/ddi.12482/full).
+
+ - White, T., **Ferretti, F.**, Kroodsma, D., Hazen, E., Carlisle, A., Scales, K., Bogard, S. and Block, B. Predicted hotspots of overlap between highly migratory fishesand industrial fishing fleets in the Northeast Pacific. Accepted at Science Advances.
+
+ - Kroodsma, D., Mayorga, J., Hochberg, T., Miller, N.A., Boerder, K., **Ferretti, F.**, Wilson, A., Bergman, B., White, T.D., Block, B.A., Woods, P., Sullivan, B., Costello, C., and Worm, B. 2018. Response to Comment on “Tracking the global footprint of fisheries”. __*Science*__, 361 (6404), eaat7789. [View publication](http://science.sciencemag.org/content/361/6404/eaat7789)
+
+- Novaglio, C., Smith, A.D.M., Frusher, S., **Ferretti, F.**, Klaer, N. and Fulton, E.A. 2018. Fishery Development and Exploitation in South East Australia. __*Frontiers in Marine Science*__ 5: 145. doi: 10.3389/fmars.2018.00145 [View publication](https://www.frontiersin.org/articles/10.3389/fmars.2018.00145/full)
+
+- Elahi, R., **Ferretti, F.**, Bastari, A., Cerrano, C., Colloca, F., Kowalik, J., Ruckelshaus, M., Struck, A. and Micheli, F. 2018. Using satellite-derived vessel tracking data to inform marine management in intensely used regions. __*Frontiers in Ecology and the Environment*__. https://doi.org/10.1002/fee.1936 [View publication](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/fee.1936) 
+
+- **Ferretti, F.**, Curnick, D., Liu, K., Romanov, E. and Block, B. 2018. Shark baselines and the conservation role of remote coral reef ecosystems. __*Science Advances*__, 4 (3): eaaq0333. [View publication](http://advances.sciencemag.org/content/4/3/eaaq0333)
+
+- Bastari, A., Pica, D., **Ferretti, F.**, Micheli, F. and Cerrano, C. 2018. Sea pens in the Mediterranean Sea: habitat suitability and opportunities for ecosystem recovery. __*ICES Journal of Marine Science*__, fsy010. [View publication](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsy010/4904207)
+
+- Kroodsma, D., Mayorga, J., Hochberg, T., Miller, N.A., Boerder, K., **Ferretti, F.**, Wilson, A., Bergman, B., White, T.D., Block, B.A., Woods, P., Sullivan, B., Costello, C., and Worm, B. 2018. Tracking the Global Footrpint of Fisheries. __*Science*__, 359 (6378): 904-908. [View publication](http://science.sciencemag.org/content/359/6378/904)<br>
+**Media Coverage, Public Outreach, and Research Highlights** <br> 
+[<img src="assets/SUtwitterLogo.png" alt="Stanford News" height = "73" style = "border-radius: 15px">](http://news.stanford.edu/news/2015/july/shark-attack-risk-070815.html)
+[<img src="assets/nprTwitterLogo.jpg" height = "73" style = "border-radius: 15px" alt="NPRlogo">](https://news.stanford.edu/2018/02/22/tracking-fishing-space/)
+[<img src="assets/wapo-logo2.png" height = "73" style = "border-radius: 15px" alt="WPlogo">](https://www.washingtonpost.com/news/energy-environment/wp/2018/02/22/new-maps-show-the-utterly-massive-imprint-of-fishing-on-the-worlds-oceans/?noredirect=on&utm_source=rss_energy-environment&utm_term=.f70ee8888394)
+[<img src="assets/theGuardianTwitterLogo.png" height = "73" style = "border-radius: 15px" alt="guardian-logo">](https://www.theguardian.com/science/2018/feb/22/neanderthals-not-humans-were-first-artists-on-earth-experts-claim)
+[<img src="assets/globeMailTwitterLogo.jpg" alt="Globe Mail" height = "73" style = "border-radius: 15px">](https://www.theglobeandmail.com/news/national/researchers-map-massive-global-footprint-of-industrial-fishing-industry/article38063858/?cmpid=rss1)
+[<img src="assets/laStampaTwitterLogo.jpg" alt="La Stampa" height = "73" style = "border-radius: 15px">](http://www.lastampa.it/2018/02/27/scienza/pesca-industriale-ladriatico-tra-le-aree-pi-sfruttate-al-mondo-JguFF40QSKOddn4elIZBaN/pagina.html)
+[<img src="assets/forbesTwitterLogo.png" alt="Forbes" height = "73" style = "border-radius: 15px">](https://www.forbes.com/sites/kalevleetaru/2018/02/28/global-fishing-watch-and-the-power-of-data-to-understand-our-natural-world/#398ec0552e19)
+[<img src="assets/BBC_News.svg.png" height = "73" style = "border-radius: 15px" alt="BBC News">](http://www.bbc.com/news/science-environment-43169824)
+[<img src="assets/leMondeTwitterLogo.png" height = "73" style = "border-radius: 15px" alt="leMondelogo">](http://www.lemonde.fr/biodiversite/article/2018/02/22/la-peche-industrielle-exploite-plus-de-la-moitie-de-la-superficie-des-oceans_5261145_1652692.html)
+[<img src="assets/elPaisTwitterLogo.jpg" height = "73" style = "border-radius: 15px" alt="El Pais">](https://elpais.com/elpais/2018/02/22/ciencia/1519312509_704116.html)
+
+- Bastari, A., Beccacece, J., **Ferretti, F.**, Micheli, F., Cerrano, C. 2017. Local ecological knowledge indicates temporal trends of benthic invertebrates species of the Adriatic Sea. __*Frontiers in Marine Science*__, 4: 157. [View Publication](https://www.frontiersin.org/articles/10.3389/fmars.2017.00157/full)
+
+- O'Leary JK, Micheli, F., Airoldi, L., Boch, C., De Leo, G., Elahi, R., **Ferretti, F.**, Graham, N.A.J., Litvin, S.Y., Low, N.H., Lumis, S., Nickols, K.J. and Wong, J. 2017. Resilience of marine ecosystems to climatic disturbances. __*Bioscience*__. DOI:10.1093/biosci/biw161 [View Publication](https://academic.oup.com/bioscience/article/doi/10.1093/biosci/biw161/2900174/The-Resilience-of-Marine-Ecosystems-to-Climatic).
+
+- Novaglio, C., **Ferretti, F.**, Smith, T. and Frusher, S. 2016. Species-area relationships as indicators of human impact on fish communities. 2016. __*Diversity and Distribution*__, 22 (11): 1186–1198. [View Publication](http://onlinelibrary.wiley.com/doi/10.1111/ddi.12482/full).<br>
+**Public Outreach**<br>
+[<img src="assets/lenfestTwitterLogo.png" height = "73" alt="Lenfest logo" style = "border-radius: 15px">](http://www.lenfestocean.org/en/news-and-publications/published-paper/species-area-relationships-as-indicators-of-human-impacts-on-demersal-fish-communities)
 
 - Bastari, A., Micheli, F., **Ferretti, F.**, Pusceddu, A. and Cerrano, C. 2016. Large marine protected areas (LMPAs) in the Mediterranean Sea: the opportunity for the Adriatic Sea. __*Marine Policy*__, 68: 165-177. [View Publication](assets/Bastari.etal.2016.pdf)<br>
 **Public Outreach**<br>
 [<img src="assets/lenfestTwitterLogo.png" height = "73" alt="Lenfest logo" style = "border-radius: 15px">](http://www.lenfestocean.org/en/news-and-publications/published-paper/large-marine-protected-areas-lmpas-in-the-mediterranean-sea-the-opportunity-of-the-adriatic-sea)
+
+- **Ferretti, F.**, Morey, G., Seret, B., Sprem, J.S. and Micheli, F. 2016. Falling through the cracks: the fading history of a large iconic predator. __*Fish and Fisheries*__, 17 (3): 875–889. DOI: 10.1111/faf.12108 [View Publication.](assets/Ferretti.etal.2015FishFisheries.pdf) <br>
+**Public Outreach**<br>
+[<img src="assets/NGTwitterLogo.jpg" alt="Nat Geo logo" style = "border-radius: 15px">](http://phenomena.nationalgeographic.com/2015/01/22/the-mediterraneans-missing-sawfishes/) [<img src="assets/woodsTwitterLogo.png" height = "73" alt="logoWoods">](https://woods.stanford.edu/news-events/news/falling-through-cracks-story-sawfish) 
+
 
 - Barreto, R., **Ferretti, F.**, Flemming, J., Amorim, A., Andrade, H., Worm, B., and Lessa, R. 2016. Trends in the exploitation of South Atlantic shark populations. __*Conservation Biology*__, 30 (4): 792-804. [View Publication](assets/Barreto_et_al-2016-Conservation_Biology.pdf)<br>
 **Public Outreach**<br>
@@ -51,10 +88,6 @@ Journal Articles and Book Chapters
 [<img src="assets/F1000twitterLogo.png" height = "73" alt="F1000" style = "border-radius: 15px">](http://f1000.com/prime/725763405)
 <br>
 
-
-- **Ferretti, F.**, Morey, G., Seret, B., Sprem, J.S. and Micheli, F. 2015. Falling through the cracks: the fading history of a large iconic predator. __*Fish and Fisheries*__. DOI: 10.1111/faf.12108 [View Publication.](assets/Ferretti_et_al-2015-Fish_and_Fisheries.pdf) <br>
-**Public Outreach**<br>
-[<img src="assets/NGTwitterLogo.jpg" alt="Nat Geo logo" style = "border-radius: 15px">](http://phenomena.nationalgeographic.com/2015/01/22/the-mediterraneans-missing-sawfishes/) [<img src="assets/woodsTwitterLogo.png" height = "73" alt="logoWoods">](https://woods.stanford.edu/news-events/news/falling-through-cracks-story-sawfish) 
 
 - Micheli F., De Leo, G., **Ferretti F.**, Hines, A. M., Honey, K. T, Kroeker K., Martone, R., McCauley D. J., O’Leary, J. K., Rosim D. F., Sokolow S. Stock A., Wood C. L. 2015. Ocean Health. In: __*Handbook of Ocean Resources and Management*__, T. Agardy, H. Smith, and J. L. Suarez de Vivero (eds.). In Press [View Publication](http://www.routledge.com/books/details/9780415531757/)
 
@@ -114,6 +147,8 @@ Technical Reports, Theses and Consultancy Works
 - Cerrano, C., Bakran-Petricioli, T., Bastari, A., Fraschetti, S., Huete-Stauffer, C., **Ferretti, F.**, Micheli, F., Ponti, M., Pusceddu, A., & Valisano, L. 2016. Adriatic Sea: Description of the ecology and identification of the areas that may deserve to be protected. Cebrian, D. & Requena, S. (eds.), RAC/SPA, Tunis; 92 pp. [View Publication](assets/Cerrano.etal.2016.pdf)
 
 - Chapple, T.K., Carlisle, A., **Ferretti, F.**, Gardner, L., Dale, J., Schaller, R.J., Tickler, D., & Block, B.A. 2016. *BIOT Animal Tracking & Monitoring Research Expedition*. **Final Report to the Bertarelli Foundation**. March and April 2016, Pacific Grove, CA.
+
+- Novaglio, C., Smith, A.D.M., Frusher, S., and **Ferretti, F.**. 2015. *Bottom trawl surveys: catch and effort data for South East Australia between 1898 and 1996.* **MarLIN Information Network.** Available online at: http://www.marine.csiro.au/cgi-bin/marlin-dl/BottomTrawlSurveys1898_1997/Supporting_Documentation.pdf. [View Publication](assets/Novaglio.etal.2015.pdf)
 
 - Ellis, J., **Ferretti, F.**, Soldo, A. & Walls, R. 2015. *Alopias vulpinus*. **The IUCN Red List of Threatened Species 2015**: e.T39339A48936583 [View Publication](http://www.iucnredlist.org/details/39339/1)
 

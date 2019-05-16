@@ -24,7 +24,11 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
 
- - White, T., **Ferretti, F.**, Kroodsma, D., Hazen, E., Carlisle, A., Scales, K., Bogard, S. and Block, B. Predicted hotspots of overlap between highly migratory fishesand industrial fishing fleets in the Northeast Pacific. Accepted at Science Advances.
+ - Carlisle, A., Dale, J, **Ferretti, F.**, Tickler, D., Curnick, D., Chapple, T., Schaller, R., Castleton, M. and Block, B. Estimating space use of mobile fishes in a large marine protected area with methodological considerations in acoustic array design. Accepted in __*Frontiers in Marine Sciences*__.
+ 
+ - Jorgensen, S. J., Anderson, S., **Ferretti, F.**, Tietz, J., Chapple, T., Kanive, P., Bradley, R., Moxley, J. and Block, B. A.  2019. Killer whales redistribute white shark foraging pressure on elephant seals. __*Sci. Rep*__, 9: 6153. [View publication](https://www.nature.com/articles/s41598-019-39356-2) 
+
+ - White, T., **Ferretti, F.**, Kroodsma, D., Hazen, E., Carlisle, A., Scales, K., Bogard, S. and Block, B. 2019. Predicted hotspots of overlap between highly migratory fishes and industrial fishing fleets in the Northeast Pacific. Accepted at __*Science Advances*__, 5 (3): eaau3761. [View publication](https://advances.sciencemag.org/content/5/3/eaau3761)
 
  - Kroodsma, D., Mayorga, J., Hochberg, T., Miller, N.A., Boerder, K., **Ferretti, F.**, Wilson, A., Bergman, B., White, T.D., Block, B.A., Woods, P., Sullivan, B., Costello, C., and Worm, B. 2018. Response to Comment on “Tracking the global footprint of fisheries”. __*Science*__, 361 (6404), eaat7789. [View publication](http://science.sciencemag.org/content/361/6404/eaat7789)
 

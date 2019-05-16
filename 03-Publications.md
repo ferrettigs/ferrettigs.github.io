@@ -24,7 +24,7 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
 
- - Carlisle, A., Dale, J, **Ferretti, F.**, Tickler, D., Curnick, D., Chapple, T., Schaller, R., Castleton, M. and Block, B. Estimating space use of mobile fishes in a large marine protected area with methodological considerations in acoustic array design. Accepted in __*Frontiers in Marine Sciences*__.
+ - Carlisle, A., Dale, J, **Ferretti, F.**, Tickler, D., Curnick, D., Chapple, T., Schaller, R., Castleton, M. and Block, B. Estimating space use of mobile fishes in a large marine protected area with methodological considerations in acoustic array design. Accepted in __*Frontiers in Marine Sciences*__. doi: 10.3389/fmars.2019.00256 [View publication](https://www.frontiersin.org/articles/10.3389/fmars.2019.00256/full)
  
  - Jorgensen, S. J., Anderson, S., **Ferretti, F.**, Tietz, J., Chapple, T., Kanive, P., Bradley, R., Moxley, J. and Block, B. A.  2019. Killer whales redistribute white shark foraging pressure on elephant seals. __*Sci. Rep*__, 9: 6153. [View publication](https://www.nature.com/articles/s41598-019-39356-2) 
 

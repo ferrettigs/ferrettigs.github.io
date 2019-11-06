@@ -24,9 +24,15 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
 
+- Novaglio, C., A.D.M. Smith, S. Frusher, **F. Ferretti**. 2019. Identifying historical changes at the onset of exploitation to improve understanding of fishing impacts. Accepted in __*Aquatic Conservation: Marine and Freshwater Ecosystems*__.
+
+- Dunn, D., Harrison, A., Curtice, C., Ferretti, F. et al. 2019. Global ocean governance requires actionable knowledge on migratory connectivity. Proceedings of the Royal Society of London, B. https://doi.org/10.1098/rspb.2019.1472
+
+- Queiroz, N., Humphries, N.E., Couto, A., Vedor, M., da Costa, I., Sequeira, A.M.M., Mucientes, G., Santos, A.M.,... **Ferretti, F.**... and Sims, D.W. 2019. Global spatial risk assessment of sharks under the footprint of fisheries. __*Nature*__, doi: 10.1038/s41586-019-1444-4
+ 
  - Carlisle, A., Dale, J, **Ferretti, F.**, Tickler, D., Curnick, D., Chapple, T., Schaller, R., Castleton, M. and Block, B. 2019. Estimating space use of mobile fishes in a large marine protected area with methodological considerations in acoustic array design. __*Frontiers in Marine Sciences*__. doi: 10.3389/fmars.2019.00256 [View publication](https://www.frontiersin.org/articles/10.3389/fmars.2019.00256/full)
  
- - Jorgensen, S. J., Anderson, S., **Ferretti, F.**, Tietz, J., Chapple, T., Kanive, P., Bradley, R., Moxley, J. and Block, B. A.  2019. Killer whales redistribute white shark foraging pressure on elephant seals. __*Sci. Rep*__, 9: 6153. [View publication](https://www.nature.com/articles/s41598-019-39356-2) 
+ - Jorgensen, S. J., Anderson, S., **Ferretti, F.**, Tietz, J., Chapple, T., Kanive, P., Bradley, R., Moxley, J. and Block, B. A.  2019. Killer whales redistribute white shark foraging pressure on elephant seals. __*Scientific Reports*__, 9: 6153. [View publication](https://www.nature.com/articles/s41598-019-39356-2) 
 
  - White, T., **Ferretti, F.**, Kroodsma, D., Hazen, E., Carlisle, A., Scales, K., Bogard, S. and Block, B. 2019. Predicted hotspots of overlap between highly migratory fishes and industrial fishing fleets in the Northeast Pacific. __*Science Advances*__, 5 (3): eaau3761. [View publication](https://advances.sciencemag.org/content/5/3/eaau3761)
 

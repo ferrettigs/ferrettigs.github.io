@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Data Science for Marine Ecology and Conservation
 # to test the website locally run jekyll serve with the config.yml having the next two lines commented
 #baseurl: "/~ferretti"  # the subpath of your site, e.g. /blog/
-#baseurl: "/ferrettigs.github.io"  # the subpath of your site, e.g. /blog/
+baseurl: "/ferrettigs.github.io"  # the subpath of your site, e.g. /blog/
 #url: "http://web.stanford.edu" # the base hostname & protocol for your site
 # to produce a working site for web.stanford.edu, remove the comments
 

@@ -2,7 +2,7 @@
 author: "Francesco Ferretti"
 date: "July 11, 2015"
 layout: default
-nav_exclude: true
+exclude: true
 ---
 
 

@@ -15,8 +15,7 @@ title: Projects
 
 <figure>
 <img src="assets/SawfishPetrarojaModified.jpg" alt="CSI-sawfish" width="700" align="center"> 
-<figcaption> Rostrum of a largetooth sawfish displayed in the Sanctuary of
-Carmine Maggiore in Napoli (read its story <a href="assets/Ferretti.solo.2014.pdf">here</a>).</figcaption>
+<figcaption> Print contained in Boschi G. 1876. 7 - Pesci e Rettili, in: Atlante Zoologico Popolare, opera Compilata Sui Piu' Recenti Lavori di Zoologia Italiani e Stranieri.</figcaption>
 </figure>
 
 <details>
@@ -81,14 +80,14 @@ Illegal unreported and unregulated fishing (IUU) and resource overexploitation a
 
 ## Management and Conservation Role of LMPA.
 
-<img src="assets/bottom_trawlingNarrow.png" alt="AMER" width="700" align="center"> 
+<img src="assets/chagosAerialViewNarrow.png" alt="pristine" width="700" align="center"> 
 
 <details>
-  <summary> (Click to expand)</summary>
+  <summary> Investigating on the impact of large marine protected areas on the management and conservation of sharks and other broad-ranging marine megafauna (Click to expand)</summary>
 
 <br>
 
-Very large marine protected areas (LMPA > 75,000 km2) are increasingly popular to protect the last strongholds of biodiversity in the ocean and promote recovery of heavily exploited regions. Yet not all agree on their value for management and conservation. Challenges are demonstrating that positive outcomes observed in smaller coastal MPAs also occur at such large scales and that monitoring and enforcement over vast and remote oceanic regions are possible. Through the **Bertarelli Programme in Marine Science**, an international collaborative initiative focused on the Chagos Archipelago in the British Indian Ocean Territory, I am investigating on the structure and function of pristine coral reef ecosystems, the impact of large marine protected areas on the management and conservation of sharks and other broad-ranging marine megafauna, the fundamental spatial ecology of these animals, and the effectiveness of mega-reserves in remote oceanic regions.
+Very large marine protected areas (LMPA > 75,000 km2) are increasingly popular to protect the last strongholds of biodiversity in the ocean and promote recovery of heavily exploited regions. Yet not all agree on their value for management and conservation. Challenges are demonstrating that positive outcomes observed in smaller coastal MPAs also occur at such large scales and that monitoring and enforcement over vast and remote oceanic regions are possible. Through the <b>Bertarelli Programme in Marine Science</b>, an international collaborative initiative focused on the Chagos Archipelago in the British Indian Ocean Territory, I am investigating on the structure and function of pristine coral reef ecosystems, the impact of large marine protected areas on the management and conservation of sharks and other broad-ranging marine megafauna, the fundamental spatial ecology of these animals, and the effectiveness of mega-reserves in remote oceanic regions.
 </details>
 
 <br>

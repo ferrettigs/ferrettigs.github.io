@@ -29,7 +29,7 @@ Journal Articles and Book Chapters
 
  - Moro, S., Jona-Lasinio, G., Block, B., Micheli, F., De Leo, G., Bottaro, M., Scacco, U., Serena, F. and **Ferretti, F.** Patterns of abundance and distribution of the white shark in the Mediterranean Sea. Accepted in __*Fish and Fisheries*__.
 
- - Bargnesi, F., Gridelli, S., Cerrano, C., and **Ferretti, F.** 2019. Reconstructing the history and ecology of the sand tiger shark (Carcharias taurus) in the Mediterranean Sea. Accepted in __*Aquatic Conservation: Marine and Freshwater Ecosystems*__.
+ - Bargnesi, F., Gridelli, S., Cerrano, C., and **Ferretti, F.** 2019. Reconstructing the history and ecology of the sand tiger shark (*Carcharias taurus*) in the Mediterranean Sea. Accepted in __*Aquatic Conservation: Marine and Freshwater Ecosystems*__.
 
  - Bargnesi, F., Lucrezi, S. and **Ferretti, F.** 2019. Opportunities from citizen science for shark conservation, with a focus on the Mediterranean Sea. Accepted in __*European Journal of Zoology*__.
 

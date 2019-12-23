@@ -2,6 +2,7 @@
 author: "Francesco Ferretti"
 date: "July 19, 2015"
 output: html*document
+exclude: true
 ---
 
 Newspapers

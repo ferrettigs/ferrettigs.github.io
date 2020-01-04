@@ -27,11 +27,11 @@ Journal Articles and Book Chapters
 
  - Leone, A., Puncher, G.N., **Ferretti, F** et al. Origin of the Mediterranean Great White Shark population. Accepted in __*Journal of Biogeography*__.
 
- - Moro, S., Jona-Lasinio, G., Block, B., Micheli, F., De Leo, G., Bottaro, M., Scacco, U., Serena, F. and **Ferretti, F.** Patterns of abundance and distribution of the white shark in the Mediterranean Sea. Accepted in __*Fish and Fisheries*__.
-
  - Bargnesi, F., Gridelli, S., Cerrano, C., and **Ferretti, F.** 2019. Reconstructing the history and ecology of the sand tiger shark (*Carcharias taurus*) in the Mediterranean Sea. Accepted in __*Aquatic Conservation: Marine and Freshwater Ecosystems*__.
 
  - Bargnesi, F., Lucrezi, S. and **Ferretti, F.** 2019. Opportunities from citizen science for shark conservation, with a focus on the Mediterranean Sea. Accepted in __*European Journal of Zoology*__.
+ 
+ - Moro, S., Jona-Lasinio, G., Block, B., Micheli, F., De Leo, G., Bottaro, M., Scacco, U., Serena, F. and **Ferretti, F.** 2019. Patterns of abundance and distribution of the white shark in the Mediterranean Sea. __*Fish and Fisheries*__ [View publication](https://onlinelibrary.wiley.com/doi/abs/10.1111/faf.12432) 
 
 - Novaglio, C., A.D.M. Smith, S. Frusher, **F. Ferretti**. 2019. Identifying historical changes at the onset of exploitation to improve understanding of fishing impacts. Accepted in __*Aquatic Conservation: Marine and Freshwater Ecosystems*__.
 

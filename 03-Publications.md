@@ -24,6 +24,7 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
 
+ - **Ferretti, F.**, Jacoby, D., White, T., Dent, F., Micheli, F., Rosenberg, A., Crowder, L., Block, B. Shark Fin Trade Bans and Sustainable Shark Fisheries. Accepted in __*Conservation Letters*__.
 
  - Leone, A., Puncher, G.N., **Ferretti, F** et al. Origin of the Mediterranean Great White Shark population. Accepted in __*Journal of Biogeography*__.
 

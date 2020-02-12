@@ -26,15 +26,15 @@ Journal Articles and Book Chapters
 
  - **Ferretti, F.**, Jacoby, D., Pfleger, M., White, T., Dent, F., Micheli, F., Rosenberg, A., Crowder, L., Block, B. Shark Fin Trade Bans and Sustainable Shark Fisheries. Accepted in __*Conservation Letters*__.
 
- - Leone, A., Puncher, G.N., **Ferretti, F** et al. Origin of the Mediterranean Great White Shark population. Accepted in __*Journal of Biogeography*__.
+ - Bargnesi, F., Gridelli, S., Cerrano, C., and **Ferretti, F.**. Reconstructing the history and ecology of the sand tiger shark (*Carcharias taurus*) in the Mediterranean Sea. Accepted in __*Aquatic Conservation: Marine and Freshwater Ecosystems*__.
 
- - Bargnesi, F., Gridelli, S., Cerrano, C., and **Ferretti, F.** 2019. Reconstructing the history and ecology of the sand tiger shark (*Carcharias taurus*) in the Mediterranean Sea. Accepted in __*Aquatic Conservation: Marine and Freshwater Ecosystems*__.
+ - Leone, A., Puncher, G.N., **Ferretti, F** et al. 2020. Origin of the Mediterranean Great White Shark population. __*Journal of Biogeography*__ [View publication](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13794).
 
- - Bargnesi, F., Lucrezi, S. and **Ferretti, F.** 2019. Opportunities from citizen science for shark conservation, with a focus on the Mediterranean Sea. Accepted in __*European Journal of Zoology*__.
+ - Bargnesi, F., Lucrezi, S. and **Ferretti, F.**. 2020. Opportunities from citizen science for shark conservation, with a focus on the Mediterranean Sea. __*European Journal of Zoology*__ [View publication](https://www.tandfonline.com/doi/full/10.1080/24750263.2019.1709574).
  
- - Moro, S., Jona-Lasinio, G., Block, B., Micheli, F., De Leo, G., Bottaro, M., Scacco, U., Serena, F. and **Ferretti, F.** 2019. Patterns of abundance and distribution of the white shark in the Mediterranean Sea. __*Fish and Fisheries*__ [View publication](https://onlinelibrary.wiley.com/doi/abs/10.1111/faf.12432) 
-
-- Novaglio, C., A.D.M. Smith, S. Frusher, **F. Ferretti**. 2019. Identifying historical changes at the onset of exploitation to improve understanding of fishing impacts. Accepted in __*Aquatic Conservation: Marine and Freshwater Ecosystems*__.
+- Novaglio, C., A.D.M. Smith, S. Frusher, **F. Ferretti**. 2020. Identifying historical changes at the onset of exploitation to improve understanding of fishing impacts. Accepted in __*Aquatic Conservation: Marine and Freshwater Ecosystems*__ [View publication](https://onlinelibrary.wiley.com/doi/full/10.1002/aqc.3264).
+ 
+- Moro, S., Jona-Lasinio, G., Block, B., Micheli, F., De Leo, G., Bottaro, M., Scacco, U., Serena, F. and **Ferretti, F.** 2019. Patterns of abundance and distribution of the white shark in the Mediterranean Sea. __*Fish and Fisheries*__ [View publication](https://onlinelibrary.wiley.com/doi/abs/10.1111/faf.12432). 
 
 - Dunn, D., Harrison, A., Curtice, C., **Ferretti, F.** et al. 2019. The importance of migratory connectivity for global ocean policy. __*Proceedings of the Royal Society of London, B.*__ https://doi.org/10.1098/rspb.2019.1472 [View publication](https://royalsocietypublishing.org/doi/10.1098/rspb.2019.1472)
 

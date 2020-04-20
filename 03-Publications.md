@@ -25,7 +25,7 @@ Journal Articles and Book Chapters
 ----------------------------------
 
  
- - Curnick, D., Koldewey, H., Jones, K., Kemp, K., **Ferretti, F.** 2020. Interactions between a large marine protected area, pelagic tuna and associated fisheries. *Accepted* in __*Frontiers of Marine Science*__*. 
+ - Curnick, D., Koldewey, H., Jones, K., Kemp, K., **Ferretti, F.** 2020. Interactions between a large marine protected area, pelagic tuna and associated fisheries. *Accepted* in __*Frontiers of Marine Science*__. 
  
  - Jacoby, D., **Ferretti, F.**, Freeman, R., Carlisle, A., Chapple, T., Curnick, D., Dale, J., Schallert, R., Tickler, D., and Block, B. 2020. Shark movement strategies influence poaching risk and enforcement decisions in a large, remote Marine Protected Area. *Accepted* in __*Journal of Applied Ecology*__.
 

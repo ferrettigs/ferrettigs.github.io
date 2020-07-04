@@ -24,12 +24,17 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
 
+ - White, T., **Ferretti, F.**, McCauley, D., Ong, T., Block, B., Micheli, F. and De Leo, G. 2020. Tracking the response of industrial fishing fleets to large marine protected areas. Accepted at __*Conservation Biology*__.
  
- - Curnick, D., Koldewey, H., Jones, K., Kemp, K., **Ferretti, F.** 2020. Interactions between a large marine protected area, pelagic tuna and associated fisheries. *Accepted* in __*Frontiers of Marine Science*__. 
+ - Mancusi, C, R. Baino, M. Barone, C. Fortuna, L.Gil de Sola, G. Morey, M. N. Bradai, A. Kallianotis, A., …, **Ferretti, F.** et al. 2020. MEDLEM database, a data collection on large Elasmobranchs in the Mediterranean and Black seas. __*Med. Mar. Sci.*__[View publication](https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/article/view/21148)
+
+ - Curnick, D., Koldewey, H., Jones, K., Kemp, K., **Ferretti, F.** 2020. Interactions between a large marine protected area, pelagic tuna and associated fisheries. *Accepted* in __*Frontiers of Marine Science*__. [View publication](https://www.frontiersin.org/articles/10.3389/fmars.2020.00318/full?utm_source=F-AAE&utm_medium=EMLF&utm_campaign=MRK_1334659_45_Marine_20200521_arts_A)
  
  - Jacoby, D., **Ferretti, F.**, Freeman, R., Carlisle, A., Chapple, T., Curnick, D., Dale, J., Schallert, R., Tickler, D., and Block, B. 2020. Shark movement strategies influence poaching risk and enforcement decisions in a large, remote Marine Protected Area. *Accepted* in __*Journal of Applied Ecology*__.
 
  - **Ferretti, F.**, Jacoby, D., Pfleger, M., White, T., Dent, F., Micheli, F., Rosenberg, A., Crowder, L., Block, B. 2020. Shark Fin Trade Bans and Sustainable Shark Fisheries.  __*Conservation Letters*__ [View publication](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12708).
+ 
+ - Williamson, MJ., Tebbs, E.J., Dawson, T.P., Curnick, D.J., **Ferretti, F.**, Carlisle, A.B., Chapple, T.K., Schallert, R.J., Tickler, D.M, Block, B. A., and Jacoby, D.M. 2020. Gap analysis of acoustic tracking data reveals spatial and temporal segregation in sympatric reef sharks. Research Square Preprint. [View publication](https://doi.org/10.21203/rs.2.19727/v1).
 
  - Bargnesi, F., Gridelli, S., Cerrano, C., and **Ferretti, F.**. 2020. Reconstructing the history and ecology of the sand tiger shark (*Carcharias taurus*) in the Mediterranean Sea. __*Aquatic Conservation: Marine and Freshwater Ecosystems*__ [View publication](https://onlinelibrary.wiley.com/doi/abs/10.1002/aqc.3301).
 
@@ -39,7 +44,7 @@ Journal Articles and Book Chapters
  
 - Novaglio, C., A.D.M. Smith, S. Frusher, **F. Ferretti**. 2020. Identifying historical changes at the onset of exploitation to improve understanding of fishing impacts. __*Aquatic Conservation: Marine and Freshwater Ecosystems*__ https://doi.org/10.1002/aqc.3264 [View publication](https://onlinelibrary.wiley.com/doi/full/10.1002/aqc.3264).
  
-- Moro, S., Jona-Lasinio, G., Block, B., Micheli, F., De Leo, G., Bottaro, M., Scacco, U., Serena, F. and **Ferretti, F.** 2019. Patterns of abundance and distribution of the white shark in the Mediterranean Sea. __*Fish and Fisheries*__ [View publication](https://onlinelibrary.wiley.com/doi/abs/10.1111/faf.12432). 
+- Moro, S., Jona-Lasinio, G., Block, B., Micheli, F., De Leo, G., Bottaro, M., Scacco, U., Serena, F. and **Ferretti, F.** 2019. Patterns of abundance and distribution of the white shark in the Mediterranean Sea. __*Fish and Fisheries*__, 21(2): 338-349. [View publication](https://onlinelibrary.wiley.com/doi/abs/10.1111/faf.12432). 
 
 - Dunn, D., Harrison, A., Curtice, C., **Ferretti, F.** et al. 2019. The importance of migratory connectivity for global ocean policy. __*Proceedings of the Royal Society of London, B.*__ https://doi.org/10.1098/rspb.2019.1472 [View publication](https://royalsocietypublishing.org/doi/10.1098/rspb.2019.1472)
 

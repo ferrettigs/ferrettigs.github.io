@@ -24,7 +24,7 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
 
- - White, T., **Ferretti, F.**, McCauley, D., Ong, T., Block, B., Micheli, F. and De Leo, G. 2020. Tracking the response of industrial fishing fleets to large marine protected areas. Accepted at __*Conservation Biology*__.
+ - White, T., **Ferretti, F.**, McCauley, D., Ong, T., Block, B., Micheli, F. and De Leo, G. 2020. Tracking the response of industrial fishing fleets to large marine protected areas. Accepted in __*Conservation Biology*__.
  
  - Mancusi, C, R. Baino, M. Barone, C. Fortuna, L.Gil de Sola, G. Morey, M. N. Bradai, A. Kallianotis, A., …, **Ferretti, F.** et al. 2020. MEDLEM database, a data collection on large Elasmobranchs in the Mediterranean and Black seas. __*Med. Mar. Sci.*__[View publication](https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/article/view/21148)
 

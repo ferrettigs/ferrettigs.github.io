@@ -28,9 +28,9 @@ Journal Articles and Book Chapters
  
  - Mancusi, C, R. Baino, M. Barone, C. Fortuna, L.Gil de Sola, G. Morey, M. N. Bradai, A. Kallianotis, A., …, **Ferretti, F.** et al. 2020. MEDLEM database, a data collection on large Elasmobranchs in the Mediterranean and Black seas. __*Med. Mar. Sci.*__[View publication](https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/article/view/21148)
 
- - Curnick, D., Koldewey, H., Jones, K., Kemp, K., **Ferretti, F.** 2020. Interactions between a large marine protected area, pelagic tuna and associated fisheries. *Accepted* in __*Frontiers of Marine Science*__. [View publication](https://www.frontiersin.org/articles/10.3389/fmars.2020.00318/full?utm_source=F-AAE&utm_medium=EMLF&utm_campaign=MRK_1334659_45_Marine_20200521_arts_A)
+ - Curnick, D., Koldewey, H., Jones, K., Kemp, K., **Ferretti, F.** 2020. Interactions between a large marine protected area, pelagic tuna and associated fisheries. __*Frontiers of Marine Science*__. [View publication](https://www.frontiersin.org/articles/10.3389/fmars.2020.00318/full?utm_source=F-AAE&utm_medium=EMLF&utm_campaign=MRK_1334659_45_Marine_20200521_arts_A)
  
- - Jacoby, D., **Ferretti, F.**, Freeman, R., Carlisle, A., Chapple, T., Curnick, D., Dale, J., Schallert, R., Tickler, D., and Block, B. 2020. Shark movement strategies influence poaching risk and enforcement decisions in a large, remote Marine Protected Area. *Accepted* in __*Journal of Applied Ecology*__.
+ - Jacoby, D., **Ferretti, F.**, Freeman, R., Carlisle, A., Chapple, T., Curnick, D., Dale, J., Schallert, R., Tickler, D., and Block, B. 2020. Shark movement strategies influence poaching risk and enforcement decisions in a large, remote Marine Protected Area. __*Journal of Applied Ecology*__. [View publication](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13654)
 
  - **Ferretti, F.**, Jacoby, D., Pfleger, M., White, T., Dent, F., Micheli, F., Rosenberg, A., Crowder, L., Block, B. 2020. Shark Fin Trade Bans and Sustainable Shark Fisheries.  __*Conservation Letters*__ [View publication](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12708).
  

@@ -77,6 +77,7 @@ exclude: true
 ### Radio Interviews
 
 - **Defender Radio** *by Michael Howie*: [EPISODE 234: AFTER BITE](http://furbearerdefenders.com/blog/episode-234-after-bite)
+- **KQED** *by Danielle Venton*: [Risk of Shark Attacks in California Has Plummeted, Researchers Say](https://www.kqed.org/news/11633957/risk-of-shark-attacks-in-california-has-plummeted-researchers-say)
 
 ### TV Interviews
 

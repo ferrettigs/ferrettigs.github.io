@@ -26,7 +26,7 @@ Journal Articles and Book Chapters
 
  - Hays, G., Shumway, S., Ferrara, V., Koldewey, H., **Ferretti, F.** et al. 2020. A review of a decade of lessons from one of the world’s largest MPAs: conservation gains and key challenges. Accepted in __*Marine Biology*__.
  
- - Serena, F., Abella, A.J., Barone, M., **Ferretti, F.**, Fiorentino, F., Moro, S. Species diversity, taxonomy and distribution of Chondrichthyes in the Mediterranean and Black Sea. Accepted in __*European Journal of Zoology*__.
+ - Serena, F., Abella, A.J., Barone, M., **Ferretti, F.**, Fiorentino, F., Moro, S. 2020. Species diversity, taxonomy and distribution of Chondrichthyes in the Mediterranean and Black Sea. Accepted in __*European Journal of Zoology*__.
 
  - White, T., **Ferretti, F.**, McCauley, D., Ong, T., Block, B., Micheli, F. and De Leo, G. 2020. Tracking the response of industrial fishing fleets to large marine protected areas. Accepted in __*Conservation Biology*__.
  

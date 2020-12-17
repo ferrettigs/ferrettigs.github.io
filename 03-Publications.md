@@ -24,6 +24,8 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
 
+ - Curnick, D., Andrzejaczek, S., Jacoby, D., Coffey, D., Carlisle, A., Chapple, T.,  **Ferretti, F.** et al. 2020. Behaviour and ecology of silky sharks around the Chagos Archipelago and evidence of Indian Ocean wide movement. __*Frontiers in Marine Science*__ [View Publication](https://doi.org/10.3389/fmars.2020.596619).
+ 
  - Hays, G., Shumway, S., Ferrara, V., Koldewey, H., **Ferretti, F.** et al. 2020. A review of a decade of lessons from one of the world’s largest MPAs: conservation gains and key challenges. Accepted in __*Marine Biology*__.
  
  - Serena, F., Abella, A.J., Barone, M., **Ferretti, F.**, Fiorentino, F., Moro, S. 2020. Species diversity, taxonomy and distribution of Chondrichthyes in the Mediterranean and Black Sea. Accepted in __*European Journal of Zoology*__.

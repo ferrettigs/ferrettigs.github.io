@@ -26,11 +26,11 @@ Journal Articles and Book Chapters
 
  - Curnick, D., Andrzejaczek, S., Jacoby, D., Coffey, D., Carlisle, A., Chapple, T.,  **Ferretti, F.** et al. 2020. Behaviour and ecology of silky sharks around the Chagos Archipelago and evidence of Indian Ocean wide movement. __*Frontiers in Marine Science*__ [View Publication](https://doi.org/10.3389/fmars.2020.596619).
  
- - Hays, G., Shumway, S., Ferrara, V., Koldewey, H., **Ferretti, F.** et al. 2020. A review of a decade of lessons from one of the world’s largest MPAs: conservation gains and key challenges. Accepted in __*Marine Biology*__.
+ - Hays, G., Shumway, S., Ferrara, V., Koldewey, H., **Ferretti, F.** et al. 2020. A review of a decade of lessons from one of the world’s largest MPAs: conservation gains and key challenges. __*Marine Biology*__, 167 (159). doi: 10.1007/s00227-020-03776-w [View Publication](https://link.springer.com/article/10.1007/s00227-020-03776-w).
  
- - Serena, F., Abella, A.J., Barone, M., **Ferretti, F.**, Fiorentino, F., Moro, S. 2020. Species diversity, taxonomy and distribution of Chondrichthyes in the Mediterranean and Black Sea. Accepted in __*European Journal of Zoology*__.
+ - Serena, F., Abella, A.J., Barone, M., **Ferretti, F.**, Fiorentino, F., Moro, S. 2020. Species diversity, taxonomy and distribution of Chondrichthyes in the Mediterranean and Black Sea. __*European Journal of Zoology*__, 87(1), 497-536. [View Publication](https://www.tandfonline.com/doi/pdf/10.1080/24750263.2020.1805518)
 
- - White, T., **Ferretti, F.**, McCauley, D., Ong, T., Block, B., Micheli, F. and De Leo, G. 2020. Tracking the response of industrial fishing fleets to large marine protected areas. Accepted in __*Conservation Biology*__.
+ - White, T., **Ferretti, F.**, McCauley, D., Ong, T., Block, B., Micheli, F. and De Leo, G. 2020. Tracking the response of industrial fishing fleets to large marine protected areas. __*Conservation Biology*__, 34(6), 1571-157. [View publication](https://conbio.onlinelibrary.wiley.com/doi/pdf/10.1111/cobi.13584)
  
  - Mancusi, C, R. Baino, M. Barone, C. Fortuna, L.Gil de Sola, G. Morey, M. N. Bradai, A. Kallianotis, A., …, **Ferretti, F.** et al. 2020. MEDLEM database, a data collection on large Elasmobranchs in the Mediterranean and Black seas. __*Med. Mar. Sci.*__[View publication](https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/article/view/21148)
 

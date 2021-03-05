@@ -24,7 +24,7 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
 
- - Alto, E, **Ferretti, F.**, Schaellert, R., Stockesbury, M., Loretta, M., Walter, J. and Block, B. 2021. Stock-of-origin catch estimation of Atlantic bluefin tuna (Thunnus thynnus) based on observed spatial distributions. Accepted in __*Canadian Journal of Fisheries and Aquatic Sciences*__.
+ - Alto, E, **Ferretti, F.**, Schaellert, R., Stockesbury, M., Loretta, M., Walter, J. and Block, B. 2021. Stock-of-origin catch estimation of Atlantic bluefin tuna (_Thunnus thynnus_) based on observed spatial distributions. Accepted in __*Canadian Journal of Fisheries and Aquatic Sciences*__.
 
  - Sala, E., Mayorga, J., Bradley, D., Cabral, R., Atwood, T., Cheung, W., Costello, C., **Ferretti, F.** A. Friedlander, S. Gaines, C. Garilao, W. Goodell, B. S. Halpern, K. Kaschner, K. Kesner-Reyes, J. McGowan, L. Morgan, D. Mouillot, H. Possingham, K. Rechberger, B. Worm, J. Lubchenco. 2021 Reconciling biodiversity protection, food production, and climate mitigation in the global ocean. In Press in __*Nature*__.
 

@@ -24,6 +24,12 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
 
+ - Alto, E, **Ferretti, F.**, Schaellert, R., Stockesbury, M., Loretta, M., Walter, J. and Block, B. 2021. Stock-of-origin catch estimation of Atlantic bluefin tuna (Thunnus thynnus) based on observed spatial distributions. Accepted in __*Canadian Journal of Fisheries and Aquatic Sciences*__.
+
+ - Sala, E., Mayorga, J., Bradley, D., Cabral, R., Atwood, T., Cheung, W., Costello, C., **Ferretti, F.** A. Friedlander, S. Gaines, C. Garilao, W. Goodell, B. S. Halpern, K. Kaschner, K. Kesner-Reyes, J. McGowan, L. Morgan, D. Mouillot, H. Possingham, K. Rechberger, B. Worm, J. Lubchenco. 2021 Reconciling biodiversity protection, food production, and climate mitigation in the global ocean. In Press in __*Nature*__.
+
+ - Williamson, M.J., Tebbs, E.J., Dawson, T.P., Curnick, D.J., **Ferretti, F.**, Carlisle, A.B., Chapple, T.K., Schallert, R.J., Tickler, D.M, Block, B.A. and Jacoby, D.M.P. 2021. A novel method for analysing detection gaps in imperfect acoustic telemetry data to infer differential movements patterns in fish. __*Ecology and Evolution*__. https://doi.org/10.1002/ece3.7226
+
  - Curnick, D., Andrzejaczek, S., Jacoby, D., Coffey, D., Carlisle, A., Chapple, T.,  **Ferretti, F.** et al. 2020. Behaviour and ecology of silky sharks around the Chagos Archipelago and evidence of Indian Ocean wide movement. __*Frontiers in Marine Science*__ [View Publication](https://doi.org/10.3389/fmars.2020.596619).
  
  - Hays, G., Shumway, S., Ferrara, V., Koldewey, H., **Ferretti, F.** et al. 2020. A review of a decade of lessons from one of the world’s largest MPAs: conservation gains and key challenges. __*Marine Biology*__, 167 (159). doi: 10.1007/s00227-020-03776-w [View Publication](https://link.springer.com/article/10.1007/s00227-020-03776-w).

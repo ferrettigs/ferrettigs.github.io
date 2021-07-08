@@ -24,6 +24,13 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
 
+
+ - Queiroz, N., Humphries, N.E., Couto, A., Vedor, M., da Costa, I., Sequeira, A.M.M., Mucientes, G., Santos, A.M.,... **Ferretti, F.**... and Sims, D.W. 2021. Reply to: Caution over use of ecological big-data for conservation.
+__*Nature*__ 595, E20-E28. [View Publication](https://www.nature.com/articles/s41586-021-03464-9)
+ 
+ - Queiroz, N., Humphries, N.E., Couto, A., Vedor, M., da Costa, I., Sequeira, A.M.M., ... **Ferretti, F.**... and Sims, D.W. 2021. Reply to: Shark mortality cannot be assessed by fishery overlap alone.
+__*Nature*__ 595, E8-E16. [View Publication](https://www.nature.com/articles/s41586-021-03397-3)
+
  - Alto, E, **Ferretti, F.**, Schaellert, R., Stockesbury, M., Loretta, M., Walter, J. and Block, B. 2021. Stock-of-origin catch estimation of Atlantic bluefin tuna (_Thunnus thynnus_) based on observed spatial distributions. Accepted in __*Canadian Journal of Fisheries and Aquatic Sciences*__.
 
  - Sala, E., Mayorga, J., Bradley, D., Cabral, R., Atwood, T., Cheung, W., Costello, C., **Ferretti, F.** A. Friedlander, S. Gaines, C. Garilao, W. Goodell, B. S. Halpern, K. Kaschner, K. Kesner-Reyes, J. McGowan, L. Morgan, D. Mouillot, H. Possingham, K. Rechberger, B. Worm, J. Lubchenco. 2021 Reconciling biodiversity protection, food production, and climate mitigation in the global ocean. In Press in __*Nature*__.

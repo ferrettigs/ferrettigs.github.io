@@ -3,4 +3,4 @@ layout: default
 title: Lab
 ---
 
-Under construction
+Please visit http://SeaQL.org

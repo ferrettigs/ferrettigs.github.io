@@ -24,12 +24,7 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
 
- - Jorgensen, S., Micheli, F., White, T.D., Van Houtan, K.S, Alfaro Shigueto, J.,  Andrzejaczek, S., Arnoldi, N.S., Baum, J.K.,[expand]
-Long content here
-and here
-...
-[/expand]
-, **Ferretti, F.** 2021. Emergent research and priorities for shark and ray conservation. __*Endengered Species Research*__ DOI: https://doi.org/10.3354/esr01169. 
+ - Jorgensen, S., Micheli, F., White, T.D., Van Houtan, K.S, Alfaro Shigueto, J.,  Andrzejaczek, S., Arnoldi, N.S., Baum, J.K.,..., **Ferretti, F.** 2021. Emergent research and priorities for shark and ray conservation. __*Endengered Species Research*__ DOI: https://doi.org/10.3354/esr01169. 
 
  - Queiroz, N., Humphries, N.E., Couto, A., Vedor, M., da Costa, I., Sequeira, A.M.M., Mucientes, G., Santos, A.M.,... **Ferretti, F.**... and Sims, D.W. 2021. Reply to: Caution over use of ecological big-data for conservation.
 __*Nature*__ 595, E20-E28. [View Publication](https://www.nature.com/articles/s41586-021-03464-9)

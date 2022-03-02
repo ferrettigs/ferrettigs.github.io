@@ -11,7 +11,7 @@ title: Publications
     <li><a href="#journals">Journal Articles and Book Chapters</a></li><!--
     --><li><a href="#reports">Technical Reports, Theses and Consultancy Works</a></li><!--
     --><li><a href="#policy">Policy and Public Outreach</a></li><!--
-    --><li><a href="#software">Software</a></li>
+    --><li><a href="#software">Software and Data</a></li>
   </ul>
 </nav>
 
@@ -24,7 +24,9 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
 
- - Jorgensen, S., Micheli, F., White, T.D., Van Houtan, K.S, Alfaro Shigueto, J.,  Andrzejaczek, S., Arnoldi, N.S., Baum, J.K.,..., **Ferretti, F.** 2021. Emergent research and priorities for shark and ray conservation. __*Endengered Species Research*__ DOI: https://doi.org/10.3354/esr01169. 
+ - Bargnesi, F., Moro, S., Leone, A., Giovos, I. and **Ferretti, F.** 2022. New technologies can support data collection on endangered shark species in the Mediterranean Sea. Accepted in __*Marine Ecology Progress Series*__
+ 
+ - Jorgensen, S., Micheli, F., White, T.D., Van Houtan, K.S, Alfaro Shigueto, J.,  Andrzejaczek, S., Arnoldi, N.S., Baum, J.K.,..., **Ferretti, F.** 2022. Emergent research and priorities for shark and ray conservation. __*Endengered Species Research*__ DOI: https://doi.org/10.3354/esr01169. 
 
  - Queiroz, N., Humphries, N.E., Couto, A., Vedor, M., da Costa, I., Sequeira, A.M.M., Mucientes, G., Santos, A.M.,... **Ferretti, F.**... and Sims, D.W. 2021. Reply to: Caution over use of ecological big-data for conservation.
 __*Nature*__ 595, E20-E28. [View Publication](https://www.nature.com/articles/s41586-021-03464-9)
@@ -257,8 +259,13 @@ Policy and Public Outreach
 
 <a name="software"></a>
 
-Software
----------
+Software and Data
+------------------
+- **Ferretti, F.** (Editor). 2022. sharkPulse: taking the pulse of global shark population. World Wide Web publication. [http:/sharkpulse.org](http:/sharkpulse.org)
+
+- Novaglio, C.*, Smith, A.D.M., Frusher, S., **Ferretti, F.** and Klaer, N. 2015. Bottom trawl surveys: catch and effort data for South East Australia between 1898 and 1996. MarLIN database. Available at 
+[http://www.marlin.csiro.au/geonetwork/srv/eng/search - !253fa409-5f2b-2559-e053-08114f8c376e](http://www.marlin.csiro.au/geonetwork/srv/eng/search - !253fa409-5f2b-2559-e053-08114f8c376e)
+ 
 
 - **Ferretti, F.**, Lopez, A., and Sandoval, E. 2015. [SharkPulse 2.02 application software for iOS.](https://itunes.apple.com/us/app/sharkpulse-v1.1/id673243556?mt=8) 
 

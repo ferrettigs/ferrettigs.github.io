@@ -60,7 +60,7 @@ __*Nature*__ 595, E8-E16. [View Publication](https://www.nature.com/articles/s41
 
  - Bargnesi, F., Gridelli, S., Cerrano, C., and **Ferretti, F.**. 2020. Reconstructing the history and ecology of the sand tiger shark (*Carcharias taurus*) in the Mediterranean Sea. __*Aquatic Conservation: Marine and Freshwater Ecosystems*__ [View publication](https://onlinelibrary.wiley.com/doi/abs/10.1002/aqc.3301).
 
- - Leone, A., Puncher, G.N., **Ferretti, F** et al. 2020. Origin of the Mediterranean Great White Shark population. __*Journal of Biogeography*__ [View publication](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13794).
+ - Leone, A., Puncher, G.N., **Ferretti, F** et al. 2020. Pliocene colonization of the Mediterranean by Great White Shark inferred from fossil records, historical jaws, phylogeographic and divergence time analyses. __*Journal of Biogeography*__ [View publication](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13794).
 
  - Bargnesi, F., Lucrezi, S. and **Ferretti, F.**. 2020. Opportunities from citizen science for shark conservation, with a focus on the Mediterranean Sea. __*European Journal of Zoology*__ [View publication](https://www.tandfonline.com/doi/full/10.1080/24750263.2019.1709574).
  

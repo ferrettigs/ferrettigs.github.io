@@ -8,13 +8,25 @@ exclude: true
 
 ### News Articles
 
-#### 26 Apr 2021 
+#### 2021 
+
+- **Cronache Maceratesi** *by Laura Boccanera* [Un Maceratese a caccia dello squalo bianco in Sicilia: lo scopo e' taggarlo](https://www.cronachemaceratesi.it/2021/06/24/un-maceratese-a-caccia-dello-squalo-bianco-in-sicilia-lo-scopo-e-taggarlo/1539884/)
+- **Virginia Tech News** *by Jimmy Robertson* [Virginia Tech professor and Discovery Channel team up on a great white shark research expedition in the Mediterranean](https://vtx.vt.edu/articles/2021/06/cnre-mediterranean-shark-expedition.html)
+- **Virginia Tech News** *by David Flemming* [Biodiversity, fishing, and the environment: thinking globally to protect our oceans](https://vtnews.vt.edu/articles/2021/03/cnre-ocean-biodiversity-fishing.html) 
+- **The Hindu** *by Ananthakrishnan, G.* [India's blue revolution needs more marine protected areas says new research](https://www.thehindu.com/sci-tech/science/indias-blue-revolution-needs-more-marine-protected-areas-says-new-research/article34093967.ece)
+- **Media Entertainment Arts WorldWide** *by Bhagyasri Chaudhury*: [Why is California's Great White shark population rising? 'Red triangle' sees 30% more predators in 10 years](https://meaww.com/great-white-shark-population-rising-california-red-triangle-marine-life-10-years-300)
+
+
+#### 2020
+
+- **Virginia Tech News** *by David Flemming* [One fish, two fish: merging marine animal tracking with fishing fleet movements](https://vtnews.vt.edu/articles/2020/08/cnre-fish-and-ships.html)
+- **Virginia Tech News** *by Krista Timney* [Researcher: Shark Fin Sales Elimination Act provides chance for U.S. to impact shark conservation efforts](https://vtnews.vt.edu/articles/2020/02/cnre-shark-fin-trade.html)
 - **Animali.it**: [Avvistato nel messinese squalo bianco di 5 metri](https://metronews.it/2021/04/26/avvistato-nel-messinese-squalo-bianco-di-5-metri/)
 - **La Rivista della Natura**: [Squalo bianco: dov’è nel Mediterraneo](https://rivistanatura.com/squalo-bianco-dove-nel-mediterraneo/) 
 - **DireGiovani.it**: [Squalo bianco a rischio estinzione nel Mar Mediterraneo](https://www.diregiovani.it/2020/02/03/293276-squalo-bianco-a-rischio-estinzione-nel-mar-mediterraneo.dg/)
 
-#### 24 May 2021 
-- **Media Entertainment Arts WorldWide** *by Bhagyasri Chaudhury*: [Why is California's Great White shark population rising? 'Red triangle' sees 30% more predators in 10 years](https://meaww.com/great-white-shark-population-rising-california-red-triangle-marine-life-10-years-300)
+
+
 
 - **Protecting the global ocean for biodiversity, food and climate**: [226 news stories from 165 outlets](https://science.altmetric.com/details/33539625/news) 
 
@@ -248,6 +260,10 @@ exclude: true
 
 ### Radio Interviews
 
+#### 2021
+
+- **Casa Italiana Language School** *by Manuela Cavalieri* [Interview about professional activities at Virginia Tech and pressing Ocean Issues.](https://www.casaitalianaschool.org/)
+- **With Good Reason** *McConnell, Sarah* [Saving endangered species](https://www.withgoodreasonradio.org/episode/saving-endangered-species/)
 - **Defender Radio** *by Michael Howie*: [EPISODE 234: AFTER BITE](http://furbearerdefenders.com/blog/episode-234-after-bite)
 - **KQED** *by Danielle Venton*: [Risk of Shark Attacks in California Has Plummeted, Researchers Say](https://www.kqed.org/news/11633957/risk-of-shark-attacks-in-california-has-plummeted-researchers-say)
 
@@ -260,6 +276,12 @@ exclude: true
 
 ### TV Interviews and News
 
+#### 2021
+
+- **WFXR Fox - Living Local** *with Price, Kianna* [Swimming with the sharks: Virginia Tech Professor reveals insight to great whites in the Mediterranean Sea](https://www.wfxrtv.com/living-local/virginia-tech-tuesday-swimming-with-the-sharks-virginia-tech-professor-reveals-insight-to-great-whites-in-the-mediterranean-sea/)
+- **WDBJ7** *by Pete DeLuca* [VT professor spends month on Mediterranean Sea searching for sharks](https://www.wdbj7.com/2021/07/15/vt-professor-spends-month-mediterranean-sea-searching-sharks/)
+
+#### 2015
 - **Korn4** *by Aaron Pero* [California shark attack rates plunge](http://kron4.com/2015/07/09/california-shark-attack-rates-plunge/)
 
 

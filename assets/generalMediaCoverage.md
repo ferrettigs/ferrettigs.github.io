@@ -28,7 +28,7 @@ exclude: true
 
 
 
-- **Protecting the global ocean for biodiversity, food and climate**: [226 news stories from 165 outlets](https://science.altmetric.com/details/33539625/news) 
+- **Protecting the global ocean for biodiversity, food and climate**: [226 news stories from 165 outlets](https://nature.altmetric.com/details/101895056/news) 
 
 
 

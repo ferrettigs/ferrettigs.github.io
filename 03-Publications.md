@@ -24,9 +24,15 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
 
- - Bargnesi, F., Moro, S., Leone, A., Giovos, I. and **Ferretti, F.** 2022. New technologies can support data collection on endangered shark species in the Mediterranean Sea. Accepted in __*Marine Ecology Progress Series*__
+ - Andrzejaczek, S., Lucas, T., Goodman, M., Hussey, N.,.., Ferretti, F., Shea, B.,…, Curnick, D. 2022. Diving into the vertical dimension of elasmobranch movement ecology. Accepted in __*Science Advances*__.
+
+ - Sala, E., Mayorga, J., Bradley, D., Cabral, R., Atwood, T., Cheung, W., Costello, C., **Ferretti, F.** A. Friedlander, S. Gaines, C. Garilao, W. Goodell, B. S. Halpern, K. Kaschner, K. Kesner-Reyes, J. McGowan, L. Morgan, D. Mouillot, H. Possingham, K. Rechberger, B. Worm, J. Lubchenco. 2022. Reply to “A path forward analyzing impacts of marine protected areas. Accepted in __*Nature*__.
  
- - Jorgensen, S., Micheli, F., White, T.D., Van Houtan, K.S, Alfaro Shigueto, J.,  Andrzejaczek, S., Arnoldi, N.S., Baum, J.K.,..., **Ferretti, F.** 2022. Emergent research and priorities for shark and ray conservation. __*Endengered Species Research*__ DOI: https://doi.org/10.3354/esr01169. 
+ - Jenrette, J., Liu, Z. Y. C., Chimote, P., Hastie, T., Fox, E., **Ferretti, F.** 2022. Rapid shark detection and classification with machine learning. __*Ecological Informatics*__, 69, 101673. [View Publication](https://doi.org/10.1016/j.ecoinf.2022.101673)
+ 
+ - Bargnesi, F., Moro, S., Leone, A., Giovos, I. and **Ferretti, F.** 2022. New technologies can support data collection on endangered shark species in the Mediterranean Sea. __*Marine Ecology Progress Series*__ 689:57-76.  [View Publication](https://www.int-res.com/abstracts/meps/v689/p57-76) DOI: https://doi.org/10.3354/meps14030
+ 
+ - Jorgensen, S., Micheli, F., White, T.D., Van Houtan, K.S, Alfaro Shigueto, J.,  Andrzejaczek, S., Arnoldi, N.S., Baum, J.K.,..., **Ferretti, F.** 2022. Emergent research and priorities for shark and ray conservation. __*Endengered Species Research*__ 47: 171–203. [View Publication](https://www.int-res.com/articles/esr2022/47/n047p171.pdf) DOI: https://doi.org/10.3354/esr01169. 
 
  - Queiroz, N., Humphries, N.E., Couto, A., Vedor, M., da Costa, I., Sequeira, A.M.M., Mucientes, G., Santos, A.M.,... **Ferretti, F.**... and Sims, D.W. 2021. Reply to: Caution over use of ecological big-data for conservation.
 __*Nature*__ 595, E20-E28. [View Publication](https://www.nature.com/articles/s41586-021-03464-9)
@@ -34,9 +40,9 @@ __*Nature*__ 595, E20-E28. [View Publication](https://www.nature.com/articles/s4
  - Queiroz, N., Humphries, N.E., Couto, A., Vedor, M., da Costa, I., Sequeira, A.M.M., ... **Ferretti, F.**... and Sims, D.W. 2021. Reply to: Shark mortality cannot be assessed by fishery overlap alone.
 __*Nature*__ 595, E8-E16. [View Publication](https://www.nature.com/articles/s41586-021-03397-3)
 
- - Alto, E, **Ferretti, F.**, Schaellert, R., Stockesbury, M., Loretta, M., Walter, J. and Block, B. 2021. Stock-of-origin catch estimation of Atlantic bluefin tuna (_Thunnus thynnus_) based on observed spatial distributions. Accepted in __*Canadian Journal of Fisheries and Aquatic Sciences*__.
+ - Alto, E, **Ferretti, F.**, Schaellert, R., Stockesbury, M., Loretta, M., Walter, J. and Block, B. 2021. Stock-of-origin catch estimation of Atlantic bluefin tuna (_Thunnus thynnus_) based on observed spatial distributions. Accepted in __*Canadian Journal of Fisheries and Aquatic Sciences*__ 78(8): 1193-1204. [View Publication](https://cdnsciencepub.com/doi/abs/10.1139/cjfas-2019-0445)
 
- - Sala, E., Mayorga, J., Bradley, D., Cabral, R., Atwood, T., Cheung, W., Costello, C., **Ferretti, F.** A. Friedlander, S. Gaines, C. Garilao, W. Goodell, B. S. Halpern, K. Kaschner, K. Kesner-Reyes, J. McGowan, L. Morgan, D. Mouillot, H. Possingham, K. Rechberger, B. Worm, J. Lubchenco. 2021 Reconciling biodiversity protection, food production, and climate mitigation in the global ocean. In Press in __*Nature*__.
+ - Sala, E., Mayorga, J., Bradley, D., Cabral, R., Atwood, T., Cheung, W., Costello, C., **Ferretti, F.** A. Friedlander, S. Gaines, C. Garilao, W. Goodell, B. S. Halpern, K. Kaschner, K. Kesner-Reyes, J. McGowan, L. Morgan, D. Mouillot, H. Possingham, K. Rechberger, B. Worm, J. Lubchenco. 2021 Reconciling biodiversity protection, food production, and climate mitigation in the global ocean. __*Nature*__ 592, 397-402. [View Publication](https://www.nature.com/articles/s41586-021-03371-z)
 
  - Williamson, M.J., Tebbs, E.J., Dawson, T.P., Curnick, D.J., **Ferretti, F.**, Carlisle, A.B., Chapple, T.K., Schallert, R.J., Tickler, D.M, Block, B.A. and Jacoby, D.M.P. 2021. A novel method for analysing detection gaps in imperfect acoustic telemetry data to infer differential movements patterns in fish. __*Ecology and Evolution*__. https://doi.org/10.1002/ece3.7226
 

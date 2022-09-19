@@ -284,6 +284,9 @@ exclude: true
 #### 2015
 - **Korn4** *by Aaron Pero* [California shark attack rates plunge](http://kron4.com/2015/07/09/california-shark-attack-rates-plunge/)
 
+#### 2014
+
+ - **Monterey County weekly** *by Diana LaScala-Gruenewald* [Monterey researcher creates SharkPulse smartphone app for shark pictures](https://www.montereycountyweekly.com/news/831_tales/monterey-researcher-creates-sharkpulse-smartphone-app-for-shark-pictures/article_4edd6d34-33a0-11e4-83ac-0017a43b2370.html)
 
 #### 2008
 

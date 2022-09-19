@@ -24,9 +24,9 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
 
- - Andrzejaczek, S., Lucas, T., Goodman, M., Hussey, N.,.., Ferretti, F., Shea, B.,…, Curnick, D. 2022. Diving into the vertical dimension of elasmobranch movement ecology. Accepted in __*Science Advances*__.
+ - Andrzejaczek, S., Lucas, T., Goodman, M., Hussey, N.,.., **Ferretti, F.**,…, Curnick, D. 2022. Diving into the vertical dimension of elasmobranch movement ecology. __*Science Advances*__, 8(33): [View Publication](https://www.science.org/doi/10.1126/sciadv.abo1754)
 
- - Sala, E., Mayorga, J., Bradley, D., Cabral, R., Atwood, T., Cheung, W., Costello, C., **Ferretti, F.** A. Friedlander, S. Gaines, C. Garilao, W. Goodell, B. S. Halpern, K. Kaschner, K. Kesner-Reyes, J. McGowan, L. Morgan, D. Mouillot, H. Possingham, K. Rechberger, B. Worm, J. Lubchenco. 2022. Reply to “A path forward analyzing impacts of marine protected areas. Accepted in __*Nature*__.
+ - Sala, E., Mayorga, J., Bradley, D., Cabral, R., Atwood, T., Cheung, W., Costello, C., **Ferretti, F.** A. Friedlander, S. Gaines, C. Garilao, W. Goodell, B. S. Halpern, K. Kaschner, K. Kesner-Reyes, J. McGowan, L. Morgan, D. Mouillot, H. Possingham, K. Rechberger, B. Worm, J. Lubchenco. 2022. Reply to “A path forward analyzing impacts of marine protected areas. __*Nature*__, 607(7917): E3-E4. [View Publication](https://www.nature.com/articles/s41586-022-04776-0)
  
  - Jenrette, J., Liu, Z. Y. C., Chimote, P., Hastie, T., Fox, E., **Ferretti, F.** 2022. Rapid shark detection and classification with machine learning. __*Ecological Informatics*__, 69, 101673. [View Publication](https://doi.org/10.1016/j.ecoinf.2022.101673)
  

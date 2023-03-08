@@ -24,7 +24,7 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
  
- - Atwood, T.B., Sala, E. Mayorga, J.,..., **Ferretti, F.**, Friedlander, A.M., Gaines, S.D., Garilao, C. Goodell, W., Halpern, B. S., Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., Morgan, L.E., Mouillot, D., Palacios-Abrantes, P., Possingham, H.P., Rechberger, K.D., Worm, B., Lubchenco, J. 2023. Reply to MA: Quantifying the carbon benefits of ending bottom trawling. __*Nature*__*, in press
+ - Atwood, T.B., Sala, E. Mayorga, J., Bradley,D., Cabral, R.B., Auber, A., Cheung, W., **Ferretti, F.**, Friedlander, A.M., Gaines, S.D., Garilao, C. Goodell, W., Halpern, B. S., Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., Morgan, L.E., Mouillot, D., Palacios-Abrantes, P., Possingham, H.P., Rechberger, K.D., Worm, B., Lubchenco, J. 2023. Reply to MA: Quantifying the carbon benefits of ending bottom trawling. __*Nature*__, in press
  
  - Jenrette, J.F., Jenrette, J.L., Truelove, N.K., Moro, S., Dunn, N.I., Chapple, T.K., Gallagher, A.J., Gambardella, C., Schallert, R., Shea, B.D., Curnick, D.J. Block, B.A., **Ferretti, F.** 2023. Detecting white sharks in the Mediterranean Sea with Environmental DNA. __*Oceanography*__ 36 (Supplement 1) [View Publication](https://doi.org/10.5670/oceanog.2023.s1.28)
  

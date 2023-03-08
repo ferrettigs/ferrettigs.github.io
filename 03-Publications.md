@@ -23,7 +23,11 @@ Publications
 
 Journal Articles and Book Chapters
 ----------------------------------
-
+ 
+ - Atwood, T.B., Sala, E. Mayorga, J.,..., **Ferretti, F.**, Friedlander, A.M., Gaines, S.D., Garilao, C. Goodell, W., Halpern, B. S., Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., Morgan, L.E., Mouillot, D., Palacios-Abrantes, P., Possingham, H.P., Rechberger, K.D., Worm, B., Lubchenco, J. 2023. Reply to MA: Quantifying the carbon benefits of ending bottom trawling. __*Nature*__*, in press
+ 
+ - Jenrette, J.F., Jenrette, J.L., Truelove, N.K., Moro, S., Dunn, N.I., Chapple, T.K., Gallagher, A.J., Gambardella, C., Schallert, R., Shea, B.D., Curnick, D.J. Block, B.A., **Ferretti, F.** 2023. Detecting white sharks in the Mediterranean Sea with Environmental DNA. __*Oceanography*__ 36 (Supplement 1) [View Publication](https://doi.org/10.5670/oceanog.2023.s1.28)
+ 
  - Andrzejaczek, S., Lucas, T., Goodman, M., Hussey, N.,.., **Ferretti, F.**,…, Curnick, D. 2022. Diving into the vertical dimension of elasmobranch movement ecology. __*Science Advances*__, 8(33): [View Publication](https://www.science.org/doi/10.1126/sciadv.abo1754)
 
  - Sala, E., Mayorga, J., Bradley, D., Cabral, R., Atwood, T., Cheung, W., Costello, C., **Ferretti, F.** A. Friedlander, S. Gaines, C. Garilao, W. Goodell, B. S. Halpern, K. Kaschner, K. Kesner-Reyes, J. McGowan, L. Morgan, D. Mouillot, H. Possingham, K. Rechberger, B. Worm, J. Lubchenco. 2022. Reply to “A path forward analyzing impacts of marine protected areas. __*Nature*__, 607(7917): E3-E4. [View Publication](https://www.nature.com/articles/s41586-022-04776-0)

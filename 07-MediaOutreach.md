@@ -1,16 +1,27 @@
 ---
-author: "Francesco Ferretti"
-date: "March 04, 2022"
 layout: default
-exclude: true
+title: Media Outreach
 ---
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+
+<nav class="navigation">
+  <ul>
+    <li><a href="#news">News Articles</a></li><!--
+    --><li><a href="#magazines">Weekly or monthly Magazines</a></li><!--
+    --><li><a href="#radio">Radio Interviews</a></li><!--
+    --><li><a href="#video">TV Interviews and News</a></li>
+  </ul>
+</nav>
 
 ### News Articles
-
+<a name="news"></a>
 #### 2023
 
  - **Virginia Tech News** *by David Fleming* [Big teeth, bigger data](https://news.vt.edu/articles/2023/09/cnre-shark-sanctuaries-geospatial.html)
+ - **BOAT International** *by Sophia Wilson* [Yachts for Science: Sailing superyacht helps with ground-breaking shark research in the Mediterranean
+](https://www.boatinternational.com/yachts/news/shark-research-yachts-for-science) 31 July 2023 
 
 
 #### 2022
@@ -147,7 +158,7 @@ exclude: true
 
 ##### UK
 
-- **BBC news**  - by Richard Black. BBC news. *Fast fall of the Mediterranean Sharks* 10 june 2008
+- **BBC news** *by Richard Black* [Fast fall of the Mediterranean Sharks](http://news.bbc.co.uk/2/hi/science/nature/7446112.stm) 10 june 2008  
 - Reuters  by Robin Pomeroy. *Med Shark numbers down 97 pct over two centuries* 11 june 2008
 - Herald Tribune  - *Sharks decline by 97 percent in Mediterranean*  11 June 2008
 - Timesonline  - by Richard Owen. *We must learn to love sharks, study warns*.  11 june 2008.
@@ -212,6 +223,7 @@ exclude: true
 - UPI. *Study: Shark species face extinction*, UPI SCIENCE NEWS, 30 JUNE 2008.
 
 ### Weekly or monthly Magazines
+<a name="magazines"></a>
 
 #### 2008
 
@@ -258,7 +270,7 @@ exclude: true
 
 
 ### Radio Interviews
-
+<a name="radio"></a>
 #### 2021
 
 - **Casa Italiana Language School** *by Manuela Cavalieri* [Interview about professional activities at Virginia Tech and pressing Ocean Issues.](https://www.casaitalianaschool.org/)
@@ -274,6 +286,7 @@ exclude: true
 - Radio Nuova in Blu, Live show 19 August 2008 
 
 ### TV Interviews and News
+<a name="video"></a>
 
 #### 2021
 

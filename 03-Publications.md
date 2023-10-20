@@ -24,7 +24,15 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
  
- - Atwood, T.B., Sala, E. Mayorga, J., Bradley,D., Cabral, R.B., Auber, A., Cheung, W., **Ferretti, F.**, Friedlander, A.M., Gaines, S.D., Garilao, C. Goodell, W., Halpern, B. S., Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., Morgan, L.E., Mouillot, D., Palacios-Abrantes, P., Possingham, H.P., Rechberger, K.D., Worm, B., Lubchenco, J. 2023. Reply to MA: Quantifying the carbon benefits of ending bottom trawling. __*Nature*__, in press
+ - Sala, E., Mayorga, J., Bradley, D., Cabral, R., Atwood, T., Auber, A., Cheung, W., Costello, C., **Ferretti, F.**, Friedlander, A., Gaines, S., Garilao, C., Goodell, W., Halpern, B.S., K., Hinson, A., Kaschner, K. Kesner-Reyes, J., Laprieur, F., Lubcenco, J., McGowan, L., Morgan, D. Mouillot, H., Palacios-Abrantes, J., Possingham, K. Rechberger, B. Worm. 2023. Reply to MA: Global Effects of Marine Protected Areas on Food Security Are Unknown. Accepted in __*Nature*__.
+ 
+ - Shea, B., Bomgardner, L., Gallager, A., **Ferretti, F.** 2023. Big Data Reveals Cryptic Mortality of Pelagic Sharks in Remote Island Shark Sanctuaries. __*Science Advances*__ 9 (33) [View Publication](https://doi.org/10.1126/sciadv.adg3527)
+ 
+ - Dunn, N., Curnick, D., Carbone, C., Carlisle, A., Chapple, T., Dowell, R., **Ferretti, F.**, Jacoby, D., Schallert, R., Steyaert, M.,  Tickler, D., Williamson, M., Block, B., Vavolainen, V. 2023. Environmental DNA helps reveal reef shark distribution across a remote archipelago. __*Ecological Indicators*__ 154, 110718. [View Publication](https://doi.org/10.1016/j.ecolind.2023.110718)
+ 
+ - McDevitt-Irwin, J., McCauley, D.M., Brumbaugh, D., Elmer, F., **Ferretti, F.**, Joyce, F. H., White, T., Wible, J., Micheli, F.  2023. Consumers decrease variability across space and turnover through time during coral reef succession. __*Oecologia*__ 202 (2), 431-443. [View Publication](https://link.springer.com/article/10.1007/s00442-023-05404-y) 
+
+ - Atwood, T.B., Sala, E. Mayorga, J., Bradley,D., Cabral, R.B., Auber, A., Cheung, W., **Ferretti, F.**, Friedlander, A.M., Gaines, S.D., Garilao, C. Goodell, W., Halpern, B. S., Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., Morgan, L.E., Mouillot, D., Palacios-Abrantes, P., Possingham, H.P., Rechberger, K.D., Worm, B., Lubchenco, J. 2023. Reply to MA: Quantifying the carbon benefits of ending bottom trawling. __*Nature*__, 617(7960): E3-E5 [View Publication](https://www.nature.com/articles/s41586-023-06015-6)
  
  - Jenrette, J.F., Jenrette, J.L., Truelove, N.K., Moro, S., Dunn, N.I., Chapple, T.K., Gallagher, A.J., Gambardella, C., Schallert, R., Shea, B.D., Curnick, D.J. Block, B.A., **Ferretti, F.** 2023. Detecting white sharks in the Mediterranean Sea with Environmental DNA. __*Oceanography*__ 36 (Supplement 1) [View Publication](https://doi.org/10.5670/oceanog.2023.s1.28)
  

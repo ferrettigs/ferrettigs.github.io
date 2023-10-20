@@ -3,14 +3,13 @@ layout: default
 title: Projects
 ---
 
-# From Historical Ecology to Ecoinformatics
 
 
 <br>
 
 
 
-## The White Shark Chase
+# The White Shark Chase
 
 
 <figure>
@@ -29,6 +28,7 @@ Centuries of coastal fishing, and more recently, industrial exploitation have se
 
 <br>
 
+# From Historical Ecology to Ecoinformatics
 
 
 <br>

@@ -24,7 +24,7 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
  
- - Sala, E., Mayorga, J., Bradley, D., Cabral, R., Atwood, T., Auber, A., Cheung, W., Costello, C., **Ferretti, F.**, Friedlander, A., Gaines, S., Garilao, C., Goodell, W., Halpern, B.S., K., Hinson, A., Kaschner, K. Kesner-Reyes, J., Laprieur, F., Lubcenco, J., McGowan, L., Morgan, D. Mouillot, H., Palacios-Abrantes, J., Possingham, K. Rechberger, B. Worm. 2023. Reply to MA: Global Effects of Marine Protected Areas on Food Security Are Unknown. Accepted in __*Nature*__.
+ - Sala, E., Mayorga, J., Bradley, D., Cabral, R., Atwood, T., Auber, A., Cheung, W., Costello, C., **Ferretti, F.**, Friedlander, A., Gaines, S., Garilao, C., Goodell, W., Halpern, B.S., K., Hinson, A., Kaschner, K. Kesner-Reyes, J., Laprieur, F., Lubcenco, J., McGowan, L., Morgan, D. Mouillot, H., Palacios-Abrantes, J., Possingham, K. Rechberger, B. Worm. 2023. Reply to MA: Global Effects of Marine Protected Areas on Food Security Are Unknown. __*Nature*__ 621, E37–E40. [View Publication](https://www.nature.com/articles/s41586-023-06494-7)
  
  - Shea, B., Bomgardner, L., Gallager, A., **Ferretti, F.** 2023. Big Data Reveals Cryptic Mortality of Pelagic Sharks in Remote Island Shark Sanctuaries. __*Science Advances*__ 9 (33) [View Publication](https://doi.org/10.1126/sciadv.adg3527)
  

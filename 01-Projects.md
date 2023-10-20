@@ -10,6 +10,31 @@ title: Projects
 
 
 
+## The White Shark Chase
+
+
+<figure>
+<img src="assets/WSC.png" alt="WSC" width="700" align="center"> 
+<figcaption></figcaption>
+</figure>
+
+<details>
+  <summary>Tracking the last Mediterranean White Sharks (Click to expand)</summary>
+  
+<br>
+  
+Centuries of coastal fishing, and more recently, industrial exploitation have severely impacted this population, which, in the last few decades, has declined to very low levels of abundance. They were historically abundant and widely distributed in the region, and now they are critically endangered. We don’t know how many sharks are left and still know very little about their ecology and biology to protect them. Because they are scarce and have no aggregation areas similar to other regions, studying them in the field has always been challenging. To address this challenge, we started a multi-institutional monitoring program on white sharks in the Mediterranean Sea.
+
+</details>
+
+<br>
+
+
+
+<br>
+
+
+
 ## Reconstructing the History of Mediterranean Sawfish Populations
 
 

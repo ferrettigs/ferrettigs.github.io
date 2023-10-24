@@ -21,8 +21,8 @@ title: Media Outreach
 
  - **Virginia Tech News** *by David Fleming* [Big teeth, bigger data](https://news.vt.edu/articles/2023/09/cnre-shark-sanctuaries-geospatial.html)
  - **BOAT International** *by Sophia Wilson* [Yachts for Science: Sailing superyacht helps with ground-breaking shark research in the Mediterranean
-](https://www.boatinternational.com/yachts/news/shark-research-yachts-for-science) 31 July 2023 
-
+](https://www.boatinternational.com/yachts/news/shark-research-yachts-for-science) July 31, 2023 
+ - **Robb Report** *By RACHEL CORMACK* [How This 87-Foot Sailing Yacht Is Helping to Protect Endangered White Sharks](https://robbreport.com/motors/marine/blue-titan-sailing-yacht-protecting-white-sharks-1234874758/) August 4, 2023
 
 #### 2022
 

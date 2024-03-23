@@ -23,6 +23,7 @@ title: Media Outreach
  - **BOAT International** *by Sophia Wilson* [Yachts for Science: Sailing superyacht helps with ground-breaking shark research in the Mediterranean
 ](https://www.boatinternational.com/yachts/news/shark-research-yachts-for-science) July 31, 2023 
  - **Robb Report** *By RACHEL CORMACK* [How This 87-Foot Sailing Yacht Is Helping to Protect Endangered White Sharks](https://robbreport.com/motors/marine/blue-titan-sailing-yacht-protecting-white-sharks-1234874758/) August 4, 2023
+ - **Forbes** *by Melissa Cristina Márquez* [Uncovering Mediterranean White Sharks With Environmental DNA](https://www.forbes.com/sites/melissacristinamarquez/2023/04/06/uncovering-mediterranean-white-sharks-with-environmental-dna/?sh=700355bc1fc8) Apr 6, 2023
 
 #### 2022
 

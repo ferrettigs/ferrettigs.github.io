@@ -42,21 +42,17 @@ title: Media Outreach
 
 - **Virginia Tech News** *by David Flemming* [One fish, two fish: merging marine animal tracking with fishing fleet movements](https://vtnews.vt.edu/articles/2020/08/cnre-fish-and-ships.html)
 - **Virginia Tech News** *by Krista Timney* [Researcher: Shark Fin Sales Elimination Act provides chance for U.S. to impact shark conservation efforts](https://vtnews.vt.edu/articles/2020/02/cnre-shark-fin-trade.html)
-- **Animali.it**: [Avvistato nel messinese squalo bianco di 5 metri](https://metronews.it/2021/04/26/avvistato-nel-messinese-squalo-bianco-di-5-metri/)
-- **La Rivista della Natura**: [Squalo bianco: dov’è nel Mediterraneo](https://rivistanatura.com/squalo-bianco-dove-nel-mediterraneo/) 
-- **DireGiovani.it**: [Squalo bianco a rischio estinzione nel Mar Mediterraneo](https://www.diregiovani.it/2020/02/03/293276-squalo-bianco-a-rischio-estinzione-nel-mar-mediterraneo.dg/)
-
-- **Protecting the global ocean for biodiversity, food and climate**: [226 news stories from 165 outlets](https://nature.altmetric.com/details/101895056/news) 
-
-#### 2020
-
+- **Protecting the global ocean for biodiversity, food and climate**: [226 news stories from 165 outlets](https://nature.altmetric.com/details/101895056/news)
 - **National Geogtraphic** *by Rachel Fobar*[How the U.S. is inadvertently facilitating shark fin smuggling](https://www.nationalgeographic.com/animals/article/united-states-facilitating-shark-fin-trade-south-america-asia) 
-
 - **Pliocene colonization of the Mediterranean by Great White Shark inferred from fossil records, historical jaws, phylogeographic and divergence time analyses** [7 news stories from 6 outlets](https://www.altmetric.com/details/75882503/news)
 
 ##### Italy
+
 - **La Repubblica** [Lo squalo bianco rischia l'estinzione nel Mediterraneo. "Scomparso fino al 96%"](https://www.repubblica.it/green-and-blue/2020/02/03/news lo_squalo_bianco_rischia_l_estinzione_nel_mediterraneo-247475266/) 
 - **Il Messaggero**: [Lo squalo bianco nuota nel Mediterraneo da 3,2 milioni di anni ma oggi rischia l'estinzione](https://www.ilmessaggero.it/animali squalo_bianco_mediterraneo_dna_estinzione-5051310.html)
+- **Animali.it**: [Avvistato nel messinese squalo bianco di 5 metri](https://metronews.it/2021/04/26/avvistato-nel-messinese-squalo-bianco-di-5-metri/)
+- **La Rivista della Natura**: [Squalo bianco: dov’è nel Mediterraneo](https://rivistanatura.com/squalo-bianco-dove-nel-mediterraneo/) 
+- **DireGiovani.it**: [Squalo bianco a rischio estinzione nel Mar Mediterraneo](https://www.diregiovani.it/2020/02/03/293276-squalo-bianco-a-rischio-estinzione-nel-mar-mediterraneo.dg/)
 
 #### 2019
 
@@ -71,6 +67,7 @@ title: Media Outreach
 - **Tracking the global footprint of fisheries** [154 news stories from from 121 outlets](https://science.altmetric.com/details/33539625/news) 
 
 #### 2017
+
 - **Resilience of marine ecosystems to climatic disturbances**:[4 news stories from 3 outlets](https://oxfordjournals.altmetric.com/details/16031815/news) 
 
 

@@ -24,6 +24,10 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
  
+ - Araujo, G., Bohm, M., **Ferretti, F.**, Fowler, S., Huveneers, C., Jabado, R., Peddemors, V.,  Schaber, M., Simpfendorfer, C.,  Wosnick N. 2024. Position Statement on Shark Control Programs and Shark Culls. __*Shark News*__, 9: 167-169.
+
+ - McDevitt-Irwin, J.M., McCauley, D.J., Brumbaugh, D.R, Elmer, F., Ferretti, F., White, T.D., Wible, JG., Micheli, F. 2023. Dynamic interplay: disentangling the temporal variability of fish effects on coral recruitment. Scientific Reports, 13, 20971. [View Publication](https://doi.org/10.1038/s41598-023-47758-6)
+ 
  - Sala, E., Mayorga, J., Bradley, D., Cabral, R., Atwood, T., Auber, A., Cheung, W., Costello, C., **Ferretti, F.**, Friedlander, A., Gaines, S., Garilao, C., Goodell, W., Halpern, B.S., K., Hinson, A., Kaschner, K. Kesner-Reyes, J., Laprieur, F., Lubcenco, J., McGowan, L., Morgan, D. Mouillot, H., Palacios-Abrantes, J., Possingham, K. Rechberger, B. Worm. 2023. Reply to MA: Global Effects of Marine Protected Areas on Food Security Are Unknown. __*Nature*__ 621, E37–E40. [View Publication](https://www.nature.com/articles/s41586-023-06494-7)
  
  - Shea, B., Bomgardner, L., Gallager, A., **Ferretti, F.** 2023. Big Data Reveals Cryptic Mortality of Pelagic Sharks in Remote Island Shark Sanctuaries. __*Science Advances*__ 9 (33) [View Publication](https://doi.org/10.1126/sciadv.adg3527)

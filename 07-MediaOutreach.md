@@ -17,9 +17,15 @@ title: Media Outreach
 
 ### News Articles
 <a name="news"></a>
+
+#### 2024
+
+**Virginia Tech News** *By Rich Mathieson* [Virginia Tech expertise to support sustainable agriculture and fishing in Tunisia](https://news.vt.edu/articles/2024/04/outreach-cired-tunisia.html) April 19, 2024 
+
+
 #### 2023
 
- - **Virginia Tech News** *by David Fleming* [Big teeth, bigger data](https://news.vt.edu/articles/2023/09/cnre-shark-sanctuaries-geospatial.html)
+ - **Virginia Tech News** *by David Fleming* [Big teeth, bigger data](https://news.vt.edu/articles/2023/09/cnre-shark-sanctuaries-geospatial.html) September 8, 2023
  - **BOAT International** *by Sophia Wilson* [Yachts for Science: Sailing superyacht helps with ground-breaking shark research in the Mediterranean
 ](https://www.boatinternational.com/yachts/news/shark-research-yachts-for-science) July 31, 2023 
  - **Robb Report** *By RACHEL CORMACK* [How This 87-Foot Sailing Yacht Is Helping to Protect Endangered White Sharks](https://robbreport.com/motors/marine/blue-titan-sailing-yacht-protecting-white-sharks-1234874758/) August 4, 2023

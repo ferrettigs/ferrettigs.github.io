@@ -23,7 +23,22 @@ Publications
 
 Journal Articles and Book Chapters
 ----------------------------------
+ - Sequeira, A.M.M. et al. Global tracking of marine megafauna space use reveals how to achieve conservation Targets __*Science*__, in press.
  
+ - Shea, B., Chapple, TK., Echwikhi, K., Gambardella, C., Jenrette, J., Moro, S., Schallert, R.J., Block, B., and **Ferretti, F.** 2024. First satellite track of a juvenile shortfin mako (Isurus oxyrinchus) in the Mediterranean Sea. __*Frontiers of Marine*__ Science, 11: 1423507. doi: https://doi.org/10.3389/fmars.2024.1423507 
+ 
+ - Williamson, M., Tebbs, E., Curnick, D., **Ferretti, F.**, Carlisle, A., Chapple, T., Schallert, R., Tickler, D., Block, B., Jacoby, D. 2024. Environmental stress and its impact on shark residency to coral reefs. __*Communication Biology*__, 7(1): 1018. 
+ 
+ - **Ferretti**, F., Shea, B., Jenrette, J., Moro, S., Gambardella, C., Echwikhi, K., Schallert, R., Gallagher, A., Block, B. and Chapple, T. 2024. On the tracks of White Sharks in the Mediterranean Sea. __*Frontiers of Marine Science*__, 11: 1425511. doi: 10.3389/fmars.2024.1425511
+ 
+ - Varini, F., Gayford, J. H., Jenrette, J., Witt, M., Garzon, F., **Ferretti, F.**, Wilday, S., Bond, M., Heithaus, M.R., Robinson, D., Carter, D., Gumbs, N., Webster, V., and Glocker, B. 2024. SharkTrack: an accurate, generalizable software for streamlining shark and ray underwater video analysis. __*arXiv*__ preprint arXiv:2407.20623.
+ 
+ - Albery, G. F., Becker, D. J., Firth, J. A., Silk, M., Sweeny, A. R., **Ferretti, F.** ... & Bansal, S. 2024. Density-dependent network structuring within and across wild animal systems. __*bioRxiv*__, 2024-06.
+ 
+ -  Panunzi, G., Moro, S., Marques, I., Martino, S., **Ferretti, F.**, Lasinio, G. 2024. Integration of data sources to estimate the abundance of rare and elusive species: a case study on the Mediterranean white shark population. __*Environmetrics*__. https://doi.org/10.1002/env.2876
+ 
+ - Kottillil, S. and Kottillil, S. and Krishna, Y. C. and **Ferretti, F.** and Karnad, D., Digital Conservation Can Fill Data Gaps in Data-Poor Regions: Case of Elasmobranchs in India. Available at __*SSRN*__*: https://ssrn.com/abstract=4897488 or http://dx.doi.org/10.2139/ssrn.4897488
+
  - Araujo, G., Bohm, M., **Ferretti, F.**, Fowler, S., Huveneers, C., Jabado, R., Peddemors, V.,  Schaber, M., Simpfendorfer, C.,  Wosnick N. 2024. Position Statement on Shark Control Programs and Shark Culls. __*Shark News*__, 9: 167-169.
 
  - McDevitt-Irwin, J.M., McCauley, D.J., Brumbaugh, D.R, Elmer, F., Ferretti, F., White, T.D., Wible, JG., Micheli, F. 2023. Dynamic interplay: disentangling the temporal variability of fish effects on coral recruitment. Scientific Reports, 13, 20971. [View Publication](https://doi.org/10.1038/s41598-023-47758-6)

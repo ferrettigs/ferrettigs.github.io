@@ -20,7 +20,19 @@ title: Media Outreach
 
 #### 2024
 
-**Virginia Tech News** *By Rich Mathieson* [Virginia Tech expertise to support sustainable agriculture and fishing in Tunisia](https://news.vt.edu/articles/2024/04/outreach-cired-tunisia.html) April 19, 2024 
+ - **BBC Wildlife** *Daniel Graham* [White shark expedition stumbles across something unexpected and important in the Mediterranean Sea](https://www.discoverwildlife.com/animal-facts/marine-animals/shortfin-mako-shark-mediterranean-sea)
+
+ - **Forbes** *by Melissa Cristina Márquez* [Young Mako Shark Travels 750 Miles, Offering Hope For Conservation Effor](https://www.forbes.com/sites/melissacristinamarquez/2024/12/15/young-mako-shark-travels-750-miles-offering-hope-for-conservation-efforts/) December 15, 2024
+
+ - **Virginia Tech News** *by Max Esterhuizen* [Researchers tag first Mediterranean shortfin mako shark](https://news.vt.edu/articles/2024/11/cnre-research-mako-tag.html) December 10, 2024
+
+ - **Il Messaggero** *By Redazione Web* [Colonia di squali bianchi nel Canale di Sicilia, la scoperta degli scienziati Usa: “Vanno protetti”](https://www.ilmessaggero.it/animali/squali_bianchi_canale_di_sicilia_colonia_scienziati_usa_protetti-8451756.html) October 30, 2024
+
+ - **la Repubblica** *Luca Fraioli* [Il biologo marino Francesco Ferretti: “Io, cacciatore di squali bianchi nel Mediterraneo. Ma solo per salvarli”](https://www.repubblica.it/italia/2024/10/25/news/squali_mediterraneo_censimento_canale_sicilia-423576123/) October 25, 2024 
+
+ - **Virginia Tech News** *by Max Esterhuizen* [Virginia Tech researcher works to preserve white sharks in the Mediterranean Sea](https://news.vt.edu/articles/2024/10/cnre-research-white-shark.html) October 22, 2024
+
+ - **Virginia Tech News** *By Rich Mathieson* [Virginia Tech expertise to support sustainable agriculture and fishing in Tunisia](https://news.vt.edu/articles/2024/04/outreach-cired-tunisia.html) April 19, 2024 
 
 
 #### 2023
@@ -85,8 +97,6 @@ title: Media Outreach
 #### 2015
 
 - **National Geographic by Riley Black**[The Mediterranean’s Missing Sawfishes](https://www.nationalgeographic.com/science/article/the-mediterraneans-missing-sawfishes)
-
-
 - **The Wall Street Journal**: [What Are the Odds? Long, Most Likely](http://www.wsj.com/articles/what-are-the-odds-long-most-likely-1439544600) 
 - **The New York Times**: [California Shark Attack Rates Plunge 90 Percent Since 1950s](http://www.nytimes.com/aponline/2015/07/10/science/ap-sci-shark-attacks-study.html) 
 - **The Washington Post**: [The risk of getting attacked by a shark off California has plummeted sharply since 1950, study says](http://www.washingtonpost.com/news/energy-environment/wp/2015/07/09/good-news-for-california-beachgoers-the-risk-of-a-shark-attack-has-been-declining-for-decades/)
@@ -162,13 +172,14 @@ title: Media Outreach
 
 ##### UK
 
-- **BBC news** *by Richard Black* [Fast fall of the Mediterranean Sharks](http://news.bbc.co.uk/2/hi/science/nature/7446112.stm) 10 june 2008  
-- Reuters  by Robin Pomeroy. *Med Shark numbers down 97 pct over two centuries* 11 june 2008
-- Herald Tribune  - *Sharks decline by 97 percent in Mediterranean*  11 June 2008
-- Timesonline  - by Richard Owen. *We must learn to love sharks, study warns*.  11 june 2008.
-- The Guardian *Shark numbers crash* UK, 12 june 2008.
-- The Guardian *In Praise of …Sharks*. Editorial, UK, 12 june 2008
-- Telegraph - by Malcom Moore, *Sharks `functionally extinct` in Mediterranean*  112 june 2008
+- **BBC News** *by Richard Black* [Fast fall of the Mediterranean Sharks](http://news.bbc.co.uk/2/hi/science/nature/7446112.stm) June 10, 2008  
+- **Reuters** *by Robin Pomeroy* [Med Shark numbers down 97 pct over two centuries]() June 11, 2008  
+- **Herald Tribune** *by Staff* [Sharks decline by 97 percent in Mediterranean]() June 11, 2008  
+- **Times Online** *by Richard Owen* [We must learn to love sharks, study warns]() June 11, 2008  
+- **The Guardian** *by Staff* [Shark numbers crash]() June 12, 2008  
+- **The Guardian** *Editorial* [In Praise of …Sharks]() June 12, 2008  
+- **The Telegraph** *by Malcolm Moore* [Sharks 'functionally extinct' in Mediterranean]() June 12, 2008
+
 
 ##### USA
 

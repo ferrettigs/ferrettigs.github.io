@@ -18,6 +18,15 @@ title: Media Outreach
 ### News Articles
 <a name="news"></a>
 
+
+#### 2025
+
+ - **Virginia Tech News** *by Max Esterhuizen* [Groundbreaking study maps the movements of marine megafauna](https://news.vt.edu/articles/2025/06/cnre-mapping-movements-of-marine-megafauna.html) June 5, 2025
+
+ - **Virginia Tech Magazine** *by Max Esterhuizen* [SHARK TALE - Researchers Study Endangered Sharks](/assets/press/2025/Shark%20Tale%20in%20VT%20spring25_mag.pdf) June 4, 2025
+ 
+ - **Fast Company** *Jackie Snow* [Luxury yacht owners are throwing scientists a lifeline](https://www.fastcompany.com/91319437/luxury-yacht-owners-are-throwing-scientists-a-lifeline) April 22, 2025
+
 #### 2024
 
  - **BBC Wildlife** *Daniel Graham* [White shark expedition stumbles across something unexpected and important in the Mediterranean Sea](https://www.discoverwildlife.com/animal-facts/marine-animals/shortfin-mako-shark-mediterranean-sea)
@@ -94,6 +103,7 @@ title: Media Outreach
 - **Lenfest Ocean Program**: [Large marine protected areas (LMPAs) in the Mediterranean Sea](https://www.lenfestocean.org/en/news-and-publications/published-paper/large-marine-protected-areas-lmpas-in-the-mediterranean-sea-the-opportunity-of-the-adriatic-sea)
 
 
+
 #### 2015
 
 - **National Geographic by Riley Black**[The Mediterranean’s Missing Sawfishes](https://www.nationalgeographic.com/science/article/the-mediterraneans-missing-sawfishes)
@@ -168,74 +178,79 @@ title: Media Outreach
 
 - **Independent Online (South Africa)** *by Tony Carnie*: [Night time is shark time](http://beta.iol.co.za/scitech/science/environment/night-time-is-shark-time-1884825)   
 
+#### 2011
+
+- **Foreign Policy** by *Juliet Eilperin* [Man Bites Shark](http://foreignpolicy.com/2011/07/29/man-bites-shark/)
+
 #### 2008
 
 ##### UK
 
 - **BBC News** *by Richard Black* [Fast fall of the Mediterranean Sharks](http://news.bbc.co.uk/2/hi/science/nature/7446112.stm) June 10, 2008  
-- **Reuters** *by Robin Pomeroy* [Med Shark numbers down 97 pct over two centuries]() June 11, 2008  
+- **Reuters** *by Robin Pomeroy* [Med Shark numbers down 97 pct over two centuries](https://www.reuters.com/article/economy/med-shark-numbers-down-97-pct-over-two-centuries-idUSL10732822/) June 11, 2008  
 - **Herald Tribune** *by Staff* [Sharks decline by 97 percent in Mediterranean]() June 11, 2008  
 - **Times Online** *by Richard Owen* [We must learn to love sharks, study warns]() June 11, 2008  
-- **The Guardian** *by Staff* [Shark numbers crash]() June 12, 2008  
-- **The Guardian** *Editorial* [In Praise of …Sharks]() June 12, 2008  
+- **The Guardian** *by Staff* [Shark numbers crash](https://www.theguardian.com/environment/2008/jun/12/wildlife.endangeredspecies) June 12, 2008  
+- **The Guardian** *Editorial* [In Praise of …Sharks](https://www.theguardian.com/commentisfree/2008/jun/12/wildlife.endangeredspecies) June 12, 2008  
 - **The Telegraph** *by Malcolm Moore* [Sharks 'functionally extinct' in Mediterranean]() June 12, 2008
 
 
 ##### USA
 
-- The New York Times - by Andrew C. Revkin. *Emptied Mediterranean - Sharks Nearly Gone*. 11 june 2008.
-- The New York Times - by Andrew C. Revkin. *Some shark populations collapsing*. 12 june 2008
-- The Washington Post - by Juliet Eilperin. *In Mediterranean, the predator is the hunted* 30 June 2008.
+- **The New York Times** *by Andrew C. Revkin* [Emptied Mediterranean - Sharks Nearly Gone](https://archive.nytimes.com/dotearth.blogs.nytimes.com/2008/06/11/emptied-mediterranean-sharks-nearly-gone/) June 11, 2008
+- **The New York Times** - *by Andrew C. Revkin* [Some shark populations collapsing](https://www.nytimes.com/2008/06/12/science/earth/12sharks.html) June 12, 2008
+- **The Washington Post** *by Juliet Eilperin* [In Mediterranean, the predator is the hunted](https://www.washingtonpost.com/archive/national/2008/06/30/in-mediterranean-the-predator-is-the-hunted/4b25b1f0-52f6-483d-b61f-6894045461b5/) June 30, 2008.
+
 - The Seattle times
-- The Gulf news
+- **The Gulf news** *By Juliet Eilperin, Los Angeles Times - Washington Post* [Predator in a fin soup](https://gulfnews.com/general/predator-in-a-fin-soup-1.40559?utm_source=chatgpt.com) July 18, 2008
 - The Los Angeles Times
-- Foreign Policy by Juliet Eilperin [Man Bites Shark](http://foreignpolicy.com/2011/07/29/man-bites-shark/)
+
 
 ##### Italy
 
-- ANSA (wire agency) – *Squali, perderli e' come non avere la polizia* – *Sharks, losing them is like not having the police*, Italy, 11 june 2008
-- ANSA (wire agency) - by Elisabetta Guidobaldi – *Grandi squali mediterraneo stanno scomparendo* – *Great sharks Mediterranean are disappearing* 11 june 2008
-- AGR (wire agency) – *Ambiente: squali a rischio di estinzione nel mediterraneo* – *Sharks at risk of extinction in the Mediterranean*, Italy, 11 june 2008 
-- Corriere della Sera  - *Mediterraneo, squali a rischio estinzione* – *Mediterranean, Sharks at risk of extinction*. Corriere della Sera, Italy, 11 June 2008.
-- La Repubblica - *Da Italia Allarme Per Estinzione Squali Mediterraneo* 12 june 2008
-- Il Messaggero  - *Allarme per il Mediterraneo* – *Alarm for the Mediterranean Sea*. Il Messaggero, Italy, 11 june 2008
-- Il Secolo XIX  - *Squali del mediterraneo a rischio di estinzione* – *Mediterranean sharks at risk of extinction*,Il Secolo XIX, 11 june 2008
-- Il Resto del Carlino  - *L'allarme gli squali stanno scomparendo* – *alarm, sharks are disappearing*, Il Resto del Carlino, 11 june 2008. 
-- Il Resto del Carlino - byLorenzo Monachesi. *Per studiare gli squali sono dovuto emigrare in un ateneo del Canada* – *To study sharks I had to migrate to a Canadian university*.  17 june 2008.
-- La Stampa *Squali decimate in via d'estinzione* – *Sharks decimated in peril of extinction*. La Stampa, Italy, 12 june 2008.
-- La Stampa *Nel Mediterraneo e' allarme squali *stanno scomparendo*. La Zampa (animal section of La Stampa). 11 june 2008
-- Corriere Adriatico - by Pia Biacchelli *Squali a rischio un Maceratese lancia l'allarme* – *Sharks at risk of extinction a  Maceratese gives the alarm*.  12 june 2008.
-- Corriere Adriatico. *Sono bravi, normale che vadano all'estero* – *They are good it is natural they go abroad*. 12 june 2008
-- Corriere Adriatico *In practica ‘funzionalmente estinti', cosi' l'ecosistema va in tilt* – *basically functually extinct, so the ecosystem is in tilt*. 12 june 2008
+- **ANSA (wire agency)** [Squali, perderli e' come non avere la polizia]() June 11, 2008
+- **ANSA (wire agency)** *by Elisabetta Guidobaldi* [Grandi squali mediterraneo stanno scomparendo]() June 11, 2008
+- **AGR (wire agency)** [Ambiente: squali a rischio di estinzione nel mediterraneo]() June 11, 2008
+- **Corriere della Sera** [Mediterraneo, squali a rischio estinzione](https://www.corriere.it/animali/08_giugno_11/squali_mediterraneo_63ba52c6-37b2-11dd-a7f3-00144f02aabc.shtml) June 11, 2008
+- **La Repubblica** [Da Italia Allarme Per Estinzione Squali Mediterraneo] June 12, 2008
+- **Il Messaggero** [Allarme per il Mediterraneo] June 11, 2008
+- **Il Secolo XIX** [Squali del mediterraneo a rischio di estinzione] 11 june 2008
+- **Il Resto del Carlino** [L'allarme gli squali stanno scomparendo] 11 june 2008. 
+- **Il Resto del Carlino** byLorenzo Monachesi. [Per studiare gli squali sono dovuto emigrare in un ateneo del Canada](/assets/press/2008/resto-carlino-Ferretti1.jpg) June 17, 2008.
+- **La Stampa** [Squali decimate in via d'estinzione]() La Stampa, Italy, 12 june 2008.
+- **La Stampa** [Nel Mediterraneo e' allarme squali *stanno scomparendo]. La Zampa (animal section of La Stampa). 11 June, 2008
+- **Corriere Adriatico** *by Pia Biacchelli* [Squali a rischio un Maceratese lancia l'allarme](/assets/press/2008/CorriereAdriatico1.pdf) - [printed page](/assets/press/2008/CorriereAdriatico.jpg) June 12, 2008
+- **Corriere Adriatico** [Sono bravi, normale che vadano all'estero](/assets/press/2008/coradr3.pdf) June 12, 2008
+- **Corriere Adriatico** [In practica ‘funzionalmente estinti', cosi' l'ecosistema va in tilt](/assets/press/2008/coradr2.pdf)  12 june 2008
 
 ##### Spain
 
-- La Vanguardia - *Los tiburones del Mediterráneo, en peligro de extinción*.  11 june 2008
-- Publico - by Manuel Ansede. *El número de tiburones mediterráneos se desploma*. 12 june 2008.
-- Soiutu.es - by Pablo Francescutti. *Hermano tiburón*.  12 june 2008
+- **La Vanguardia** [Los tiburones del Mediterráneo, en peligro de extinción]()  11 June 2008
+- **Publico** *by Manuel Ansede* [El número de tiburones mediterráneos se desploma]() 12 June 2008.
+- **Soiutu.es** *by Pablo Francescutti* [Hermano tiburón]()  12 June 2008
 
 ### Germany
 
-- Katrin Wernke. Alarm unter Wasser. ….
+- *Katrin Wernke* [Alarm unter Wasser]()
 
 ##### France
 
-- Le Monde (front page) - by Jean-Jacques Bozonnet. *Les requins de la Méditerranée sont en voie d'extinction rapide*. 14 june 2008
-- Le Monde - *La Méditerranée, une mer bientôt sans requins*
+- **Le Monde (front page)** *by Jean-Jacques Bozonnet.* [Les requins de la Méditerranée sont en voie d'extinction rapide](https://www.lemonde.fr/planete/article/2008/06/13/les-requins-de-la-mediterranee-sont-en-voie-d-extinction-rapide_1057699_3244.html) - [printed front page](/assets/press/2008/Frontpage%20Le%20Monde%2015-06-08.pdf), [printed page 9](/assets/press/2008/Page%209%20Le%20Monde%2014-06-08.pdf) June 14, 2008
+- **Le Monde** [La Méditerranée, une mer bientôt sans requins]
 
 ##### China
 
-- China Daily. *Mediterranean sharks: Hunters or prey* China Daily, China, 12 june 2008
+- **China Daily** [Mediterranean sharks: Hunters or prey](https://www.chinadaily.com.cn/cndy/2008-06/12/content_6754371.htm) June 12, 2008
 
 ##### New Zealand
 
-- New Zealand Herald. *Fishing takes big bite out of shark population*, New Zealand Herald, 12 june 2008
+- **New Zealand Herald** [Fishing takes big bite out of shark population](https://www.nzherald.co.nz/nz/fishing-takes-big-bite-out-of-shark-population/ODJF4225R76W7ESZOKO2VELFRE/) June 12, 2008
 
 ##### Malta
 
-- Raphael Vassallo, *No more ‘Jaws in the Med' study warns*, Malta Today, Malta, 15 june 2008
-- UPI. *Sharks disappearing from the Mediterranean*, UPI.com, 30 june 2008.
-- UPI. *Study: Shark species face extinction*, UPI SCIENCE NEWS, 30 JUNE 2008.
+- **Malta Today** *Raphael Vassallo* [No more ‘Jaws in the Med' study warns]() 15 june 2008
+- **UPI.com** [Sharks disappearing from the Mediterranean]() 30 june 2008.
+- **UPI SCIENCE NEWS** [Study: Shark species face extinction]() 30 JUNE 2008.
 
 ### Weekly or monthly Magazines
 <a name="magazines"></a>

@@ -37,7 +37,7 @@ title: Media Outreach
 
  - **Il Messaggero** *By Redazione Web* [Colonia di squali bianchi nel Canale di Sicilia, la scoperta degli scienziati Usa: “Vanno protetti”](https://www.ilmessaggero.it/animali/squali_bianchi_canale_di_sicilia_colonia_scienziati_usa_protetti-8451756.html) October 30, 2024
 
- - **la Repubblica** *Luca Fraioli* [Il biologo marino Francesco Ferretti: “Io, cacciatore di squali bianchi nel Mediterraneo. Ma solo per salvarli”](https://www.repubblica.it/italia/2024/10/25/news/squali_mediterraneo_censimento_canale_sicilia-423576123/) October 25, 2024 
+ - **la Repubblica** *Luca Fraioli* [Il biologo marino Francesco Ferretti: “Io, cacciatore di squali bianchi nel Mediterraneo. Ma solo per salvarli”](https://www.repubblica.it/italia/2024/10/25/news/squali_mediterraneo_censimento_canale_sicilia-423576123/) [print version](assets/press/2024/LA_REPUBBLICA_25102024.pdf) October 25, 2024 
 
  - **Virginia Tech News** *by Max Esterhuizen* [Virginia Tech researcher works to preserve white sharks in the Mediterranean Sea](https://news.vt.edu/articles/2024/10/cnre-research-white-shark.html) October 22, 2024
 
@@ -317,6 +317,10 @@ title: Media Outreach
 
 ### TV Interviews and News
 <a name="video"></a>
+
+#### 2025
+
+ - **Rete 4** *With Michela Brambilla*[TV interview for the show "Dalla parte degli Animali"](https://mediasetinfinity.mediaset.it/video/dallapartedeglianimali/lo-stato-di-conservazione-dello-squalo-bianco-nel-mar-mediterraneo_F313483801020C13) January 28, 2025
 
 #### 2021
 

@@ -21,6 +21,8 @@ title: Media Outreach
 
 #### 2025
 
+ - **ScienceDaily** [Satellite tracking of 12,000 marine animals reveals ocean giants are in trouble](https://www.sciencedaily.com/releases/2025/06/250607231839.htm) June 7, 2025
+ 
  - **Virginia Tech News** *by Max Esterhuizen* [Groundbreaking study maps the movements of marine megafauna](https://news.vt.edu/articles/2025/06/cnre-mapping-movements-of-marine-megafauna.html) June 5, 2025
 
  - **Virginia Tech Magazine** *by Max Esterhuizen* [SHARK TALE - Researchers Study Endangered Sharks](/assets/press/2025/Shark%20Tale%20in%20VT%20spring25_mag.pdf) June 4, 2025

@@ -21,6 +21,8 @@ title: Media Outreach
 
 #### 2025
 
+ - **Virginia Tech News** *by Felicia Spencer* [eDNA testing for sharks in the Mediterranean Sea yields fin-tastic results](https://news.vt.edu/articles/2025/07/white-sharks-in-mediterranean-flsi-jenrette-genetic-cnre-.html?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyPublicCMP_jul2225-public) July 21, 2025
+ 
  - **ScienceDaily** [Satellite tracking of 12,000 marine animals reveals ocean giants are in trouble](https://www.sciencedaily.com/releases/2025/06/250607231839.htm) June 7, 2025
  
  - **Virginia Tech News** *by Max Esterhuizen* [Groundbreaking study maps the movements of marine megafauna](https://news.vt.edu/articles/2025/06/cnre-mapping-movements-of-marine-megafauna.html) June 5, 2025

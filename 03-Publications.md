@@ -27,7 +27,7 @@ Journal Articles and Book Chapters
  
  - **Ferretti, F.**, Jenrette, J., Moro, S., Butner, C., Haddock, S., Jorgensen, S., Hastie, T. and Micheli, F. 2025 In Press. From data deficient to big data in shark conservation. __*Fish and Fisheries*__.
 
- - Sequeira, A.M.M., Rodríguez, J.P., Marley, S.A., Calich, H.J., van der Mheen, M., VanCompernolle, M., Arrowsmith, L.M., Peel, L.R., Queiroz, N., Vedor, M., da Costa, I., Mucientes, G., Couto, A., Humphries, N.E., Abalo-Morla, S., **Ferretti, F**. et al. 2025. Global tracking of marine megafauna space use reveals how to achieve conservation Targets Science, 388: 6751. [View Publication](https://doi.org/10.1126/science.adl0239)
+ - Sequeira, A.M.M., Rodríguez, J.P., Marley, S.A., Calich, H.J., van der Mheen, M., VanCompernolle, M., Arrowsmith, L.M., Peel, L.R., Queiroz, N., Vedor, M., da Costa, I., Mucientes, G., Couto, A., Humphries, N.E., Abalo-Morla, S., **Ferretti, F**. et al. 2025. Global tracking of marine megafauna space use reveals how to achieve conservation targets. __*Science*__, 388: 6751. [View Publication](https://doi.org/10.1126/science.adl0239)
 
  - Shea, B., Chapple, TK., Echwikhi, K., Gambardella, C., Jenrette, J., Moro, S., Schallert, R.J., Block, B., and **Ferretti, F.** 2024. First satellite track of a juvenile shortfin mako (Isurus oxyrinchus) in the Mediterranean Sea. __*Frontiers of Marine Science*__, 11: 1423507. [View Publication](https://doi.org/10.3389/fmars.2024.1423507) 
  

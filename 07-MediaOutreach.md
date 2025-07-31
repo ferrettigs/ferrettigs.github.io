@@ -322,6 +322,8 @@ title: Media Outreach
 
 #### 2025
 
+ - **TV Centro Marche** *News TG* [TV news interview in occasion of the Plenary lecture at International Master of Science in Marine Biological Resources (IMBRSea) Annual Symposium 2025](https://www.facebook.com/share/v/196xp9H3GG/?mibextid=wwXIfr)
+ 
  - **Rete 4** *With Michela Brambilla*[TV interview for the show "Dalla parte degli Animali"](https://mediasetinfinity.mediaset.it/video/dallapartedeglianimali/lo-stato-di-conservazione-dello-squalo-bianco-nel-mar-mediterraneo_F313483801020C13) January 28, 2025
 
 #### 2021

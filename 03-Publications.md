@@ -23,13 +23,17 @@ Publications
 
 Journal Articles and Book Chapters
 ----------------------------------
- - Sequeira, A.M.M. et al. Global tracking of marine megafauna space use reveals how to achieve conservation Targets __*Science*__, in press.
+ - Albery, G.F., Becker, D.J., Firth, J.A., De Moor, D., Ravindran, S., Silk, M., Sweeny, A.R., Vander Wal, E., Webber, Q., **Ferretti, F.**, et al. 2025 In Press. Density-dependent network structuring within and across wild animal systems. __*Nature Ecology & Evolution*__.
  
- - Shea, B., Chapple, TK., Echwikhi, K., Gambardella, C., Jenrette, J., Moro, S., Schallert, R.J., Block, B., and **Ferretti, F.** 2024. First satellite track of a juvenile shortfin mako (Isurus oxyrinchus) in the Mediterranean Sea. __*Frontiers of Marine Science*__, 11: 1423507. doi: https://doi.org/10.3389/fmars.2024.1423507 
+ - **Ferretti, F.**, Jenrette, J., Moro, S., Butner, C., Haddock, S., Jorgensen, S., Hastie, T. and Micheli, F. 2025 In Press. From data deficient to big data in shark conservation. __*Fish and Fisheries*__.
+
+ - Sequeira, A.M.M., Rodríguez, J.P., Marley, S.A., Calich, H.J., van der Mheen, M., VanCompernolle, M., Arrowsmith, L.M., Peel, L.R., Queiroz, N., Vedor, M., da Costa, I., Mucientes, G., Couto, A., Humphries, N.E., Abalo-Morla, S., **Ferretti, F**. et al. 2025. Global tracking of marine megafauna space use reveals how to achieve conservation Targets Science, 388: 6751. [View Publication](https://doi.org/10.1126/science.adl0239)
+
+ - Shea, B., Chapple, TK., Echwikhi, K., Gambardella, C., Jenrette, J., Moro, S., Schallert, R.J., Block, B., and **Ferretti, F.** 2024. First satellite track of a juvenile shortfin mako (Isurus oxyrinchus) in the Mediterranean Sea. __*Frontiers of Marine Science*__, 11: 1423507. [View Publication](https://doi.org/10.3389/fmars.2024.1423507) 
  
  - Williamson, M., Tebbs, E., Curnick, D., **Ferretti, F.**, Carlisle, A., Chapple, T., Schallert, R., Tickler, D., Block, B., Jacoby, D. 2024. Environmental stress and its impact on shark residency to coral reefs. __*Communication Biology*__, 7(1): 1018. 
  
- - **Ferretti**, F., Shea, B., Jenrette, J., Moro, S., Gambardella, C., Echwikhi, K., Schallert, R., Gallagher, A., Block, B. and Chapple, T. 2024. On the tracks of White Sharks in the Mediterranean Sea. __*Frontiers of Marine Science*__, 11: 1425511. doi: 10.3389/fmars.2024.1425511
+ - **Ferretti**, F., Shea, B., Jenrette, J., Moro, S., Gambardella, C., Echwikhi, K., Schallert, R., Gallagher, A., Block, B. and Chapple, T. 2024. On the tracks of White Sharks in the Mediterranean Sea. __*Frontiers of Marine Science*__, 11: 1425511. [View Publication](https://doi.org/10.3389/fmars.2024.1425511)
  
  - Varini, F., Gayford, J. H., Jenrette, J., Witt, M., Garzon, F., **Ferretti, F.**, Wilday, S., Bond, M., Heithaus, M.R., Robinson, D., Carter, D., Gumbs, N., Webster, V., and Glocker, B. 2024. SharkTrack: an accurate, generalizable software for streamlining shark and ray underwater video analysis. __*arXiv*__ preprint arXiv:2407.20623.
  

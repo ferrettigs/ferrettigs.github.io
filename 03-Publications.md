@@ -23,9 +23,13 @@ Publications
 
 Journal Articles and Book Chapters
 ----------------------------------
+ - Gambardella, C., Fernández-Corredor, E., Moro, S., Echwiki, K., Jenrette, J.F., Lemsi, C., Schallert, R.J., Shea, B.D., Zammit, M., Cerrano, C., Colloca, F., Romeo, T., Navarro, J. & Ferretti, F. 2025 In Press. Trophic niche overlap patitioning between the white shark (*Carcharodon carcharias*) and the shortfin mako (*Isurus oxyrinchus*) in the Central Mediterranean Sea. __*Wildlife Research*__.
+ 
+ - Sweka, J.A., Anstead, K.A., Smith, D.R., Barry, L., Zimmerman, J., Doctor, S., Weedon, C., Gartland, J., Jiao, Y., Ferretti, F., and Hallerman, E.M. 2025 In Press. Recovery of Horseshoe Crabs (*Limulus polyphemus*) in the Delaware Bay Region Following Harvest Reductions. Marine and Coastal Fisheries.
+ 
  - Albery, G.F., Becker, D.J., Firth, J.A., De Moor, D., Ravindran, S., Silk, M., Sweeny, A.R., Vander Wal, E., Webber, Q., **Ferretti, F.**, et al. 2025 In Press. Density-dependent network structuring within and across wild animal systems. __*Nature Ecology & Evolution*__.
  
- - **Ferretti, F.**, Jenrette, J., Moro, S., Butner, C., Haddock, S., Jorgensen, S., Hastie, T. and Micheli, F. 2025 In Press. From data deficient to big data in shark conservation. __*Fish and Fisheries*__.
+ - **Ferretti, F.**, Jenrette, J., Moro, S., Butner, C., Haddock, S., Jorgensen, S., Hastie, T. and Micheli, F. 2025 From data deficient to big data in shark conservation. __*Fish and Fisheries*__. [View Publication](https://doi.org/10.1111/faf.70006)
 
  - Sequeira, A.M.M., Rodríguez, J.P., Marley, S.A., Calich, H.J., van der Mheen, M., VanCompernolle, M., Arrowsmith, L.M., Peel, L.R., Queiroz, N., Vedor, M., da Costa, I., Mucientes, G., Couto, A., Humphries, N.E., Abalo-Morla, S., **Ferretti, F**. et al. 2025. Global tracking of marine megafauna space use reveals how to achieve conservation targets. __*Science*__, 388: 6751. [View Publication](https://doi.org/10.1126/science.adl0239)
 

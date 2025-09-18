@@ -25,7 +25,7 @@ Journal Articles and Book Chapters
 ----------------------------------
  - Gambardella, C., Fernández-Corredor, E., Moro, S., Echwiki, K., Jenrette, J.F., Lemsi, C., Schallert, R.J., Shea, B.D., Zammit, M., Cerrano, C., Colloca, F., Romeo, T., Navarro, J. & Ferretti, F. 2025 In Press. Trophic niche overlap patitioning between the white shark (*Carcharodon carcharias*) and the shortfin mako (*Isurus oxyrinchus*) in the Central Mediterranean Sea. __*Wildlife Research*__.
  
- - Sweka, J.A., Anstead, K.A., Smith, D.R., Barry, L., Zimmerman, J., Doctor, S., Weedon, C., Gartland, J., Jiao, Y., Ferretti, F., and Hallerman, E.M. 2025 In Press. Recovery of Horseshoe Crabs (*Limulus polyphemus*) in the Delaware Bay Region Following Harvest Reductions. Marine and Coastal Fisheries.
+ - Sweka, J.A., Anstead, K.A., Smith, D.R., Barry, L., Zimmerman, J., Doctor, S., Weedon, C., Gartland, J., Jiao, Y., Ferretti, F., and Hallerman, E.M. 2025 In Press. Recovery of Horseshoe Crabs (*Limulus polyphemus*) in the Delaware Bay Region Following Harvest Reductions. __*Marine and Coastal Fisheries*__.
  
  - Albery, G.F., Becker, D.J., Firth, J.A., De Moor, D., Ravindran, S., Silk, M., Sweeny, A.R., Vander Wal, E., Webber, Q., **Ferretti, F.**, et al. 2025 In Press. Density-dependent network structuring within and across wild animal systems. __*Nature Ecology & Evolution*__. [View Publication](https://www.nature.com/articles/s41559-025-02843-z)
  

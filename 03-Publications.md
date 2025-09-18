@@ -27,7 +27,7 @@ Journal Articles and Book Chapters
  
  - Sweka, J.A., Anstead, K.A., Smith, D.R., Barry, L., Zimmerman, J., Doctor, S., Weedon, C., Gartland, J., Jiao, Y., Ferretti, F., and Hallerman, E.M. 2025 In Press. Recovery of Horseshoe Crabs (*Limulus polyphemus*) in the Delaware Bay Region Following Harvest Reductions. __*Marine and Coastal Fisheries*__.
  
- - Albery, G.F., Becker, D.J., Firth, J.A., De Moor, D., Ravindran, S., Silk, M., Sweeny, A.R., Vander Wal, E., Webber, Q., **Ferretti, F.**, et al. 2025 In Press. Density-dependent network structuring within and across wild animal systems. __*Nature Ecology & Evolution*__. [View Publication](https://www.nature.com/articles/s41559-025-02843-z)
+ - Albery, G.F., Becker, D.J., Firth, J.A., De Moor, D., Ravindran, S., Silk, M., Sweeny, A.R., Vander Wal, E., Webber, Q., **Ferretti, F.**, et al. 2025. Density-dependent network structuring within and across wild animal systems. __*Nature Ecology & Evolution*__. [View Publication](https://www.nature.com/articles/s41559-025-02843-z)
  
  - **Ferretti, F.**, Jenrette, J., Moro, S., Butner, C., Haddock, S., Jorgensen, S., Hastie, T. and Micheli, F. 2025 From data deficient to big data in shark conservation. __*Fish and Fisheries*__. [View Publication](https://doi.org/10.1111/faf.70006)
 

@@ -23,9 +23,11 @@ Publications
 
 Journal Articles and Book Chapters
 ----------------------------------
- - Gambardella, C., Fernández-Corredor, E., Moro, S., Echwiki, K., Jenrette, J.F., Lemsi, C., Schallert, R.J., Shea, B.D., Zammit, M., Cerrano, C., Colloca, F., Romeo, T., Navarro, J. & Ferretti, F. 2025 In Press. Trophic niche overlap patitioning between the white shark (*Carcharodon carcharias*) and the shortfin mako (*Isurus oxyrinchus*) in the Central Mediterranean Sea. __*Wildlife Research*__.
+ - Gambardella, C., Fernández-Corredor, E., Moro, S., Echwiki, K., Jenrette, J.F., Lemsi, C., Schallert, R.J., Shea, B.D., Zammit, M., Cerrano, C., Colloca, F., Romeo, T., Navarro, J. & Ferretti, F. 2025 In Press. Trophic niche overlap patitioning between the white shark (*Carcharodon carcharias*) and the shortfin mako (*Isurus oxyrinchus*) in the Central Mediterranean Sea. __*Wildlife Research*__, 52 (10), WR25028. [View Publication](https://connectsci.au/wr/article-abstract/52/10/WR25028/233562/Trophic-niche-partitioning-between-the-white-shark)
  
- - Sweka, J.A., Anstead, K.A., Smith, D.R., Barry, L., Zimmerman, J., Doctor, S., Weedon, C., Gartland, J., Jiao, Y., Ferretti, F., and Hallerman, E.M. 2025 In Press. Recovery of Horseshoe Crabs (*Limulus polyphemus*) in the Delaware Bay Region Following Harvest Reductions. __*Marine and Coastal Fisheries*__.
+ - Kottillil, S., Kottillil, S., Krishna, Y. C., Ferretti, F., Divya Karnad. Digital Conservation Can Fill Data Gaps in Data-Poor Regions: Case of Elasmobranchs in India. 2025. __*Aquatic Conservation: Marine and Freshwater Ecosystems*__, 35 (11): 1-16. [View Publication](https://onlinelibrary.wiley.com/doi/10.1002/aqc.70241)
+ 
+ - Sweka, J.A., Anstead, K.A., Smith, D.R., Barry, L., Zimmerman, J., Doctor, S., Weedon, C., Gartland, J., Jiao, Y., Ferretti, F., and Hallerman, E.M. 2025 In Press. Recovery of Horseshoe Crabs (*Limulus polyphemus*) in the Delaware Bay Region Following Harvest Reductions. __*Marine and Coastal Fisheries*__. [View Publication](https://research.ebsco.com/c/w5gwtr/search/details/kqkjpdqsn5?db=eih)
  
  - Albery, G.F., Becker, D.J., Firth, J.A., De Moor, D., Ravindran, S., Silk, M., Sweeny, A.R., Vander Wal, E., Webber, Q., **Ferretti, F.**, et al. 2025. Density-dependent network structuring within and across wild animal systems. __*Nature Ecology & Evolution*__. [View Publication](https://www.nature.com/articles/s41559-025-02843-z)
  

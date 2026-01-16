@@ -21,6 +21,8 @@ title: Media Outreach
 
 #### 2025
 
+ - **BBC News**  *by Victoria Gill, Kate Stephens and Gwyndaf Hughes* [Great white sharks face extinction in Mediterranean, say researchers](https://www.bbc.com/news/articles/c9qe9wvq534o?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyCMP_jan1626-fs) December 29, 2025
+ 
  - **Virginia Tech News** *by Max Esterhuizen* [AI, citizen science combine to help save sharks](https://news.vt.edu/articles/2025/07/cnre-sharkpulse.html) August 11, 2025
  
  - **Virginia Tech News** *by Felicia Spencer* [eDNA testing for sharks in the Mediterranean Sea yields fin-tastic results](https://news.vt.edu/articles/2025/07/white-sharks-in-mediterranean-flsi-jenrette-genetic-cnre-.html?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyPublicCMP_jul2225-public) July 21, 2025

@@ -18,6 +18,10 @@ title: Media Outreach
 ### News Articles
 <a name="news"></a>
 
+#### 2026
+
+ - **The Print** *Almaas Masood* [How reels and posts helped researchers document India’s rare sharks and rays](https://theprint.in/environment/reels-researchers-indias-rare-sharks-rays/2827396/) January 16, 2026
+ - **Mongabay** *Divya Kilikar* [Study explores social media as a tool to track shark and ray consumption](https://india.mongabay.com/2026/02/study-explores-social-media-as-a-tool-to-track-shark-and-ray-consumption/) February 3, 2026
 
 #### 2025
 

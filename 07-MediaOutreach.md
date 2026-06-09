@@ -20,6 +20,8 @@ title: Media Outreach
 
 #### 2026
 
+- **Curious Conversations** *Travis Williams* [‘Curious Conversations’ podcast: Francesco Ferretti talks about the unknowns of sharks](https://news.vt.edu/articles/2026/02/research-curiousconversations-Ferretti.html) February 16, 2026 
+
 - **Mongabay** *by Divya Kilikar* [Study explores social media as a tool to track shark and ray consumption](https://india.mongabay.com/2026/02/study-explores-social-media-as-a-tool-to-track-shark-and-ray-consumption/) February 3, 2026
 
  - **La Repubblca** *by Luca Fraioli* [Australia, ecco perché gli squali stanno attaccando tanto gli uomini](https://www.repubblica.it/esteri/2026/01/21/news/australia_ecco_perche_gli_squali_stanno_attaccando_tanto_gli_uomini-425108924/) January 21, 2026
@@ -30,6 +32,8 @@ title: Media Outreach
 #### 2025
 
  - **BBC News**  *by Victoria Gill, Kate Stephens and Gwyndaf Hughes* [Great white sharks face extinction in Mediterranean, say researchers](https://www.bbc.com/news/articles/c9qe9wvq534o?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyCMP_jan1626-fs) December 29, 2025
+ 
+ - **The Academic Minute** *Francesco Ferretti* [Taking the Pulse of Global Shark Populations](https://www.academicminute.org/p/francesco-ferretti-virginia-tech-de2?utm_source=publication-search) September 24, 2025
  
  - **Forbes** *by Melissa Cristina Márquez* [Unlocking The Mystery Of Mediterranean White Sharks Through Citizen Science](https://www.forbes.com/sites/melissacristinamarquez/2025/08/19/unlocking-the-mystery-of-mediterranean-white-sharks-through-citizen-science/) August 19, 2025 
  

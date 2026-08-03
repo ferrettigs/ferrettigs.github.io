@@ -323,6 +323,11 @@ title: Media Outreach
 
 ### Radio Interviews
 <a name="radio"></a>
+
+#### 2026
+
+- **The Agenda - Dubai Eye 103.8 FM** *by Katie Chambers* [The Significance of a Rare Mediterranean White Shark Sighting.](https://ferrettigs.github.io/news/2026/06/08/Dubay-Eye-Interview.html)
+
 #### 2021
 
 - **Casa Italiana Language School** *by Manuela Cavalieri* [Interview about professional activities at Virginia Tech and pressing Ocean Issues.](https://www.casaitalianaschool.org/)
@@ -339,6 +344,11 @@ title: Media Outreach
 
 ### TV Interviews and News
 <a name="video"></a>
+
+
+#### 2026
+
+ - **BBC Breakfast** *Victoria Gill* [Mediterranean White Shark Research Featured on BBC Breakfast](https://ferrettigs.github.io/news/2025/12/30/bbc-breakfast-feature.html) 
 
 #### 2025
 

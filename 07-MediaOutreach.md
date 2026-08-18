@@ -348,10 +348,12 @@ title: Media Outreach
 
 #### 2026
 
- - **BBC Breakfast** *Victoria Gill* [Mediterranean White Shark Research Featured on BBC Breakfast](https://ferrettigs.github.io/news/2025/12/30/bbc-breakfast-feature.html) 
+ - **DubayEye** *Katie Chambers* [Social Media and Radio interview about white shark scuba diving sighting in the Sicilian Channel](https://www.instagram.com/reels/DZZP_AfNA1i/)
 
 #### 2025
 
+ - **BBC Breakfast** *Victoria Gill* [Mediterranean White Shark Research Featured on BBC Breakfast](https://ferrettigs.github.io/news/2025/12/30/bbc-breakfast-feature.html) 
+ 
  - **TV Centro Marche** *News TG* [TV news interview in occasion of the Plenary lecture at International Master of Science in Marine Biological Resources (IMBRSea) Annual Symposium 2025](https://www.facebook.com/share/v/196xp9H3GG/?mibextid=wwXIfr)
  
  - **Rete 4** *With Michela Brambilla*[TV interview for the show "Dalla parte degli Animali"](https://mediasetinfinity.mediaset.it/video/dallapartedeglianimali/lo-stato-di-conservazione-dello-squalo-bianco-nel-mar-mediterraneo_F313483801020C13) January 28, 2025

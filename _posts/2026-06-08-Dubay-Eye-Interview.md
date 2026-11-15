@@ -3,7 +3,7 @@ layout: post
 title: "Interview on Dubai Eye 103.8 FM: The Significance of a Rare Mediterranean White Shark Sighting"
 date: 2026-06-08
 categories: news
-image: /assets/images/dubai-eye-thumbnail.jpg
+image: https://img.youtube.com/vi/Y8evDQK-aBw/hqdefault.jpg
 ---
 
 Following the BBC's coverage of a rare white shark sighting in the Mediterranean, I was invited to join **The Agenda** on **Dubai Eye 103.8 FM** to discuss the value of this observation.

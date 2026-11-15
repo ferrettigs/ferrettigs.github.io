@@ -3,7 +3,7 @@ layout: post
 title: "Mediterranean White Shark Research Featured on BBC Breakfast"
 date: 2025-12-30
 categories: news
-image: /assets/images/bbc-breakfast-thumbnail.jpg
+image: https://img.youtube.com/vi/Ptb7jstav18/hqdefault.jpg
 ---
 
 Our research on Mediterranean white sharks was featured in a report broadcast on **BBC Breakfast**, one of the United Kingdom's most-watched morning news programs.

@@ -9,6 +9,7 @@ title: Publications
 <nav class="navigation">
   <ul>
     <li><a href="#journals">Journal Articles and Book Chapters</a></li><!--
+    --><li><a href="#preprints">Preprints</a></li><!--
     --><li><a href="#reports">Technical Reports, Theses and Consultancy Works</a></li><!--
     --><li><a href="#policy">Policy and Public Outreach</a></li><!--
     --><li><a href="#software">Software and Data</a></li>
@@ -23,6 +24,13 @@ Publications
 
 Journal Articles and Book Chapters
 ----------------------------------
+ 
+ - Gambardella, C., Giannelli, F., Fernandez-Corredor, E., García-Barcelona, S., Jenrette, J., Moro, S., Shea, B., Colloca, F., Romeo, T., Echwikhi, K., Zammit-Chatti, M., Lemsi, C., Ferretti, F., Trucchi, E., Taboada, S. & Navarro, J. 2026. Evidence of genetic continuity in the shortfin mako shark (*Isurus oxyrinchus*) between the Eastern Atlantic and Mediterranean Sea. __*Ecology and Evolution*__, 16 (4): e73261. [View Publication](https://doi.org/10.1002/ece3.73261)
+
+ - Varini, F., Gayford, J. H., Jenrette, J., Witt, M., Garzon, F., Ferretti, F., Wilday, S., Bond, M., Heithaus, M.R., Robinson, D., Carter, D., Gumbs, N., Webster, V., and Glocker, B. 2026 SharkTrack: an accurate, generalizable software for streamlining shark and ray underwater video analysis. __*Ecological*__ Informatics, 95, 103713 [View Publication](https://doi.org/10.1016/j.ecoinf.2026.103713) 
+
+ - Crobe, V., Ferretti, F., Iacovelli, M.V., Cilli, E., Ferrari, A., Cariani, A., Bergonzini, C., Leone, A., Ariño, A.H., Bellia, E., Benocci, A., et al., and Tinti, F. 2026. Revisiting historical diversity of sawfishes (Pristidae) in the Mediterranean Sea using natural history collections. __*Zoological Journal of the Linnean Society*__, 206 (2), p.zlag023.
+ 
  - Gambardella, C., Fernández-Corredor, E., Moro, S., Echwiki, K., Jenrette, J.F., Lemsi, C., Schallert, R.J., Shea, B.D., Zammit, M., Cerrano, C., Colloca, F., Romeo, T., Navarro, J. & Ferretti, F. 2025 In Press. Trophic niche overlap patitioning between the white shark (*Carcharodon carcharias*) and the shortfin mako (*Isurus oxyrinchus*) in the Central Mediterranean Sea. __*Wildlife Research*__, 52 (10), WR25028. [View Publication](https://connectsci.au/wr/article-abstract/52/10/WR25028/233562/Trophic-niche-partitioning-between-the-white-shark)
  
  - Kottillil, S., Kottillil, S., Krishna, Y. C., Ferretti, F., Divya Karnad. Digital Conservation Can Fill Data Gaps in Data-Poor Regions: Case of Elasmobranchs in India. 2025. __*Aquatic Conservation: Marine and Freshwater Ecosystems*__, 35 (11): 1-16. [View Publication](https://onlinelibrary.wiley.com/doi/10.1002/aqc.70241)
@@ -35,20 +43,14 @@ Journal Articles and Book Chapters
 
  - Sequeira, A.M.M., Rodríguez, J.P., Marley, S.A., Calich, H.J., van der Mheen, M., VanCompernolle, M., Arrowsmith, L.M., Peel, L.R., Queiroz, N., Vedor, M., da Costa, I., Mucientes, G., Couto, A., Humphries, N.E., Abalo-Morla, S., **Ferretti, F**. et al. 2025. Global tracking of marine megafauna space use reveals how to achieve conservation targets. __*Science*__, 388: 6751. [View Publication](https://doi.org/10.1126/science.adl0239)
 
- - Shea, B., Chapple, TK., Echwikhi, K., Gambardella, C., Jenrette, J., Moro, S., Schallert, R.J., Block, B., and **Ferretti, F.** 2024. First satellite track of a juvenile shortfin mako (Isurus oxyrinchus) in the Mediterranean Sea. __*Frontiers of Marine Science*__, 11: 1423507. [View Publication](https://doi.org/10.3389/fmars.2024.1423507) 
+ - Shea, B., Chapple, TK., Echwikhi, K., Gambardella, C., Jenrette, J., Moro, S., Schallert, R.J., Block, B., and **Ferretti, F.** 2024. First satellite track of a juvenile shortfin mako (*Isurus oxyrinchus*) in the Mediterranean Sea. __*Frontiers of Marine Science*__, 11: 1423507. [View Publication](https://doi.org/10.3389/fmars.2024.1423507) 
  
  - Williamson, M., Tebbs, E., Curnick, D., **Ferretti, F.**, Carlisle, A., Chapple, T., Schallert, R., Tickler, D., Block, B., Jacoby, D. 2024. Environmental stress and its impact on shark residency to coral reefs. __*Communication Biology*__, 7(1): 1018. 
  
  - **Ferretti**, F., Shea, B., Jenrette, J., Moro, S., Gambardella, C., Echwikhi, K., Schallert, R., Gallagher, A., Block, B. and Chapple, T. 2024. On the tracks of White Sharks in the Mediterranean Sea. __*Frontiers of Marine Science*__, 11: 1425511. [View Publication](https://doi.org/10.3389/fmars.2024.1425511)
  
- - Varini, F., Gayford, J. H., Jenrette, J., Witt, M., Garzon, F., **Ferretti, F.**, Wilday, S., Bond, M., Heithaus, M.R., Robinson, D., Carter, D., Gumbs, N., Webster, V., and Glocker, B. 2024. SharkTrack: an accurate, generalizable software for streamlining shark and ray underwater video analysis. __*arXiv*__ preprint arXiv:2407.20623.
- 
- - Albery, G. F., Becker, D. J., Firth, J. A., Silk, M., Sweeny, A. R., **Ferretti, F.** ... & Bansal, S. 2024. Density-dependent network structuring within and across wild animal systems. __*bioRxiv*__, 2024-06.
- 
  -  Panunzi, G., Moro, S., Marques, I., Martino, S., **Ferretti, F.**, Lasinio, G. 2024. Integration of data sources to estimate the abundance of rare and elusive species: a case study on the Mediterranean white shark population. __*Environmetrics*__. [View Publication](https://doi.org/10.1002/env.2876)
  
- - Kottillil, S. and Kottillil, S. and Krishna, Y. C. and **Ferretti, F.** and Karnad, D., Digital Conservation Can Fill Data Gaps in Data-Poor Regions: Case of Elasmobranchs in India. __*SSRN*__ [View Publication](http://dx.doi.org/10.2139/ssrn.4897488)
-
  - Araujo, G., Bohm, M., **Ferretti, F.**, Fowler, S., Huveneers, C., Jabado, R., Peddemors, V.,  Schaber, M., Simpfendorfer, C.,  Wosnick N. 2024. Position Statement on Shark Control Programs and Shark Culls. __*Shark News*__, 9: 167-169.
 
  - McDevitt-Irwin, J.M., McCauley, D.J., Brumbaugh, D.R, Elmer, F., Ferretti, F., White, T.D., Wible, JG., Micheli, F. 2023. Dynamic interplay: disentangling the temporal variability of fish effects on coral recruitment. Scientific Reports, 13, 20971. [View Publication](https://doi.org/10.1038/s41598-023-47758-6)
@@ -103,8 +105,6 @@ __*Nature*__ 595, E8-E16. [View Publication](https://www.nature.com/articles/s41
 
  - **Ferretti, F.**, Jacoby, D., Pfleger, M., White, T., Dent, F., Micheli, F., Rosenberg, A., Crowder, L., Block, B. 2020. Shark Fin Trade Bans and Sustainable Shark Fisheries.  __*Conservation Letters*__ [View publication](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12708).
  
- - Williamson, MJ., Tebbs, E.J., Dawson, T.P., Curnick, D.J., **Ferretti, F.**, Carlisle, A.B., Chapple, T.K., Schallert, R.J., Tickler, D.M, Block, B. A., and Jacoby, D.M. 2020. Gap analysis of acoustic tracking data reveals spatial and temporal segregation in sympatric reef sharks. Research Square Preprint. [View publication](https://doi.org/10.21203/rs.2.19727/v1).
-
  - Bargnesi, F., Gridelli, S., Cerrano, C., and **Ferretti, F.**. 2020. Reconstructing the history and ecology of the sand tiger shark (*Carcharias taurus*) in the Mediterranean Sea. __*Aquatic Conservation: Marine and Freshwater Ecosystems*__ [View publication](https://onlinelibrary.wiley.com/doi/abs/10.1002/aqc.3301).
 
  - Leone, A., Puncher, G.N., **Ferretti, F** et al. 2020. Pliocene colonization of the Mediterranean by Great White Shark inferred from fossil records, historical jaws, phylogeographic and divergence time analyses. __*Journal of Biogeography*__ [View publication](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13794).
@@ -218,6 +218,8 @@ __*Nature*__ 595, E8-E16. [View Publication](https://www.nature.com/articles/s41
 
 - **Ferretti, F.**, B. Worm, G. Britten, M. Heithaus and H. Lotze. 2010. Patterns of shark decline and ecosystem consequences in the ocean. __*Ecology Letters*__, 13: 1055-1071. [View Publication](assets/Ferretti_et_al-2010-Ecology_Letters.pdf)
 
+- Serena, F., Mancusi, C. and Barone, M. (eds). 2010. Guida pratica di identificazione delle razze del Mar Mediterraneo. Field identification guide to the skates (Rajidae) of the Mediterranean Sea. Guidelines for data collection and analysis. __*Biologia Marina Mediterranea*__, 17 (Suppl. 2): 204 pp.
+
 - Romeo T., **F. Ferretti**, P. Consoli and F. Andaloro. 2009. Assessment of the Mediterranean swordfish based on the Italian harpoon fishery data. __*ICES CM*__ 2008/K:16, 1-14. [View Publication](http://www.ices.dk/sites/pub/CM%20Doccuments/CM-2008/K/K1608.pdf) 
 
 - **Ferretti, F.**, R.A. Myers, F. Serena and H.K. Lotze. 2008. Loss of large predatory sharks from the Mediteranean Sea. __*Conservation Biology*__, 22(4): 952-964.[View Publication](Ferretti.etal.2008.pdf)<br>
@@ -233,15 +235,55 @@ __*Nature*__ 595, E8-E16. [View Publication](https://www.nature.com/articles/s41
 
 - Serena F. et al. 2008. Field identification guide to the Rays of the Mediterranean Sea. Guidelines for data collection and analysis. Societa' Italiana di Biologia Marina, comitato nekton e pesca, Gruppo Nazionale Risorse Demersali, Mediterranean Trawl Surveys. Livorno, Italy, (in Italian). [View Publication](assets/Serena.etal.2008Rays.pdf)
 
+- Serena, F., Mancusi, C., Vacchi, M., Abella, J.A., Barone, M., Belluscio, A., Carbonara, P., **Ferretti, F.**, Fiorentino, F. and Follesa, M.C. 2006. Standardizzazione delle metodiche di determinazione specifica e valutazione degli stocks delle razze. __*Società Italiana di Biologia Marina — Comitato Necton e Pesca, Gruppo Nazionale Risorse Demersali*__. Grosseto, Italy.
+
 - **Ferretti, F.** and R.A. Myers. 2006. By-Catch of sharks in the Mediterranean Sea: available mitigation tools. In: __*Proceedings of the Workshop on the Mediterranean Cartilaginous Fish with emphasis on Southern and Eastern Mediterranean*__, Istanbul, Turkey. 158-169. [View Publication](Basusta.etal.2006.pdf)
 
 - **Ferretti, F.**, R.A. Myers, P. Sartor and F. Serena. 2005. Long Term Dynamics of the Chondrichthyan Fish Community in the Upper Tyrrhenian Sea. __*ICES CM*__ 2005/N:25, 1-25. [View Publication](http://www.ices.dk/sites/pub/CM%20Doccuments/2005/N/N2505.pdf)
+
+
+<a name="preprints"></a>
+
+Preprints
+---------
+
+- Jenrette, J., Agustines, A., Spencer, E.T., Schallert, R., Varini, F., Arnoldi, N., Madigan, D., White, T., Koller, K., Berglund, J., Kinzer, D., Block, B., Kalid, S. and **Ferretti, F.** Accelerating shark video surveys with AI and automated workflows. __*SSRN*__ 6678522.
+
+- Jia, I.L. and **Ferretti, F.** 2025. Rising from the depths: recent abundance and distribution trends of the bluntnose sixgill shark (*Hexanchus griseus*) in the Mediterranean Sea. __*bioRxiv*__. [View Publication](https://doi.org/10.1101/2025.07.04.663171)
+
+- Varini, F., Gayford, J. H., Jenrette, J., Witt, M., Garzon, F., **Ferretti, F.**, Wilday, S., Bond, M., Heithaus, M.R., Robinson, D., Carter, D., Gumbs, N., Webster, V., and Glocker, B. 2024. SharkTrack: an accurate, generalizable software for streamlining shark and ray underwater video analysis. __*arXiv*__ preprint arXiv:2407.20623.
+
+- Albery, G. F., Becker, D. J., Firth, J. A., Silk, M., Sweeny, A. R., **Ferretti, F.** ... & Bansal, S. 2024. Density-dependent network structuring within and across wild animal systems. __*bioRxiv*__, 2024-06.
+
+- Kottillil, S. and Kottillil, S. and Krishna, Y. C. and **Ferretti, F.** and Karnad, D., Digital Conservation Can Fill Data Gaps in Data-Poor Regions: Case of Elasmobranchs in India. __*SSRN*__ [View Publication](http://dx.doi.org/10.2139/ssrn.4897488)
+
+- Williamson, MJ., Tebbs, E.J., Dawson, T.P., Curnick, D.J., **Ferretti, F.**, Carlisle, A.B., Chapple, T.K., Schallert, R.J., Tickler, D.M, Block, B. A., and Jacoby, D.M. 2020. Gap analysis of acoustic tracking data reveals spatial and temporal segregation in sympatric reef sharks. Research Square Preprint. [View publication](https://doi.org/10.21203/rs.2.19727/v1).
 
 
 <a name="reports"></a>
 
 Technical Reports, Theses and Consultancy Works
 -----------------------------------------------
+
+- Lai, A., Jiao, Y., and **Ferretti, F.** 2026. *Results of the 2025 Horseshoe Crab Trawl Survey*. **Report to the Atlantic States Marine Fisheries Commission Horseshoe Crab and Delaware Bay Ecology Technical Committees**. 38 pp.
+
+- Lai, A., Jiao, Y., and **Ferretti, F.** 2025. *Results of the 2024 Horseshoe Crab Trawl Survey*. **Report to the Atlantic States Marine Fisheries Commission Horseshoe Crab and Delaware Bay Ecology Technical Committees**. 38 pp.
+
+- Jiao, Y., **Ferretti, F.**, and Hallerman, E. 2024. *Results of the 2023 Horseshoe Crab Trawl Survey*. **Report to the Atlantic States Marine Fisheries Commission Horseshoe Crab and Delaware Bay Ecology Technical Committees**. 30 pp.
+
+- **Ferretti, F.** 2024. *Developing Analytical, Technological, and Policy Tools to Combat IUU Fishing*. **Report to the Bertarelli Foundation Marine Science Program**.
+
+- Gee, E., Romanov, E.V., Curnick, D., Block, B.A., and **Ferretti, F.** 2024. *Ecological Interactions Between 19 Shark Species in the Indian Ocean*. **Indian Ocean Tuna Commission, Working Party on Ecosystems and Bycatch (WPEB)**, Meeting document IOTC-2024-WPEB20(AS)-30.
+
+- **Ferretti, F.**, Echwikhi, K., Schallert, R., Chapple, T., Carvalho, F., Shea, B., ... Block, B. 2023. *White Shark Chase 2023 – Tunisia*. **Report to the Augmentum Foundation**.
+
+- Gee, E., Romanov, E.V., Curnick, D., Block, B. and **Ferretti, F.** 2023. *Historical standardized CPUEs of seven shark species in the Indian Ocean with preliminary catch estimation*. **IOTC 19th Working Party on Ecosystems & Bycatch**, IOTC-2023-WPEB19-20, La Saline Les Bains, Réunion, France.
+
+- **Ferretti, F.** 2018. *Quality Evaluation of DCF Data for Data Limited Information*. **Report for the Joint Research Centre and the Scientific, Technical and Economic Committee for Fisheries (STECF) of the European Commission**. Pacific Grove, CA; 851 pp.
+
+- Senni, D., Bastari, A., Cerrano, C., Micheli, F. and **Ferretti, F.** 2018. *Deep water essential fish habitats and sensitive habitats in the South Adriatic*. **Proposal for GFCM fisheries restricted areas (FRAs) in the Mediterranean and Black Sea**. MEDREACT, Rome; 41 pp.
+
+- Senni, D., Bastari, A., Cerrano, C., Micheli, F., **Ferretti, F.**, and Elahi, R. 2017. *Essential Fish Habitats in the Central Adriatic Jabuka/Pomo Pit*. **Proposal for GFCM fisheries restricted areas (FRAs) in the Mediterranean and Black Sea**. MEDREACT, Rome; 41 pp.
 
 - Cerrano, C., Bakran-Petricioli, T., Bastari, A., Fraschetti, S., Huete-Stauffer, C., **Ferretti, F.**, Micheli, F., Ponti, M., Pusceddu, A., & Valisano, L. 2016. Adriatic Sea: Description of the ecology and identification of the areas that may deserve to be protected. Cebrian, D. & Requena, S. (eds.), RAC/SPA, Tunis; 92 pp. [View Publication](assets/Cerrano.etal.2016.pdf)
 
@@ -283,7 +325,7 @@ Technical Reports, Theses and Consultancy Works
 
 - Notarbartolo di Sciara, G., Serena, F., Ungaro, N., **Ferretti, F.**, Holtzhausen, H.A. and Smale, M.J. 2009. *Tetronarce nobiliana*. **The IUCN Red List of Threatened Species 2009**: e.T161580A5456479. [View Publication](http://dx.doi.org/10.2305/IUCN.UK.2009-2.RLTS.T161580A5456479.en)
 
-- **Ferretti F.** 2003. Comportamento alimentare di Chimaera monstrosa nei fondi batiali Liguri. **Laurea Thesis**. Polytechnic University of Marche, Ancona, Italy (in Italian).
+- **Ferretti F.** 2003. Comportamento alimentare di *Chimaera monstrosa* nei fondi batiali Liguri. **Laurea Thesis**. Polytechnic University of Marche, Ancona, Italy (in Italian).
 
 <a name="policy"></a>
 
@@ -308,6 +350,8 @@ Policy and Public Outreach
 
 Software and Data
 ------------------
+- **Ferretti, F.**, Jenrette, J. and Moro, S. 2024. sharkPulseR: Scripts to Manipulate, Extract, Visualize and Analyze sharkPulse Data. [https://github.com/sharkPulse/sharkPulseR](https://github.com/sharkPulse/sharkPulseR)
+
 - **Ferretti, F.** (Editor). 2022. sharkPulse: taking the pulse of global shark population. World Wide Web publication. [http:/sharkpulse.org](http:/sharkpulse.org)
 
 - Novaglio, C.*, Smith, A.D.M., Frusher, S., **Ferretti, F.** and Klaer, N. 2015. Bottom trawl surveys: catch and effort data for South East Australia between 1898 and 1996. MarLIN database. Available at 

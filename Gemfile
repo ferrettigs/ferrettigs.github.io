@@ -9,3 +9,7 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 gem "jekyll", "~> 4.0"
 
 gem "jekyll-twitter-plugin", "~> 2.0"
+
+gem "logger", "~> 1.7"
+
+gem "ostruct", "~> 0.6.3"
